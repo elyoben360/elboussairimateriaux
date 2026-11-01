@@ -16,7 +16,8 @@
         "name": "Agglo béton",
         "dimension": "20 × 20 × 50 cm"
       }
-    ]
+    ],
+    "slug": "agglos-beton"
   },
   {
     "work": "Gros œuvre",
@@ -31,7 +32,8 @@
         "name": "Brique rouge B10",
         "dimension": "Dimensions à confirmer"
       }
-    ]
+    ],
+    "slug": "briques-rouges"
   },
   {
     "work": "Gros œuvre",
@@ -50,7 +52,37 @@
         "name": "Hourdis béton",
         "dimension": "20 × 20 × 52 cm"
       }
-    ]
+    ],
+    "slug": "hourdis-beton"
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Panneaux et cloisons",
+    "product": "Panneaux muraux",
+    "slug": "panneaux-muraux",
+    "variants": [
+      {
+        "name": "Panneau mural",
+        "dimension": "7 cm"
+      },
+      {
+        "name": "Panneau mural",
+        "dimension": "10 cm"
+      },
+      {
+        "name": "Panneau mural",
+        "dimension": "15 cm"
+      }
+    ],
+    "facts": [
+      "Épaisseurs : 7 · 10 · 15 cm",
+      "Modèle photographié : 10 cm",
+      "Pose par panneaux après la structure",
+      "Découpes pour passages de plomberie et d’électricité"
+    ],
+    "image": "/assets/depot/panneaux-muraux-stock-10cm-560.webp",
+    "page": "/materiaux/panneaux-muraux/",
+    "note": "Usage et mise en œuvre selon la fiche technique du fabricant."
   },
   {
     "work": "Gros œuvre",
@@ -65,7 +97,13 @@
         "name": "Ciment CPJ 45",
         "dimension": "Conditionnement à préciser"
       }
-    ]
+    ],
+    "slug": "ciments",
+    "facts": [
+      "CPJ 35 · CPJ 45",
+      "Commande au sac, à la tonne ou à la palette"
+    ],
+    "image": "/assets/depot/stock-ciment-holcim-560.webp"
   },
   {
     "work": "Gros œuvre",
@@ -100,7 +138,15 @@
         "name": "Fer à béton HLE",
         "dimension": "Ø 20 mm"
       }
-    ]
+    ],
+    "slug": "fer-a-beton",
+    "facts": [
+      "T06 · T08 · T10 · T12 · T14 · T16 · T20",
+      "Barres de 12 m",
+      "Conditionnement en fardeaux"
+    ],
+    "image": "/assets/depot/arrivage-fer-beton-sonasid-560.webp",
+    "page": "/materiaux/fer-a-beton/"
   },
   {
     "work": "Gros œuvre",
@@ -115,7 +161,13 @@
         "name": "Treillis soudé",
         "dimension": "5 × 3,5 / 20 × 20 / 600 × 220 DF"
       }
-    ]
+    ],
+    "slug": "treillis-soudes",
+    "facts": [
+      "Panneaux de treillis",
+      "Références et dimensions au choix"
+    ],
+    "image": "/assets/depot/treillis-soudes-stock-560.webp"
   },
   {
     "work": "Gros œuvre",
@@ -138,7 +190,8 @@
         "name": "Fil recuit JP",
         "dimension": "8"
       }
-    ]
+    ],
+    "slug": "accessoires-armatures"
   },
   {
     "work": "Gros œuvre",
@@ -153,7 +206,8 @@
         "name": "Élément PE",
         "dimension": "20 B.120 R.070 Z.045 LG1"
       }
-    ]
+    ],
+    "slug": "elements-pe"
   },
   {
     "work": "Gros œuvre",
@@ -184,7 +238,8 @@
         "name": "Poutrelle précontrainte",
         "dimension": "156 PS"
       }
-    ]
+    ],
+    "slug": "poutrelles-precontraintes"
   },
   {
     "work": "Gros œuvre",
@@ -199,7 +254,13 @@
         "name": "Madrier",
         "dimension": "MAD 400"
       }
-    ]
+    ],
+    "slug": "madriers",
+    "facts": [
+      "Longueurs : 3 m · 4 m",
+      "Bois de coffrage"
+    ],
+    "image": "/assets/depot/arrivage-madriers-coffrage-560.webp"
   },
   {
     "work": "Gros œuvre",
@@ -234,7 +295,8 @@
         "name": "Autre agrégat",
         "dimension": "Référence ou granulométrie libre"
       }
-    ]
+    ],
+    "slug": "agregats"
   },
   {
     "work": "Second œuvre",
@@ -249,7 +311,13 @@
         "name": "Ciment-colle",
         "dimension": "Webercol Classic blanc · sac"
       }
-    ]
+    ],
+    "slug": "ciments-colles",
+    "facts": [
+      "Bostik Tradicem · Webercol Classic",
+      "Sacs · palettes"
+    ],
+    "image": "/assets/depot/bostik-tradicem-x-mortier-colle-560.webp"
   },
   {
     "work": "Second œuvre",
@@ -276,7 +344,13 @@
         "name": "Sopralène Flam Jardin Cap",
         "dimension": "8 × 1 m"
       }
-    ]
+    ],
+    "slug": "membranes-bitumineuses",
+    "facts": [
+      "Membranes en rouleaux",
+      "Épaisseurs et finitions au choix"
+    ],
+    "image": "/assets/depot/bitume-rouleaux-etancheite-560.webp"
   },
   {
     "work": "Second œuvre",
@@ -287,7 +361,8 @@
         "name": "Emufal Solid",
         "dimension": "25 kg"
       }
-    ]
+    ],
+    "slug": "produits-detancheite"
   },
   {
     "work": "Second œuvre",
@@ -295,14 +370,20 @@
     "product": "Polystyrène",
     "variants": [
       {
-        "name": "Polystyrène",
-        "dimension": "100 × 50 × 2 cm"
+        "name": "Polystyrène en sac de 0,5 m³",
+        "dimension": "2 cm"
       },
       {
-        "name": "Polystyrène",
-        "dimension": "100 × 50 × 4 cm"
+        "name": "Polystyrène en sac de 0,5 m³",
+        "dimension": "4 cm"
       }
-    ]
+    ],
+    "slug": "polystyrene",
+    "facts": [
+      "Sacs de 0,5 m³",
+      "Épaisseurs : 2 cm et 4 cm"
+    ],
+    "image": "/assets/depot/chargement-panneaux-blancs-560.webp"
   },
   {
     "work": "Second œuvre",
@@ -313,7 +394,13 @@
         "name": "Film polyéthylène",
         "dimension": "Épaisseur à préciser"
       }
-    ]
+    ],
+    "slug": "films-de-protection",
+    "facts": [
+      "Film polyéthylène / polyane",
+      "Épaisseur à préciser à la commande"
+    ],
+    "image": "/assets/depot/film-polyane-rouleaux-560.webp"
   },
   {
     "work": "Second œuvre",
@@ -327,6 +414,23 @@
       {
         "name": "Baguette d’angle",
         "dimension": "Dimension à préciser"
+      }
+    ],
+    "slug": "accessoires-de-finition"
+  },
+  {
+    "work": "Second œuvre",
+    "family": "Quincaillerie",
+    "product": "Pointes",
+    "slug": "pointes",
+    "variants": [
+      {
+        "name": "Pointe JP08",
+        "dimension": "JP08"
+      },
+      {
+        "name": "Pointe JP10",
+        "dimension": "JP10"
       }
     ]
   }

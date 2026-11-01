@@ -1,0 +1,92 @@
+[
+  {
+    "work": "Gros œuvre",
+    "family": "Panneaux et cloisons",
+    "product": "Panneaux muraux",
+    "slug": "panneaux-muraux",
+    "variants": [
+      {
+        "name": "Panneau mural",
+        "dimension": "7 cm"
+      },
+      {
+        "name": "Panneau mural",
+        "dimension": "10 cm"
+      },
+      {
+        "name": "Panneau mural",
+        "dimension": "15 cm"
+      }
+    ],
+    "facts": [
+      "Épaisseurs : 7 · 10 · 15 cm",
+      "Modèle photographié : 10 cm",
+      "Pose par panneaux après la structure",
+      "Découpes pour passages de plomberie et d’électricité"
+    ],
+    "image": "/assets/depot/panneaux-muraux-stock-10cm-560.webp",
+    "page": "/materiaux/panneaux-muraux/",
+    "note": "Usage et mise en œuvre selon la fiche technique du fabricant.",
+    "description": "Panneaux pour cloisons et murs de remplissage, en alternative à la maçonnerie en blocs selon le projet.",
+    "photos": [
+      "panneaux-muraux-stock-10cm",
+      "panneaux-cloisons-interieures",
+      "panneaux-muraux-coupe",
+      "panneaux-murs-remplissage",
+      "panneaux-muraux-chantier"
+    ],
+    "title": "Panneaux muraux 7, 10 et 15 cm",
+    "meta": "Panneaux muraux pour cloisons et remplissage : épaisseurs 7, 10 et 15 cm, modèle photographié 10 cm. Photos de pose et demande de fourniture."
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Acier et armatures",
+    "product": "Fer à béton HLE",
+    "variants": [
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 6 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 8 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 10 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 12 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 14 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 16 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 20 mm"
+      }
+    ],
+    "slug": "fer-a-beton",
+    "facts": [
+      "T06 · T08 · T10 · T12 · T14 · T16 · T20",
+      "Barres de 12 m",
+      "Conditionnement en fardeaux"
+    ],
+    "image": "/assets/depot/arrivage-fer-beton-sonasid-560.webp",
+    "page": "/materiaux/fer-a-beton/",
+    "description": "Rond à béton pour vos approvisionnements de chantier.",
+    "photos": [
+      "arrivage-fer-beton-sonasid",
+      "fardeaux-rond-beton-12m",
+      "barres-fer-beton-depot"
+    ],
+    "title": "Fer à béton T06 à T20 · barres de 12 m",
+    "meta": "Fer à béton T06 à T20 en barres de 12 m et fardeaux. Photos de nos arrivages au dépôt, choix du diamètre et demande de livraison."
+  }
+]

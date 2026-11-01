@@ -8,8 +8,8 @@
     "category": "Évolution des prix",
     "date": "2026-11-01",
     "event_period": "Septembre 2026 · note publiée le 30 octobre 2026",
-    "cover": "/assets/editorial/indices-septembre-2026.svg",
-    "cover_alt": "Repères HCP : minéraux non métalliques +0,6 %, métallurgie −0,4 %, variation mensuelle en septembre 2026",
+    "cover": "/assets/depot/treillis-soudes-stock.webp",
+    "cover_alt": "Treillis soudés de notre dépôt, illustration du thème des matériaux.",
     "sections": [
       {
         "title": "Deux évolutions à distinguer",
@@ -74,10 +74,15 @@
     "approvals": {
       "site": {
         "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
-        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Note primaire HCP lue : date du 30/10/2026, variations mensuelles de septembre et périmètres sectoriels vérifiés.",
-        "digest": "e34315808eba5c94a04ab4329bed40d08032a13268690fb030b435f227678376"
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Note primaire HCP lue : date du 30/10/2026, variations mensuelles de septembre et périmètres sectoriels vérifiés. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique.",
+        "digest": "f5a0cced90ccb52cde55435fb533907e069c97d561c4b07ddb42f7656040353b"
       }
-    }
+    },
+    "cover_caption": "Photo de notre dépôt · Illustration thématique des matériaux, sans représentation d’un événement statistique.",
+    "cover_width": 810,
+    "cover_height": 1440,
+    "cover_credit": "© El Boussairi Matériaux",
+    "updated_on": "2026-11-01"
   },
   {
     "id": "nador-west-med-31-octobre-2026",
@@ -88,8 +93,8 @@
     "category": "Transport de marchandises et logistique",
     "date": "2026-11-01",
     "event_period": "31 octobre 2026 · lancement des opérations du terminal Est",
-    "cover": "/assets/editorial/ports-octobre-2026.svg",
-    "cover_alt": "Illustration éditoriale du lancement des opérations du terminal Est de Nador West Med, le 31 octobre 2026",
+    "cover": "/assets/depot/camion-grue-palfinger.webp",
+    "cover_alt": "Camion-grue de notre activité, illustration du thème de la logistique.",
     "sections": [
       {
         "title": "Une première étape opérationnelle",
@@ -159,10 +164,15 @@
     "approvals": {
       "site": {
         "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
-        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Dépêche signée MAP lue sur Médias24 : publication 31/10/2026 17h20, mise à jour 18h56 ; lancement le 31, premier déchargement, 1 520 mètres, capacité 3,5 millions à horizon 2030 et terminal Ouest prévu avril 2027. Communiqué officiel Maroc.ma du 28 octobre lu pour le contexte, sans le présenter comme recoupement indépendant.",
-        "digest": "bef862f5806c074c0aed8cc13e99eb283471ffb140c81cab5132079be6a99f6c"
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Dépêche signée MAP lue sur Médias24 : publication 31/10/2026 17h20, mise à jour 18h56 ; lancement le 31, premier déchargement, 1 520 mètres, capacité 3,5 millions à horizon 2030 et terminal Ouest prévu avril 2027. Communiqué officiel Maroc.ma du 28 octobre lu pour le contexte, sans le présenter comme recoupement indépendant. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique.",
+        "digest": "b3113ebaca9e1320255a93a6f22b34c3bce59f2f88181d5bba8493e20d2a912d"
       }
-    }
+    },
+    "cover_caption": "Photo de notre activité · Illustration logistique ; ce cliché ne représente pas le port de Nador West Med.",
+    "cover_width": 1171,
+    "cover_height": 1343,
+    "cover_credit": "© El Boussairi Matériaux",
+    "updated_on": "2026-11-01"
   },
   {
     "id": "depf-ciment-troisieme-trimestre-2026",
@@ -173,8 +183,8 @@
     "category": "Ciment et béton",
     "date": "2026-11-01",
     "event_period": "Juillet à septembre 2026 pour le bilan trimestriel ; janvier à septembre 2026 pour le cumul et les segments. Note DEPF n° 356 publiée le 26 octobre 2026.",
-    "cover": "/assets/editorial-cover.svg",
-    "cover_alt": "Illustration éditoriale abstraite du journal BTP, en bleu marine et doré ; aucune photographie de chantier.",
+    "cover": "/assets/depot/stock-ciment-holcim.webp",
+    "cover_alt": "Ciment sur palettes dans notre dépôt, illustration du thème du ciment.",
     "sections": [
       {
         "title": "Les faits : une progression trimestrielle qui se poursuit",
@@ -244,8 +254,195 @@
     "approvals": {
       "site": {
         "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
-        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : PDF officiel téléchargé avec succès (HTTP 200, 7 531 507 octets) et section BTP page 32 lue intégralement. Portail ministériel : publication le 26/10/2026. Trimestres et cumul distingués ; pourcentages, segments et périodes recoupés dans l’article complet de La Vie éco, signé avec MAP, publié le 26/10 à 18h23. Source primaire utilisée ; aucune validation humaine déclarée. Sujet trimestriel distinct de l’IPPI et du port déjà publiés.",
-        "digest": "04d94cbadc5189f5daeafaf6be28631cf94dc0d23aefb8df1738e56c92de24c9"
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : PDF officiel téléchargé avec succès (HTTP 200, 7 531 507 octets) et section BTP page 32 lue intégralement. Portail ministériel : publication le 26/10/2026. Trimestres et cumul distingués ; pourcentages, segments et périodes recoupés dans l’article complet de La Vie éco, signé avec MAP, publié le 26/10 à 18h23. Source primaire utilisée ; aucune validation humaine déclarée. Sujet trimestriel distinct de l’IPPI et du port déjà publiés. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique.",
+        "digest": "b2db05f886d3e812272145abfc8cec49cbbdb48119f0345385beeffed8fc1812"
+      }
+    },
+    "cover_caption": "Photo de notre dépôt · Illustration du thème du ciment, sans lien avec une livraison statistiquement recensée.",
+    "cover_width": 1440,
+    "cover_height": 810,
+    "cover_credit": "© El Boussairi Matériaux",
+    "updated_on": "2026-11-01"
+  },
+  {
+    "id": "produit-panneaux-muraux",
+    "slug": "panneaux-muraux-stock-et-pose-en-images",
+    "title": "Panneaux muraux : du stock à la pose en images",
+    "summary": "7, 10 et 15 cm : découvrez les panneaux muraux et les vues de pose de notre activité.",
+    "category": "Innovations et tendances",
+    "photo_ids": [
+      "panneaux-muraux-stock-10cm",
+      "panneaux-cloisons-interieures",
+      "panneaux-muraux-coupe",
+      "panneaux-murs-remplissage",
+      "panneaux-muraux-chantier"
+    ],
+    "sections": [
+      {
+        "title": "Trois épaisseurs proposées",
+        "paragraphs": [
+          "La gamme comprend les épaisseurs 7, 10 et 15 cm. Le panneau présenté sur nos photographies est le modèle de 10 cm."
+        ]
+      },
+      {
+        "title": "Des passages de réseaux par découpe",
+        "paragraphs": [
+          "Les panneaux sont mis en place après la structure, pour les cloisons et murs de remplissage selon le projet. Les passages destinés à la plomberie et à l’électricité peuvent être préparés par découpe, suivant les prescriptions du fabricant."
+        ]
+      },
+      {
+        "title": "Préparer votre demande",
+        "paragraphs": [
+          "Indiquez l’épaisseur, la quantité et le chantier. Nous confirmons la référence, les conditions de pose applicables et les modalités de fourniture."
+        ]
+      }
+    ],
+    "status": "published",
+    "date": "2026-11-01",
+    "updated_on": "2026-11-01",
+    "kind": "Notre activité",
+    "event_period": "Photographies de notre activité — date de prise de vue non renseignée",
+    "cover": "/assets/depot/panneaux-muraux-stock-10cm.webp",
+    "cover_alt": "Panneaux muraux de 10 cm conditionnés sur palette.",
+    "cover_caption": "Photographie originale de notre travail, fournie par le propriétaire.",
+    "cover_width": 960,
+    "cover_height": 1280,
+    "cover_credit": "© El Boussairi Matériaux",
+    "sources": [
+      {
+        "title": "Notre fiche produit et les informations communiquées par le propriétaire",
+        "url": "https://elboussairimateriaux.com/materiaux/panneaux-muraux/",
+        "date": "2026-11-01"
+      }
+    ],
+    "source_note": "Contenu de première main : informations et photographies fournies par le propriétaire. Cette fiche décrit notre activité et ne constitue pas une étude du marché.",
+    "verified": true,
+    "verification": {
+      "checked_on": "2026-11-01",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "Photographies inspectées et caractéristiques explicitement communiquées par le propriétaire dans cette conversation. Date de prise de vue non déduite."
+    },
+    "instagram": {
+      "caption": "Panneaux muraux : du stock à la pose en images",
+      "slides": [
+        {
+          "title": "Panneaux muraux : du stock à la pose en images",
+          "body": "7, 10 et 15 cm : découvrez les panneaux muraux et les vues de pose de notre activité."
+        },
+        {
+          "title": "Trois épaisseurs proposées",
+          "body": "La gamme comprend les épaisseurs 7, 10 et 15 cm. Le panneau présenté sur nos photographies est le modèle de 10 cm."
+        },
+        {
+          "title": "Des passages de réseaux par découpe",
+          "body": "Les panneaux sont mis en place après la structure, pour les cloisons et murs de remplissage selon le projet. Les passages destinés à la plomberie et à l’électricité peuvent être préparés par découpe, suivant les prescriptions du fabricant."
+        },
+        {
+          "title": "Préparer votre demande",
+          "body": "Indiquez l’épaisseur, la quantité et le chantier. Nous confirmons la référence, les conditions de pose applicables et les modalités de fourniture."
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "elboussairimateriaux.com"
+        }
+      ]
+    },
+    "approvals": {
+      "site": {
+        "approved_by": "Publication à la demande du propriétaire",
+        "evidence": "Le propriétaire demande l’intégration de ses produits et photographies, davantage de contenu illustré et une publication sur son site ; les caractéristiques proviennent de ses messages du 1 novembre 2026.",
+        "digest": "882732f2d03e68f878f4721beef6615d682aee1ec373f57e9ca53fa44e038086"
+      }
+    }
+  },
+  {
+    "id": "produit-fer-beton-12m",
+    "slug": "arrivage-fer-beton-fardeaux-barres-12m",
+    "title": "Fer à béton : nos fardeaux de barres de 12 m",
+    "summary": "Une vue de nos approvisionnements de rond à béton, avec une gamme de diamètres T06 à T20.",
+    "category": "Acier et fer à béton",
+    "photo_ids": [
+      "arrivage-fer-beton-sonasid",
+      "fardeaux-rond-beton-12m",
+      "barres-fer-beton-depot"
+    ],
+    "sections": [
+      {
+        "title": "Des barres longues conditionnées en fardeaux",
+        "paragraphs": [
+          "Les photographies montrent des fardeaux de rond à béton réceptionnés au dépôt. La longueur proposée est de 12 m."
+        ]
+      },
+      {
+        "title": "Du T06 au T20",
+        "paragraphs": [
+          "Les références proposées dans le catalogue sont T06, T08, T10, T12, T14, T16 et T20. Choisissez le diamètre puis indiquez la quantité et l’unité de commande."
+        ]
+      },
+      {
+        "title": "Prévoir l’acheminement",
+        "paragraphs": [
+          "La livraison de barres longues se prépare selon la charge, l’accès et le déchargement du chantier. Le tarif et la disponibilité sont confirmés lors de la demande."
+        ]
+      }
+    ],
+    "status": "published",
+    "date": "2026-11-01",
+    "updated_on": "2026-11-01",
+    "kind": "Notre activité",
+    "event_period": "Photographies de notre activité — date de prise de vue non renseignée",
+    "cover": "/assets/depot/arrivage-fer-beton-sonasid.webp",
+    "cover_alt": "Fardeaux de rond à béton Sonasid à leur arrivée au dépôt. Gamme T06 à T20, barres de 12 m.",
+    "cover_caption": "Photographie originale de notre travail, fournie par le propriétaire.",
+    "cover_width": 591,
+    "cover_height": 1280,
+    "cover_credit": "© El Boussairi Matériaux",
+    "sources": [
+      {
+        "title": "Notre fiche produit et les informations communiquées par le propriétaire",
+        "url": "https://elboussairimateriaux.com/materiaux/fer-a-beton/",
+        "date": "2026-11-01"
+      }
+    ],
+    "source_note": "Contenu de première main : informations et photographies fournies par le propriétaire. Cette fiche décrit notre activité et ne constitue pas une étude du marché.",
+    "verified": true,
+    "verification": {
+      "checked_on": "2026-11-01",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "Photographies inspectées et caractéristiques explicitement communiquées par le propriétaire dans cette conversation. Date de prise de vue non déduite."
+    },
+    "instagram": {
+      "caption": "Fer à béton : nos fardeaux de barres de 12 m",
+      "slides": [
+        {
+          "title": "Fer à béton : nos fardeaux de barres de 12 m",
+          "body": "Une vue de nos approvisionnements de rond à béton, avec une gamme de diamètres T06 à T20."
+        },
+        {
+          "title": "Des barres longues conditionnées en fardeaux",
+          "body": "Les photographies montrent des fardeaux de rond à béton réceptionnés au dépôt. La longueur proposée est de 12 m."
+        },
+        {
+          "title": "Du T06 au T20",
+          "body": "Les références proposées dans le catalogue sont T06, T08, T10, T12, T14, T16 et T20. Choisissez le diamètre puis indiquez la quantité et l’unité de commande."
+        },
+        {
+          "title": "Prévoir l’acheminement",
+          "body": "La livraison de barres longues se prépare selon la charge, l’accès et le déchargement du chantier. Le tarif et la disponibilité sont confirmés lors de la demande."
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "elboussairimateriaux.com"
+        }
+      ]
+    },
+    "approvals": {
+      "site": {
+        "approved_by": "Publication à la demande du propriétaire",
+        "evidence": "Le propriétaire demande l’intégration de ses produits et photographies, davantage de contenu illustré et une publication sur son site ; les caractéristiques proviennent de ses messages du 1 novembre 2026.",
+        "digest": "a9fc30b477c618b2ef7c6cb9a92a6711a21306f53b1893980e163bde2b0f6500"
       }
     }
   }

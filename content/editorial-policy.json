@@ -2,10 +2,37 @@
   "automatic_site_publication": true,
   "authorization_date": "2026-11-01",
   "authorization": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc.",
-  "max_articles_per_day": 10,
+  "max_articles_per_day": 24,
   "max_source_age_days": 7,
   "timezone": "Africa/Casablanca",
-  "primary_domains": ["hcp.ma", "maroc.ma", "cg.gov.ma", "finances.gov.ma", "equipement.gov.ma", "transport.gov.ma", "anp.org.ma", "apc.ma", "tangermed.ma", "oncf.ma", "adm.co.ma", "sonasid.ma", "cimentsdumaroc.com", "lafargeholcim.ma"],
-  "press_domains": ["mapnews.ma", "mapexpress.ma", "lematin.ma", "medias24.com", "lavieeco.com", "aujourdhui.ma", "snrtnews.com"],
-  "instagram_publication": false
+  "primary_domains": [
+    "hcp.ma",
+    "maroc.ma",
+    "cg.gov.ma",
+    "finances.gov.ma",
+    "equipement.gov.ma",
+    "transport.gov.ma",
+    "anp.org.ma",
+    "apc.ma",
+    "tangermed.ma",
+    "oncf.ma",
+    "adm.co.ma",
+    "sonasid.ma",
+    "cimentsdumaroc.com",
+    "lafargeholcim.ma",
+    "holcim.ma",
+    "ammc.ma"
+  ],
+  "press_domains": [
+    "mapnews.ma",
+    "mapexpress.ma",
+    "lematin.ma",
+    "medias24.com",
+    "lavieeco.com",
+    "aujourdhui.ma",
+    "snrtnews.com"
+  ],
+  "instagram_publication": false,
+  "max_articles_per_run": 2,
+  "publication_interval_hours": 2
 }

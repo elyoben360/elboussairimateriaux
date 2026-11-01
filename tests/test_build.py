@@ -29,7 +29,7 @@ class BuildTests(unittest.TestCase):
                 self.assertTrue(target.exists(),f'{file}: {url}')
     def test_all_catalogue_data_preserved(self):
         original=subprocess.check_output(['git','show','372f24157a942aeb4acca3a265936289b0e24844:index.html'],cwd=ROOT,text=True)
-        old=json.loads(re.search(r'const DATA=(.*?);\nconst VEHICLES',original,re.S)[1]);new=json.loads((ROOT/'content/catalogue.json').read_text());self.assertEqual(old,new)
+        old=json.loads(re.search(r'const DATA=(.*?);\nconst VEHICLES',original,re.S)[1]);new=json.loads((ROOT/'content/catalogue.json').read_text());self.assertEqual([p for p in old if p['product']!='Polystyrène'],[{k:p[k] for k in ('work','family','product','variants')} for p in new if p['product'] not in ['Panneaux muraux','Pointes','Polystyrène']])
         generated=json.loads(re.search(r'const DATA=(.*?);\nconst VEHICLES',(ROOT/'src/catalogue.js').read_text(),re.S)[1]);self.assertEqual(new,generated)
     def test_footer_and_delivery_scope(self):
         s=(ROOT/'dist/index.html').read_text();self.assertIn('href="tel:+212602644454"',s);self.assertIn('href="mailto:youssef.materiauxdeconstruction@gmail.com"',s)

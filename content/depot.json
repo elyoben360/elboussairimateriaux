@@ -17,7 +17,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Ciment & colles",
+    "product": "ciments",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "camion-grue-palfinger",
@@ -37,7 +42,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Matériel",
+    "product": "",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "chariot-elevateur-manutention",
@@ -57,7 +67,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Matériel",
+    "product": "",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "arrivage-madriers-coffrage",
@@ -77,7 +92,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Bois",
+    "product": "madriers",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "balance-fer",
@@ -97,7 +117,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Matériel",
+    "product": "",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "treillis-soudes-stock",
@@ -117,14 +142,19 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Acier",
+    "product": "treillis-soudes",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "palette-sacs-depot",
-    "title": "Palette de sacs emballée",
-    "alt": "Palette de sacs conditionnée sous film dans le dépôt.",
-    "caption": "Palette de sacs conditionnée sous film dans le dépôt.",
-    "category": "Conditionnement",
+    "title": "Pointes JP08 et JP10",
+    "alt": "Pointes JP08 et JP10 conditionnées en sacs sur palette au dépôt.",
+    "caption": "Pointes JP08 et JP10 · Conditionnement en sacs sur palette.",
+    "category": "Pointes",
     "src": "/assets/depot/palette-sacs-depot.webp",
     "thumbnail": "/assets/depot/palette-sacs-depot-560.webp",
     "width": 806,
@@ -133,18 +163,23 @@
     "creditText": "El Boussairi Matériaux",
     "source": "Photographie fournie par le propriétaire du site",
     "keywords": [
-      "Conditionnement",
-      "matériaux de construction",
-      "dépôt",
+      "pointes JP08",
+      "pointes JP10",
+      "quincaillerie",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Quincaillerie",
+    "product": "pointes",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "chargement-panneaux-blancs",
-    "title": "Chargement de panneaux emballés",
-    "alt": "Panneaux blancs emballés sur le plateau d’un camion devant le dépôt.",
-    "caption": "Panneaux blancs emballés sur le plateau d’un camion devant le dépôt.",
-    "category": "Chargement",
+    "title": "Polystyrène en sacs de 0,5 m³",
+    "alt": "Polystyrène conditionné en sacs de 0,5 m³, proposé en épaisseurs de 2 cm et 4 cm.",
+    "caption": "Polystyrène · Sacs de 0,5 m³ · Épaisseurs 2 cm et 4 cm.",
+    "category": "Isolation",
     "src": "/assets/depot/chargement-panneaux-blancs.webp",
     "thumbnail": "/assets/depot/chargement-panneaux-blancs-560.webp",
     "width": 1440,
@@ -153,18 +188,24 @@
     "creditText": "El Boussairi Matériaux",
     "source": "Photographie fournie par le propriétaire du site",
     "keywords": [
-      "Chargement",
-      "matériaux de construction",
-      "dépôt",
-      "El Boussairi Matériaux"
-    ]
+      "polystyrène",
+      "sac 0,5 m³",
+      "épaisseur 2 cm",
+      "épaisseur 4 cm",
+      "isolation"
+    ],
+    "group": "Isolation",
+    "product": "polystyrene",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "panneaux-blancs-depot",
-    "title": "Panneaux emballés au dépôt",
-    "alt": "Panneaux blancs conditionnés devant l’entrée du dépôt.",
-    "caption": "Panneaux blancs conditionnés devant l’entrée du dépôt.",
-    "category": "Matériaux",
+    "title": "Polystyrène en sacs de 0,5 m³",
+    "alt": "Polystyrène conditionné en sacs de 0,5 m³, proposé en épaisseurs de 2 cm et 4 cm.",
+    "caption": "Polystyrène · Sacs de 0,5 m³ · Épaisseurs 2 cm et 4 cm.",
+    "category": "Isolation",
     "src": "/assets/depot/panneaux-blancs-depot.webp",
     "thumbnail": "/assets/depot/panneaux-blancs-depot-560.webp",
     "width": 810,
@@ -173,11 +214,17 @@
     "creditText": "El Boussairi Matériaux",
     "source": "Photographie fournie par le propriétaire du site",
     "keywords": [
-      "Matériaux",
-      "matériaux de construction",
-      "dépôt",
-      "El Boussairi Matériaux"
-    ]
+      "polystyrène",
+      "sac 0,5 m³",
+      "épaisseur 2 cm",
+      "épaisseur 4 cm",
+      "isolation"
+    ],
+    "group": "Isolation",
+    "product": "polystyrene",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "bostik-tradicem-x-mortier-colle",
@@ -197,14 +244,19 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Ciment & colles",
+    "product": "ciments-colles",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "sacs-papier-depot",
-    "title": "Conditionnement en sacs",
-    "alt": "Sacs en papier empilés dans le dépôt, référence non lisible sur cette vue.",
-    "caption": "Sacs en papier empilés dans le dépôt, référence non lisible sur cette vue.",
-    "category": "Conditionnement",
+    "title": "Pointes JP08 et JP10",
+    "alt": "Pointes JP08 et JP10 conditionnées en sacs sur palette au dépôt.",
+    "caption": "Pointes JP08 et JP10 · Conditionnement en sacs sur palette.",
+    "category": "Pointes",
     "src": "/assets/depot/sacs-papier-depot.webp",
     "thumbnail": "/assets/depot/sacs-papier-depot-560.webp",
     "width": 810,
@@ -213,11 +265,16 @@
     "creditText": "El Boussairi Matériaux",
     "source": "Photographie fournie par le propriétaire du site",
     "keywords": [
-      "Conditionnement",
-      "matériaux de construction",
-      "dépôt",
+      "pointes JP08",
+      "pointes JP10",
+      "quincaillerie",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Quincaillerie",
+    "product": "pointes",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "palettes-bostik-tradicem-x",
@@ -237,7 +294,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Ciment & colles",
+    "product": "ciments-colles",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "panneaux-treillis-soudes",
@@ -257,7 +319,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Acier",
+    "product": "treillis-soudes",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "couronnes-fil-acier",
@@ -277,7 +344,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Acier",
+    "product": "",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "webercol-classic-25kg",
@@ -297,7 +369,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Ciment & colles",
+    "product": "ciments-colles",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "film-polyane-rouleaux",
@@ -317,7 +394,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Autres",
+    "product": "films-de-protection",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "grillage-grtt-rouleaux",
@@ -337,7 +419,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Autres",
+    "product": "accessoires-de-finition",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "bitume-rouleaux-etancheite",
@@ -357,7 +444,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Autres",
+    "product": "membranes-bitumineuses",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "camion-bois-coffrage",
@@ -377,7 +469,12 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Bois",
+    "product": "madriers",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   },
   {
     "id": "lots-madriers-coffrage",
@@ -397,6 +494,211 @@
       "matériaux de construction",
       "dépôt",
       "El Boussairi Matériaux"
-    ]
+    ],
+    "group": "Bois",
+    "product": "madriers",
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "panneaux-muraux-stock-10cm",
+    "title": "Panneaux muraux de 10 cm",
+    "alt": "Panneaux muraux de 10 cm conditionnés sur palette.",
+    "caption": "Panneaux muraux de 10 cm conditionnés sur palette.",
+    "category": "Panneaux",
+    "group": "Panneaux",
+    "product": "panneaux-muraux",
+    "src": "/assets/depot/panneaux-muraux-stock-10cm.webp",
+    "thumbnail": "/assets/depot/panneaux-muraux-stock-10cm-560.webp",
+    "width": 960,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Panneaux",
+      "Panneaux muraux de 10 cm",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "panneaux-cloisons-interieures",
+    "title": "Cloisons en panneaux",
+    "alt": "Panneaux muraux posés en cloisons intérieures après la structure.",
+    "caption": "Panneaux muraux posés en cloisons intérieures après la structure.",
+    "category": "Panneaux",
+    "group": "Panneaux",
+    "product": "panneaux-muraux",
+    "src": "/assets/depot/panneaux-cloisons-interieures.webp",
+    "thumbnail": "/assets/depot/panneaux-cloisons-interieures-560.webp",
+    "width": 960,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Panneaux",
+      "Cloisons en panneaux",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "panneaux-muraux-coupe",
+    "title": "Détail du panneau",
+    "alt": "Vue de la tranche et des joints d’un panneau mural sur chantier.",
+    "caption": "Vue de la tranche et des joints d’un panneau mural sur chantier.",
+    "category": "Panneaux",
+    "group": "Panneaux",
+    "product": "panneaux-muraux",
+    "src": "/assets/depot/panneaux-muraux-coupe.webp",
+    "thumbnail": "/assets/depot/panneaux-muraux-coupe-560.webp",
+    "width": 959,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Panneaux",
+      "Détail du panneau",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "panneaux-murs-remplissage",
+    "title": "Murs de remplissage",
+    "alt": "Panneaux muraux posés entre les éléments de la structure du bâtiment.",
+    "caption": "Panneaux muraux posés entre les éléments de la structure du bâtiment.",
+    "category": "Panneaux",
+    "group": "Panneaux",
+    "product": "panneaux-muraux",
+    "src": "/assets/depot/panneaux-murs-remplissage.webp",
+    "thumbnail": "/assets/depot/panneaux-murs-remplissage-560.webp",
+    "width": 959,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Panneaux",
+      "Murs de remplissage",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "panneaux-muraux-chantier",
+    "title": "Pose sur chantier",
+    "alt": "Vue extérieure de la mise en place de panneaux muraux.",
+    "caption": "Vue extérieure de la mise en place de panneaux muraux.",
+    "category": "Panneaux",
+    "group": "Panneaux",
+    "product": "panneaux-muraux",
+    "src": "/assets/depot/panneaux-muraux-chantier.webp",
+    "thumbnail": "/assets/depot/panneaux-muraux-chantier-560.webp",
+    "width": 960,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Panneaux",
+      "Pose sur chantier",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "arrivage-fer-beton-sonasid",
+    "title": "Arrivage de fer à béton",
+    "alt": "Fardeaux de rond à béton Sonasid à leur arrivée au dépôt. Gamme T06 à T20, barres de 12 m.",
+    "caption": "Fardeaux de rond à béton Sonasid à leur arrivée au dépôt. Gamme T06 à T20, barres de 12 m.",
+    "category": "Acier",
+    "group": "Acier",
+    "product": "fer-a-beton",
+    "src": "/assets/depot/arrivage-fer-beton-sonasid.webp",
+    "thumbnail": "/assets/depot/arrivage-fer-beton-sonasid-560.webp",
+    "width": 591,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Acier",
+      "Arrivage de fer à béton",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "fardeaux-rond-beton-12m",
+    "title": "Rond à béton en fardeaux",
+    "alt": "Barres de fer à béton de 12 m regroupées en fardeaux sur camion.",
+    "caption": "Barres de fer à béton de 12 m regroupées en fardeaux sur camion.",
+    "category": "Acier",
+    "group": "Acier",
+    "product": "fer-a-beton",
+    "src": "/assets/depot/fardeaux-rond-beton-12m.webp",
+    "thumbnail": "/assets/depot/fardeaux-rond-beton-12m-560.webp",
+    "width": 591,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Acier",
+      "Rond à béton en fardeaux",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
+  },
+  {
+    "id": "barres-fer-beton-depot",
+    "title": "Barres de fer au dépôt",
+    "alt": "Vue des fardeaux de fer à béton réceptionnés au dépôt.",
+    "caption": "Vue des fardeaux de fer à béton réceptionnés au dépôt.",
+    "category": "Acier",
+    "group": "Acier",
+    "product": "fer-a-beton",
+    "src": "/assets/depot/barres-fer-beton-depot.webp",
+    "thumbnail": "/assets/depot/barres-fer-beton-depot-560.webp",
+    "width": 591,
+    "height": 1280,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+    "keywords": [
+      "Acier",
+      "Barres de fer au dépôt",
+      "matériaux de construction",
+      "El Boussairi Matériaux"
+    ],
+    "copyrightNotice": "© El Boussairi Matériaux — Réutilisation sur autorisation",
+    "license": "https://elboussairimateriaux.com/#droits-images",
+    "acquireLicensePage": "https://elboussairimateriaux.com/#contact"
   }
 ]
