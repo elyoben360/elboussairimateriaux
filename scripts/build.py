@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Dependency-free static build. Preview includes visibly labelled drafts; production never does."""
 from pathlib import Path
-import argparse, json, html, shutil, re
+import argparse, json, html, shutil, re, hashlib, base64
 from datetime import date
 ROOT=Path(__file__).resolve().parents[1]
 BASE='https://elboussairimateriaux.com'
@@ -14,12 +14,13 @@ def safe_url(url):
     return esc(url)
 def header(preview=False):
     banner='<div class="preview-banner">Version de développement · Prévisualisation</div>' if preview else ''
-    return banner+'<a class="skip" href="#main">Aller au contenu</a><header><nav class="wrap" aria-label="Navigation principale"><a class="logo logo-link" href="/" aria-label="El Boussairi Matériaux — Accueil">EL BOUSSAIRI<br> MATÉRIAUX<small>FOURNITURE · APPROVISIONNEMENT · TRANSPORT</small></a><div class="navitems"><a href="/#catalogue">Matériaux</a><a href="/#transport">Logistique</a><a href="/#references">Références</a><a href="/actualites/">Actualités</a><a class="nav-request" href="/#contact">Ma demande <span class="counter" id="count">0</span></a></div></nav></header>'
+    return banner+'<a class="skip" href="#main">Aller au contenu</a><header><nav class="wrap" aria-label="Navigation principale"><a class="logo logo-link" href="/" aria-label="El Boussairi Matériaux — Accueil">EL BOUSSAIRI<br> MATÉRIAUX<small>FOURNITURE · APPROVISIONNEMENT · TRANSPORT</small></a><div class="navitems"><a href="/#catalogue">Matériaux</a><a href="/#transport">Logistique</a><a href="/#references">Références</a><a href="/#depot">Notre dépôt</a><a href="/actualites/">Actualités</a><a class="nav-request" href="/#contact">Ma demande <span class="counter" id="count">0</span></a></div></nav></header>'
 def footer():
     return '<footer class="footer-main"><div class="wrap"><div class="footer-grid"><div><h3>EL BOUSSAIRI MATÉRIAUX</h3><p>Fourniture, approvisionnement et livraison de matériaux pour vos chantiers.</p></div><div><h4>Contact</h4><a href="tel:+212602644454">+212 602 64 44 54</a><a href="mailto:youssef.materiauxdeconstruction@gmail.com">youssef.materiauxdeconstruction@gmail.com</a></div><div><h4>Votre chantier</h4><p>Casablanca et autres destinations selon faisabilité.</p><a href="/#contact">Préparer une commande →</a><a href="/actualites/">Actualités & Marché du BTP →</a></div></div><div class="footer-bottom"><span>© El Boussairi Matériaux</span><span>Matériaux · Approvisionnement · Livraison</span></div></div></footer><div class="mobile-request" aria-label="Accès rapide à votre demande"><a class="mobile-call" href="tel:+212602644454">Appeler</a><a class="btn" href="/#contact">Ma demande <span class="counter" id="mobileCount">0</span></a></div><div class="toast" id="toast" role="status"></div>'
 def shell(title,description,body,path='/',scripts=(),preview=False,schema=None):
     robots='<meta name="robots" content="noindex,nofollow">' if preview else '<meta name="robots" content="index,follow">'
     metadata='' if preview else '<link rel="canonical" href="'+BASE+path+'">'
+    if not preview: metadata+='<meta property="og:type" content="website"><meta property="og:locale" content="fr_MA"><meta property="og:site_name" content="El Boussairi Matériaux"><meta property="og:title" content="'+esc(title)+'"><meta property="og:description" content="'+esc(description)+'"><meta property="og:url" content="'+BASE+esc(path)+'"><meta property="og:image" content="'+BASE+'/assets/depot/treillis-soudes-stock.webp"><meta property="og:image:alt" content="Treillis soudés dans notre dépôt"><meta name="twitter:card" content="summary_large_image">'
     if schema and not preview: metadata+='<script type="application/ld+json">'+json.dumps(schema,ensure_ascii=False).replace('<','\\u003c')+'</script>'
     return '<!doctype html><html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#172f59"><title>'+esc(title)+'</title><meta name="description" content="'+esc(description)+'">'+robots+metadata+'<link rel="alternate" type="application/rss+xml" title="Le journal BTP & logistique" href="/actualites/feed.xml"><link rel="stylesheet" href="/assets/site.css"></head><body>'+header(preview)+'<main id="main">'+body+'</main>'+footer()+''.join('<script src="'+x+'" defer></script>' for x in scripts)+'</body></html>'
 def date_fr(s):
@@ -61,8 +62,14 @@ def build(preview=False,out='dist'):
     (target/'assets/references-data.js').write_text('window.EBM_REFERENCES='+json.dumps(refs,ensure_ascii=False).replace('<','\\u003c')+';')
     published=sorted([a for a in load('content/articles.json') if a['status']=='published'],key=lambda a:(a['date'],a['id']),reverse=True)
     latest='<section class="section latest-news"><div class="wrap"><div class="section-heading"><div><div class="eyebrow">Le journal du secteur</div><h2>Matériaux, BTP & logistique</h2></div><a class="reading-back" href="/actualites/">Toutes les actualités →</a></div><div class="blog-grid">'+''.join(article_card(a,preview) for a in published[:3])+'</div></div></section>' if published else ''
-    home=read('src/home.html').replace('{{REFERENCE_CARDS}}',reference_cards(refs)).replace('{{LATEST_NEWS}}',latest)
-    (target/'index.html').write_text(shell('El Boussairi Matériaux | Fourniture & Livraison','Matériaux de construction, approvisionnement et livraison pour vos chantiers à Casablanca et autres destinations selon faisabilité.',home,preview=preview,scripts=['/assets/catalogue.js','/assets/references-data.js','/assets/references.js','/assets/shared.js']))
+    photos=load('content/depot.json')
+    gallery='<section class="section" id="depot"><div class="wrap"><div class="eyebrow">Notre travail en images</div><h2>Au dépôt, avant votre chantier</h2><p class="intro">Matériaux, conditionnement et chargement : découvrez nos photographies du terrain. Cliquez sur une photo pour l’agrandir. Les références et disponibilités sont à confirmer lors de votre demande.</p><div class="depot-grid">'
+    for p in photos:
+        gallery+='<figure class="depot-card"><a href="'+esc(p['src'])+'" aria-label="Agrandir : '+esc(p['title'])+'"><img src="'+esc(p['thumbnail'])+'" srcset="'+esc(p['thumbnail'])+' 560w, '+esc(p['src'])+' '+str(p['width'])+'w" sizes="(max-width:560px) 100vw, (max-width:900px) 50vw, 33vw" alt="'+esc(p['alt'])+'" width="'+str(p['width'])+'" height="'+str(p['height'])+'" loading="lazy" decoding="async"></a><figcaption><span class="tag">'+esc(p['category'])+'</span><h3>'+esc(p['title'])+'</h3><p>'+esc(p['caption'])+'</p></figcaption></figure>'
+    gallery+='</div></div></section>'
+    schema={'@context':'https://schema.org','@type':'ImageGallery','name':'Notre dépôt en images — El Boussairi Matériaux','url':BASE+'/#depot','inLanguage':'fr','image':[{'@type':'ImageObject','contentUrl':BASE+p['src'],'thumbnailUrl':BASE+p['thumbnail'],'name':p['title'],'description':p['alt'],'caption':p['caption'],'width':p['width'],'height':p['height'],'encodingFormat':p['encodingFormat'],'creditText':p['creditText'],'keywords':', '.join(p['keywords'])} for p in photos]}
+    home=read('src/home.html').replace('{{DEPOT_GALLERY}}',gallery).replace('{{REFERENCE_CARDS}}',reference_cards(refs)).replace('{{LATEST_NEWS}}',latest)
+    (target/'index.html').write_text(shell('El Boussairi Matériaux | Fourniture & Livraison','Matériaux de construction, approvisionnement et livraison pour vos chantiers à Casablanca et autres destinations selon faisabilité.',home,preview=preview,schema=schema,scripts=['/assets/catalogue.js','/assets/references-data.js','/assets/references.js','/assets/shared.js']))
     articles=load('content/articles.json')
     from editorial import validate_article
     for a in articles:validate_article(a)
@@ -85,10 +92,15 @@ def build(preview=False,out='dist'):
         items.append('<item><title>'+esc(a['title'])+'</title><link>'+u+'</link><guid>'+u+'</guid><description>'+esc(a['summary'])+'</description><pubDate>'+format_datetime(datetime.fromisoformat(a['date']).replace(tzinfo=timezone.utc))+'</pubDate></item>')
     (news/'feed.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>El Boussairi — BTP &amp; Logistique</title><link>'+BASE+'/actualites/</link><description>Actualités sourcées du secteur au Maroc</description>'+''.join(items)+'</channel></rss>')
     links=['/','/actualites/']+['/actualites/'+a['slug']+'/' for a in visible if a['status']=='published']
-    (target/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join('<url><loc>'+BASE+x+'</loc></url>' for x in links)+'</urlset>')
+    (target/'sitemap.xml').write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">'+''.join('<url><loc>'+BASE+x+'</loc>'+(''.join('<image:image><image:loc>'+BASE+p['src']+'</image:loc></image:image>' for p in photos) if x=='/' else '')+'</url>' for x in links)+'</urlset>')
     (target/'robots.txt').write_text('User-agent: *\nDisallow: /\n' if preview else 'User-agent: *\nAllow: /\nSitemap: '+BASE+'/sitemap.xml\n')
     (target/'404.html').write_text(shell('Page introuvable | El Boussairi Matériaux','Page introuvable.','<section class="section"><div class="wrap"><h1>Cette page est introuvable.</h1><a class="btn" href="/">Retour à l’accueil</a></div></section>',preview=preview))
-    (target/'_headers').write_text('/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: camera=(), microphone=(), geolocation=()\n  X-Frame-Options: SAMEORIGIN\n  Content-Security-Policy: default-src \'self\'; script-src \'self\'; style-src \'self\' \'unsafe-inline\'; img-src \'self\' data:; base-uri \'self\'; object-src \'none\'; frame-ancestors \'self\'; form-action \'self\'\n')
+    hashes=set()
+    for page in target.rglob('*.html'):
+        for script in re.findall(r'<script type="application/ld\+json">(.*?)</script>',page.read_text(),re.S):
+            hashes.add("'sha256-"+base64.b64encode(hashlib.sha256(script.encode()).digest()).decode()+"'")
+    policy="default-src 'self'; script-src 'self' "+' '.join(sorted(hashes))+"; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'none'; base-uri 'none'; object-src 'none'; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests"
+    (target/'_headers').write_text("/*\n  X-Content-Type-Options: nosniff\n  Referrer-Policy: strict-origin-when-cross-origin\n  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=()\n  X-Frame-Options: DENY\n  Strict-Transport-Security: max-age=31536000\n  Content-Security-Policy: "+policy+"\n")
     print('Built',target,'PREVIEW' if preview else 'PRODUCTION ARTIFACT ONLY','|',len(visible),'articles |',len(refs),'références')
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--preview',action='store_true');parser.add_argument('--out',default='dist');args=parser.parse_args();build(args.preview,args.out)

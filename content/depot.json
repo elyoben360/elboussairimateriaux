@@ -1,0 +1,402 @@
+[
+  {
+    "id": "stock-ciment-holcim",
+    "title": "Ciment Holcim sur palettes",
+    "alt": "Vue du stock de ciment Holcim conditionné en sacs sur palettes au dépôt.",
+    "caption": "Vue du stock de ciment Holcim conditionné en sacs sur palettes au dépôt.",
+    "category": "Ciment",
+    "src": "/assets/depot/stock-ciment-holcim.webp",
+    "thumbnail": "/assets/depot/stock-ciment-holcim-560.webp",
+    "width": 1440,
+    "height": 810,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Ciment",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "camion-grue-palfinger",
+    "title": "Camion-grue",
+    "alt": "Camion équipé d’une grue Palfinger devant le dépôt.",
+    "caption": "Camion équipé d’une grue Palfinger devant le dépôt.",
+    "category": "Livraison",
+    "src": "/assets/depot/camion-grue-palfinger.webp",
+    "thumbnail": "/assets/depot/camion-grue-palfinger-560.webp",
+    "width": 1171,
+    "height": 1343,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site, visages floutés avant publication",
+    "keywords": [
+      "Livraison",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "chariot-elevateur-manutention",
+    "title": "Chariot élévateur au dépôt",
+    "alt": "Manutention de couronnes métalliques au chariot élévateur dans le dépôt.",
+    "caption": "Manutention de couronnes métalliques au chariot élévateur dans le dépôt.",
+    "category": "Manutention",
+    "src": "/assets/depot/chariot-elevateur-manutention.webp",
+    "thumbnail": "/assets/depot/chariot-elevateur-manutention-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site, visages floutés avant publication",
+    "keywords": [
+      "Manutention",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "arrivage-madriers-coffrage",
+    "title": "Arrivage de madriers de coffrage",
+    "alt": "Camion chargé de madriers de coffrage à son arrivée au dépôt. Madriers de coffrage proposés en longueurs de 3 m et 4 m.",
+    "caption": "Camion chargé de madriers de coffrage à son arrivée au dépôt. Madriers de coffrage proposés en longueurs de 3 m et 4 m.",
+    "category": "Bois de coffrage",
+    "src": "/assets/depot/arrivage-madriers-coffrage.webp",
+    "thumbnail": "/assets/depot/arrivage-madriers-coffrage-560.webp",
+    "width": 808,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Bois de coffrage",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "balance-fer",
+    "title": "Balance à fer",
+    "alt": "Balance à fer et supports de pesée au dépôt.",
+    "caption": "Balance à fer et supports de pesée au dépôt.",
+    "category": "Matériel de pesée",
+    "src": "/assets/depot/balance-fer.webp",
+    "thumbnail": "/assets/depot/balance-fer-560.webp",
+    "width": 1440,
+    "height": 811,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Matériel de pesée",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "treillis-soudes-stock",
+    "title": "Treillis soudés",
+    "alt": "Panneaux de treillis soudés empilés dans le dépôt.",
+    "caption": "Panneaux de treillis soudés empilés dans le dépôt.",
+    "category": "Acier",
+    "src": "/assets/depot/treillis-soudes-stock.webp",
+    "thumbnail": "/assets/depot/treillis-soudes-stock-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Acier",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "palette-sacs-depot",
+    "title": "Palette de sacs emballée",
+    "alt": "Palette de sacs conditionnée sous film dans le dépôt.",
+    "caption": "Palette de sacs conditionnée sous film dans le dépôt.",
+    "category": "Conditionnement",
+    "src": "/assets/depot/palette-sacs-depot.webp",
+    "thumbnail": "/assets/depot/palette-sacs-depot-560.webp",
+    "width": 806,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Conditionnement",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "chargement-panneaux-blancs",
+    "title": "Chargement de panneaux emballés",
+    "alt": "Panneaux blancs emballés sur le plateau d’un camion devant le dépôt.",
+    "caption": "Panneaux blancs emballés sur le plateau d’un camion devant le dépôt.",
+    "category": "Chargement",
+    "src": "/assets/depot/chargement-panneaux-blancs.webp",
+    "thumbnail": "/assets/depot/chargement-panneaux-blancs-560.webp",
+    "width": 1440,
+    "height": 1409,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Chargement",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "panneaux-blancs-depot",
+    "title": "Panneaux emballés au dépôt",
+    "alt": "Panneaux blancs conditionnés devant l’entrée du dépôt.",
+    "caption": "Panneaux blancs conditionnés devant l’entrée du dépôt.",
+    "category": "Matériaux",
+    "src": "/assets/depot/panneaux-blancs-depot.webp",
+    "thumbnail": "/assets/depot/panneaux-blancs-depot-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Matériaux",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "bostik-tradicem-x-mortier-colle",
+    "title": "Mortier-colle Bostik Tradicem X",
+    "alt": "Sacs de mortier-colle pour carrelage Bostik Tradicem X sous film.",
+    "caption": "Sacs de mortier-colle pour carrelage Bostik Tradicem X sous film.",
+    "category": "Colles carrelage",
+    "src": "/assets/depot/bostik-tradicem-x-mortier-colle.webp",
+    "thumbnail": "/assets/depot/bostik-tradicem-x-mortier-colle-560.webp",
+    "width": 808,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Colles carrelage",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "sacs-papier-depot",
+    "title": "Conditionnement en sacs",
+    "alt": "Sacs en papier empilés dans le dépôt, référence non lisible sur cette vue.",
+    "caption": "Sacs en papier empilés dans le dépôt, référence non lisible sur cette vue.",
+    "category": "Conditionnement",
+    "src": "/assets/depot/sacs-papier-depot.webp",
+    "thumbnail": "/assets/depot/sacs-papier-depot-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Conditionnement",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "palettes-bostik-tradicem-x",
+    "title": "Palettes de mortier-colle",
+    "alt": "Palettes de sacs Bostik Tradicem X, marquage 25 kg visible.",
+    "caption": "Palettes de sacs Bostik Tradicem X, marquage 25 kg visible.",
+    "category": "Colles carrelage",
+    "src": "/assets/depot/palettes-bostik-tradicem-x.webp",
+    "thumbnail": "/assets/depot/palettes-bostik-tradicem-x-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Colles carrelage",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "panneaux-treillis-soudes",
+    "title": "Panneaux de treillis",
+    "alt": "Vue des panneaux de treillis soudés entreposés à plat.",
+    "caption": "Vue des panneaux de treillis soudés entreposés à plat.",
+    "category": "Acier",
+    "src": "/assets/depot/panneaux-treillis-soudes.webp",
+    "thumbnail": "/assets/depot/panneaux-treillis-soudes-560.webp",
+    "width": 1440,
+    "height": 811,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Acier",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "couronnes-fil-acier",
+    "title": "Couronnes de fil métallique",
+    "alt": "Couronnes de fil métallique regroupées dans le dépôt.",
+    "caption": "Couronnes de fil métallique regroupées dans le dépôt.",
+    "category": "Acier",
+    "src": "/assets/depot/couronnes-fil-acier.webp",
+    "thumbnail": "/assets/depot/couronnes-fil-acier-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Acier",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "webercol-classic-25kg",
+    "title": "Webercol classic 25 kg",
+    "alt": "Palettes de sacs de colle Webercol classic, conditionnement 25 kg visible.",
+    "caption": "Palettes de sacs de colle Webercol classic, conditionnement 25 kg visible.",
+    "category": "Colles carrelage",
+    "src": "/assets/depot/webercol-classic-25kg.webp",
+    "thumbnail": "/assets/depot/webercol-classic-25kg-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie fournie par le propriétaire du site",
+    "keywords": [
+      "Colles carrelage",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "film-polyane-rouleaux",
+    "title": "Film polyane",
+    "alt": "Rouleaux de film polyane entreposés au dépôt.",
+    "caption": "Rouleaux de film polyane entreposés au dépôt.",
+    "category": "Protection de chantier",
+    "src": "/assets/depot/film-polyane-rouleaux.webp",
+    "thumbnail": "/assets/depot/film-polyane-rouleaux-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Protection de chantier",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "grillage-grtt-rouleaux",
+    "title": "Grillage GRTT",
+    "alt": "Rouleaux de grillage GRTT stockés au dépôt.",
+    "caption": "Rouleaux de grillage GRTT stockés au dépôt.",
+    "category": "Grillage",
+    "src": "/assets/depot/grillage-grtt-rouleaux.webp",
+    "thumbnail": "/assets/depot/grillage-grtt-rouleaux-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Grillage",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "bitume-rouleaux-etancheite",
+    "title": "Rouleaux de bitume",
+    "alt": "Rouleaux de membranes bitumineuses pour les travaux d’étanchéité.",
+    "caption": "Rouleaux de membranes bitumineuses pour les travaux d’étanchéité.",
+    "category": "Étanchéité",
+    "src": "/assets/depot/bitume-rouleaux-etancheite.webp",
+    "thumbnail": "/assets/depot/bitume-rouleaux-etancheite-560.webp",
+    "width": 1440,
+    "height": 811,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Étanchéité",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "camion-bois-coffrage",
+    "title": "Réception du bois de coffrage",
+    "alt": "Arrivage de bois de coffrage conditionné en lots sur camion. Madriers proposés en 3 m et 4 m.",
+    "caption": "Arrivage de bois de coffrage conditionné en lots sur camion. Madriers proposés en 3 m et 4 m.",
+    "category": "Bois de coffrage",
+    "src": "/assets/depot/camion-bois-coffrage.webp",
+    "thumbnail": "/assets/depot/camion-bois-coffrage-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Bois de coffrage",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  },
+  {
+    "id": "lots-madriers-coffrage",
+    "title": "Madriers de coffrage en lots",
+    "alt": "Détail des lots de madriers de coffrage sur camion, gamme 3 m et 4 m.",
+    "caption": "Détail des lots de madriers de coffrage sur camion, gamme 3 m et 4 m.",
+    "category": "Bois de coffrage",
+    "src": "/assets/depot/lots-madriers-coffrage.webp",
+    "thumbnail": "/assets/depot/lots-madriers-coffrage-560.webp",
+    "width": 810,
+    "height": 1440,
+    "encodingFormat": "image/webp",
+    "creditText": "El Boussairi Matériaux",
+    "source": "Photographie et identification fournies par le propriétaire du site",
+    "keywords": [
+      "Bois de coffrage",
+      "matériaux de construction",
+      "dépôt",
+      "El Boussairi Matériaux"
+    ]
+  }
+]
