@@ -163,5 +163,90 @@
         "digest": "bef862f5806c074c0aed8cc13e99eb283471ffb140c81cab5132079be6a99f6c"
       }
     }
+  },
+  {
+    "id": "depf-ciment-troisieme-trimestre-2026",
+    "slug": "ciment-bilan-troisieme-trimestre-2026-depf",
+    "status": "published",
+    "title": "Ciment : ce que le bilan du troisième trimestre 2026 révèle du BTP marocain",
+    "summary": "Publiée le 26 octobre, la note de la DEPF relève une hausse de 5,4 % des ventes de ciment au troisième trimestre 2026. Le cumul de janvier à septembre reste plus modéré : +1,2 % sur un an.",
+    "category": "Ciment et béton",
+    "date": "2026-11-01",
+    "event_period": "Juillet à septembre 2026 pour le bilan trimestriel ; janvier à septembre 2026 pour le cumul et les segments. Note DEPF n° 356 publiée le 26 octobre 2026.",
+    "cover": "/assets/editorial-cover.svg",
+    "cover_alt": "Illustration éditoriale abstraite du journal BTP, en bleu marine et doré ; aucune photographie de chantier.",
+    "sections": [
+      {
+        "title": "Les faits : une progression trimestrielle qui se poursuit",
+        "paragraphs": [
+          "La note d’octobre de la Direction des études et des prévisions financières indique que les ventes de ciment progressent de 5,4 % au troisième trimestre 2026. Elles avaient augmenté de 8 % au deuxième trimestre, après une baisse de 10,9 % au premier. Ces variations comparent chaque trimestre à la même période de l’année précédente.",
+          "Sur les neuf premiers mois, la hausse atteint 1,2 %. Les livraisons destinées aux infrastructures progressent de 19,5 %, celles du béton prêt à l’emploi de 8,6 % et celles du bâtiment de 0,9 %. Il s’agit de ventes de ciment par segment de destination, pas de taux d’avancement des chantiers."
+        ]
+      },
+      {
+        "title": "Notre lecture : distinguer les usages pour préparer les approvisionnements",
+        "paragraphs": [
+          "Le bilan invite à suivre séparément les besoins des infrastructures et du bâtiment. Pour un chantier, le calendrier des commandes reste à organiser selon les travaux et les possibilités de livraison. Cette lecture éditoriale ne constitue ni une prévision de disponibilité ni une annonce de prix El Boussaïri."
+        ]
+      }
+    ],
+    "source_note": "Note officielle DEPF n° 356, section BTP, page 32, lue le 1 novembre 2026 ; date de publication contrôlée sur le portail du ministère. Recoupement avec La Vie éco du 26 octobre. Bilan de périodes écoulées, pas mesure de novembre.",
+    "sources": [
+      {
+        "title": "DEPF — Note de conjoncture n° 356, octobre 2026, page 32",
+        "url": "https://www.finances.gov.ma/Publication/depf/2026/NC356.pdf",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "Ministère des Finances — date de publication de la note n° 356",
+        "url": "https://www.finances.gov.ma/fr/Pages/index.aspx?id=1507",
+        "date": "2026-10-26"
+      },
+      {
+        "title": "La Vie éco — Électricité et ciment : deux secteurs en croissance, à des rythmes contrastés",
+        "url": "https://www.lavieeco.com/affaires/secteurs/electricite-et-ciment-deux-secteurs-en-croissance-mais-a-des-rythmes-contrastes-en-2026/",
+        "date": "2026-10-26"
+      }
+    ],
+    "verification": {
+      "checked_on": "2026-11-01",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "PDF officiel téléchargé avec succès (HTTP 200, 7 531 507 octets) et section BTP page 32 lue intégralement. Portail ministériel : publication le 26/10/2026. Trimestres et cumul distingués ; pourcentages, segments et périodes recoupés dans l’article complet de La Vie éco, signé avec MAP, publié le 26/10 à 18h23. Source primaire utilisée ; aucune validation humaine déclarée. Sujet trimestriel distinct de l’IPPI et du port déjà publiés."
+    },
+    "instagram": {
+      "caption": "BTP Maroc : comprendre le bilan trimestriel du ciment. Données DEPF d’octobre, portant sur 2026 jusqu’à septembre. Sources et analyse sur notre journal. Lire l’article complet — lien en bio.",
+      "slides": [
+        {
+          "title": "Ciment : bilan du troisième trimestre",
+          "body": "La DEPF publie son analyse d’octobre 2026. Les faits portent sur des périodes écoulées."
+        },
+        {
+          "title": "Le trimestre",
+          "body": "Ventes de ciment : +5,4 % au troisième trimestre 2026, sur un an."
+        },
+        {
+          "title": "Le cumul",
+          "body": "Janvier–septembre 2026 : +1,2 %. Un périmètre différent du seul troisième trimestre."
+        },
+        {
+          "title": "Notre lecture",
+          "body": "Suivre les besoins par usage et organiser les commandes selon le calendrier du chantier."
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "Retrouvez les sources datées et les périodes de référence dans le journal BTP."
+        }
+      ]
+    },
+    "kind": "Actualité",
+    "verified": true,
+    "approvals": {
+      "site": {
+        "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : PDF officiel téléchargé avec succès (HTTP 200, 7 531 507 octets) et section BTP page 32 lue intégralement. Portail ministériel : publication le 26/10/2026. Trimestres et cumul distingués ; pourcentages, segments et périodes recoupés dans l’article complet de La Vie éco, signé avec MAP, publié le 26/10 à 18h23. Source primaire utilisée ; aucune validation humaine déclarée. Sujet trimestriel distinct de l’IPPI et du port déjà publiés.",
+        "digest": "04d94cbadc5189f5daeafaf6be28631cf94dc0d23aefb8df1738e56c92de24c9"
+      }
+    }
   }
 ]
