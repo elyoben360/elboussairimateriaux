@@ -1,0 +1,1 @@
+(()=>{'use strict';let count=0;try{const a=JSON.parse(localStorage.getItem('ebm-cart-v1')||'[]');if(Array.isArray(a))count=a.filter(x=>x&&x.kind==='mat'&&typeof x.title==='string'&&Number.isFinite(x.qty)&&x.qty>0).length}catch(e){}document.querySelectorAll('#count,#mobileCount').forEach(e=>e.textContent=count);})();

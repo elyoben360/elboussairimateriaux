@@ -1,0 +1,12 @@
+# Allow only generated public pages and assets; exclude all source and drafts.
+*
+!index.html
+!404.html
+!robots.txt
+!sitemap.xml
+!_headers
+!assets/
+!assets/**
+!actualites/
+!actualites/**
+assets/references/ain-diab/

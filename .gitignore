@@ -1,0 +1,16 @@
+.openai/
+dist/
+dist-production/
+preview-media/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.wrangler/
+node_modules/
+artifacts/
+
+# Local editorial demonstration, not approved for public disclosure
+src/atelier.html
+src/editorial-demo.js

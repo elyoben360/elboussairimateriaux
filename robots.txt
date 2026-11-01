@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://elboussairimateriaux.com/sitemap.xml

@@ -1,0 +1,9 @@
+{
+  "name": "elboussairimateriaux",
+  "private": true,
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "preview:build": "python3 scripts/build.py --preview",
+    "test": "python3 -m unittest discover -s tests -v"
+  }
+}

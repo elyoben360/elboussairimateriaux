@@ -1,0 +1,2 @@
+def fixture():
+    return {'id':'test','slug':'test','status':'review','title':'Test technique','summary':'Test','category':'Test','date':'2026-01-01','cover':'/assets/editorial-cover.svg','sections':[{'title':'Test','paragraphs':['Test technique uniquement.']}],'sources':[],'instagram':{'caption':'TEST','slides':[{'title':'Test','body':'Test'} for _ in range(4)]+[{'title':"Lire l'article complet — lien en bio",'body':'Test'}]}}

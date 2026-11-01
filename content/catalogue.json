@@ -1,0 +1,333 @@
+[
+  {
+    "work": "Gros œuvre",
+    "family": "Blocs, briques et hourdis",
+    "product": "Agglos béton",
+    "variants": [
+      {
+        "name": "Agglo béton",
+        "dimension": "10 × 20 × 50 cm"
+      },
+      {
+        "name": "Agglo béton",
+        "dimension": "15 × 20 × 50 cm"
+      },
+      {
+        "name": "Agglo béton",
+        "dimension": "20 × 20 × 50 cm"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Blocs, briques et hourdis",
+    "product": "Briques rouges",
+    "variants": [
+      {
+        "name": "Brique rouge B10",
+        "dimension": "7 × 20 × 25 cm"
+      },
+      {
+        "name": "Brique rouge B10",
+        "dimension": "Dimensions à confirmer"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Blocs, briques et hourdis",
+    "product": "Hourdis béton",
+    "variants": [
+      {
+        "name": "Hourdis béton",
+        "dimension": "12 × 20 × 52 cm"
+      },
+      {
+        "name": "Hourdis béton",
+        "dimension": "16 × 20 × 52 cm"
+      },
+      {
+        "name": "Hourdis béton",
+        "dimension": "20 × 20 × 52 cm"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Ciments et liants",
+    "product": "Ciments",
+    "variants": [
+      {
+        "name": "Ciment CPJ 35",
+        "dimension": "Conditionnement à préciser"
+      },
+      {
+        "name": "Ciment CPJ 45",
+        "dimension": "Conditionnement à préciser"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Acier et armatures",
+    "product": "Fer à béton HLE",
+    "variants": [
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 6 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 8 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 10 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 12 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 14 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 16 mm"
+      },
+      {
+        "name": "Fer à béton HLE",
+        "dimension": "Ø 20 mm"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Acier et armatures",
+    "product": "Treillis soudés",
+    "variants": [
+      {
+        "name": "Treillis soudé",
+        "dimension": "3,5 × 3,5 / 20 × 30 / 600 × 220 DF"
+      },
+      {
+        "name": "Treillis soudé",
+        "dimension": "5 × 3,5 / 20 × 20 / 600 × 220 DF"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Acier et armatures",
+    "product": "Accessoires armatures",
+    "variants": [
+      {
+        "name": "Pointes",
+        "dimension": "16 × 60"
+      },
+      {
+        "name": "Pointes",
+        "dimension": "18 × 80"
+      },
+      {
+        "name": "Pointes",
+        "dimension": "20 × 100"
+      },
+      {
+        "name": "Fil recuit JP",
+        "dimension": "8"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Planchers et poutrelles",
+    "product": "Éléments PE",
+    "variants": [
+      {
+        "name": "Élément PE",
+        "dimension": "16 B.080 R.070 Z.040 LG1"
+      },
+      {
+        "name": "Élément PE",
+        "dimension": "20 B.120 R.070 Z.045 LG1"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Planchers et poutrelles",
+    "product": "Poutrelles précontraintes",
+    "variants": [
+      {
+        "name": "Poutrelle précontrainte",
+        "dimension": "112 PS"
+      },
+      {
+        "name": "Poutrelle précontrainte",
+        "dimension": "113 PS"
+      },
+      {
+        "name": "Poutrelle précontrainte",
+        "dimension": "114 PS"
+      },
+      {
+        "name": "Poutrelle précontrainte",
+        "dimension": "115 PS"
+      },
+      {
+        "name": "Poutrelle précontrainte",
+        "dimension": "134 PS"
+      },
+      {
+        "name": "Poutrelle précontrainte",
+        "dimension": "156 PS"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Bois de coffrage",
+    "product": "Madriers",
+    "variants": [
+      {
+        "name": "Madrier",
+        "dimension": "MAD 300"
+      },
+      {
+        "name": "Madrier",
+        "dimension": "MAD 400"
+      }
+    ]
+  },
+  {
+    "work": "Gros œuvre",
+    "family": "Sables et granulats",
+    "product": "Agrégats",
+    "variants": [
+      {
+        "name": "Sable",
+        "dimension": "Sable de mer / sable lavé / sable concassé — type à préciser"
+      },
+      {
+        "name": "Gravier",
+        "dimension": "G1 / G2 — calibre à préciser"
+      },
+      {
+        "name": "Gravette",
+        "dimension": "4/10 · 10/14 · 10/20 — calibre à préciser"
+      },
+      {
+        "name": "Tout-venant",
+        "dimension": "GNA · GNF · GNT · CDF — classe à préciser"
+      },
+      {
+        "name": "Stérile",
+        "dimension": "Granulométrie à préciser"
+      },
+      {
+        "name": "Grave / matériaux de remblai",
+        "dimension": "Nature et granulométrie à préciser"
+      },
+      {
+        "name": "Autre agrégat",
+        "dimension": "Référence ou granulométrie libre"
+      }
+    ]
+  },
+  {
+    "work": "Second œuvre",
+    "family": "Colles et accessoires",
+    "product": "Ciments-colles",
+    "variants": [
+      {
+        "name": "Ciment-colle",
+        "dimension": "TRADICEM · sac 25 kg"
+      },
+      {
+        "name": "Ciment-colle",
+        "dimension": "Webercol Classic blanc · sac"
+      }
+    ]
+  },
+  {
+    "work": "Second œuvre",
+    "family": "Étanchéité",
+    "product": "Membranes bitumineuses",
+    "variants": [
+      {
+        "name": "Bitu Flex VV",
+        "dimension": "2 mm F/F"
+      },
+      {
+        "name": "Bitu Flex VV",
+        "dimension": "3 mm F/F"
+      },
+      {
+        "name": "Bitu Flex VV",
+        "dimension": "4 mm F/F"
+      },
+      {
+        "name": "Sopralène Flam 180",
+        "dimension": "10 × 1 m"
+      },
+      {
+        "name": "Sopralène Flam Jardin Cap",
+        "dimension": "8 × 1 m"
+      }
+    ]
+  },
+  {
+    "work": "Second œuvre",
+    "family": "Étanchéité",
+    "product": "Produits d’étanchéité",
+    "variants": [
+      {
+        "name": "Emufal Solid",
+        "dimension": "25 kg"
+      }
+    ]
+  },
+  {
+    "work": "Second œuvre",
+    "family": "Isolation",
+    "product": "Polystyrène",
+    "variants": [
+      {
+        "name": "Polystyrène",
+        "dimension": "100 × 50 × 2 cm"
+      },
+      {
+        "name": "Polystyrène",
+        "dimension": "100 × 50 × 4 cm"
+      }
+    ]
+  },
+  {
+    "work": "Second œuvre",
+    "family": "Isolation",
+    "product": "Films de protection",
+    "variants": [
+      {
+        "name": "Film polyéthylène",
+        "dimension": "Épaisseur à préciser"
+      }
+    ]
+  },
+  {
+    "work": "Second œuvre",
+    "family": "Colles et accessoires",
+    "product": "Accessoires de finition",
+    "variants": [
+      {
+        "name": "Grillage triple torsion",
+        "dimension": "25"
+      },
+      {
+        "name": "Baguette d’angle",
+        "dimension": "Dimension à préciser"
+      }
+    ]
+  }
+]
