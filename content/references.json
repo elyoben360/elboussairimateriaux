@@ -62,8 +62,13 @@
     "constraints": "Horaires restreints, accès difficile et espace de manœuvre limité. Présence d’arbres, d’un palmier et d’un câble internet aérien à proximité de la grue, avec une attention à porter au voisinage.",
     "solutions": "Manœuvres adaptées à l’espace disponible et vigilance renforcée autour du câble et de la végétation. Déchargement conduit avec attention afin de limiter la gêne dans l’environnement résidentiel.",
     "result": "Livraison réalisée avec succès malgré les contraintes d’accès et de déchargement.",
-    "photos": [],
-    "pending_photos": [
+    "photos": [
+      {
+        "src": "/assets/references/ain-diab/04.webp",
+        "alt": "Camion-grue dans la rue résidentielle",
+        "width": 1440,
+        "height": 939
+      },
       {
         "src": "/assets/references/ain-diab/01.webp",
         "alt": "Camion-grue à proximité du portail de la villa",
@@ -81,12 +86,6 @@
         "alt": "Camion chargé de palettes devant le chantier",
         "width": 1440,
         "height": 1081
-      },
-      {
-        "src": "/assets/references/ain-diab/04.webp",
-        "alt": "Camion-grue dans la rue résidentielle",
-        "width": 1440,
-        "height": 939
       },
       {
         "src": "/assets/references/ain-diab/05.webp",
@@ -112,7 +111,6 @@
         "width": 1079,
         "height": 1440
       }
-    ],
-    "confirmation": "Quantité indicative et rattachement des huit photographies à cette intervention à confirmer avant publication."
+    ]
   }
 ]

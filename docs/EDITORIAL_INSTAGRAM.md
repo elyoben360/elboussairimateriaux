@@ -1,3 +1,5 @@
+> Mise à jour du 1 novembre 2026 : publication automatique du journal sur le site autorisée ; voir PUBLICATION_AUTOMATIQUE.md. Les photos Aïn Diab sont affectées et publiables à la demande du propriétaire. Les anciennes consignes de sélection manuelle ci-dessous restent uniquement historiques pour le site. Instagram reste soumis à autorisation distincte.
+
 # Circuit éditorial et Instagram
 
 ## Routine quotidienne configurée

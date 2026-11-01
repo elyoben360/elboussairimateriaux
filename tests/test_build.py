@@ -17,7 +17,7 @@ class BuildTests(unittest.TestCase):
         for photo in photos:
             with Image.open(photo) as im:im.verify()
     def test_production_excludes_drafts_and_pending_media(self):
-        root=ROOT/'dist-production';self.assertFalse((root/'atelier').exists());self.assertFalse((root/'actualites/preparer-livraison-acces-contraint').exists());self.assertFalse((root/'assets/references/ain-diab').exists());self.assertNotIn('pending_photos',(root/'assets/references-data.js').read_text());self.assertNotIn('noindex',(root/'index.html').read_text())
+        root=ROOT/'dist-production';self.assertFalse((root/'atelier').exists());self.assertFalse((root/'actualites/preparer-livraison-acces-contraint').exists());self.assertEqual(len(list((root/'assets/references/ain-diab').glob('*.webp'))),8);self.assertNotIn('pending_photos',(root/'assets/references-data.js').read_text());self.assertNotIn('noindex',(root/'index.html').read_text())
     def test_preview_links_and_images_resolve(self):
         root=ROOT/'dist'
         for file in root.rglob('*.html'):

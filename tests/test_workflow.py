@@ -31,5 +31,5 @@ class EditorialTests(unittest.TestCase):
             with self.assertRaises(ValueError):validate_article(a)
     def test_reference_facts_and_catalogue_preserved(self):
         data=json.loads((ROOT/'content/catalogue.json').read_text());self.assertEqual(len(data),17)
-        refs=json.loads((ROOT/'content/references.json').read_text());self.assertEqual(len(refs[0]['photos']),6);self.assertEqual(refs[1]['date'],'2026-10-24');self.assertEqual(len(refs[1]['pending_photos']),8);self.assertEqual(refs[1]['photos'],[])
+        refs=json.loads((ROOT/'content/references.json').read_text());self.assertEqual(len(refs[0]['photos']),6);self.assertEqual(refs[1]['date'],'2026-10-24');self.assertNotIn('pending_photos',refs[1]);self.assertEqual(len(refs[1]['photos']),8)
 if __name__=='__main__':unittest.main()

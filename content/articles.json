@@ -1,1 +1,167 @@
-[]
+[
+  {
+    "id": "hcp-ippi-septembre-2026",
+    "slug": "prix-production-materiaux-septembre-2026-hcp",
+    "status": "published",
+    "title": "Prix à la production : les derniers repères du HCP pour les matériaux",
+    "summary": "La note publiée le 30 octobre montre des évolutions différentes entre minéraux non métalliques et métallurgie en septembre 2026.",
+    "category": "Évolution des prix",
+    "date": "2026-11-01",
+    "event_period": "Septembre 2026 · note publiée le 30 octobre 2026",
+    "cover": "/assets/editorial/indices-septembre-2026.svg",
+    "cover_alt": "Repères HCP : minéraux non métalliques +0,6 %, métallurgie −0,4 %, variation mensuelle en septembre 2026",
+    "sections": [
+      {
+        "title": "Deux évolutions à distinguer",
+        "paragraphs": [
+          "Selon le HCP, les prix à la production des autres produits minéraux non métalliques augmentent de 0,6 % en septembre par rapport à août 2026. La métallurgie recule de 0,4 % sur la même période. L’indice manufacturier hors raffinage progresse de 0,1 %."
+        ]
+      },
+      {
+        "title": "Ce que cela signifie pour un chantier",
+        "paragraphs": [
+          "Ces indices sectoriels ne donnent pas le tarif d’un sac de ciment ou d’une barre d’acier chez un fournisseur. Ils ne permettent pas non plus de conclure que tous les matériaux suivent la même tendance."
+        ]
+      },
+      {
+        "title": "Notre lecture pour l’approvisionnement",
+        "paragraphs": [
+          "Pour comparer des offres, retenez la même référence, la même unité, la même date et les mêmes conditions de livraison. Cette recommandation pratique est notre lecture éditoriale, pas une prévision de prix du HCP."
+        ]
+      }
+    ],
+    "source_note": "Source primaire consultée le 1er novembre 2026. Les chiffres portent sur septembre, et non sur les prix de vente de novembre.",
+    "sources": [
+      {
+        "title": "HCP — IPPI de septembre 2026",
+        "url": "https://www.hcp.ma/L-indice-des-prix-a-la-production-industrielle-energetique-et-miniere-IPPI-du-mois-de-Septembre-2026_a4363.html",
+        "date": "2026-10-30"
+      }
+    ],
+    "verification": {
+      "checked_on": "2026-11-01",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "Note primaire HCP lue : date du 30/10/2026, variations mensuelles de septembre et périmètres sectoriels vérifiés."
+    },
+    "instagram": {
+      "caption": "Le dernier point du HCP distingue les évolutions sectorielles. Lire l’article complet — lien en bio.",
+      "slides": [
+        {
+          "title": "Les repères du HCP",
+          "body": "Septembre 2026"
+        },
+        {
+          "title": "Des secteurs distincts",
+          "body": "Évolutions mensuelles"
+        },
+        {
+          "title": "Indice et devis",
+          "body": "Deux niveaux de lecture"
+        },
+        {
+          "title": "Comparer les mêmes références",
+          "body": "Unité, date, livraison"
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "elboussairimateriaux.com"
+        }
+      ]
+    },
+    "kind": "Actualité",
+    "verified": true,
+    "approvals": {
+      "site": {
+        "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Note primaire HCP lue : date du 30/10/2026, variations mensuelles de septembre et périmètres sectoriels vérifiés.",
+        "digest": "e34315808eba5c94a04ab4329bed40d08032a13268690fb030b435f227678376"
+      }
+    }
+  },
+  {
+    "id": "nador-west-med-31-octobre-2026",
+    "slug": "nador-west-med-terminal-est-31-octobre-2026",
+    "status": "published",
+    "title": "Nador West Med : les opérations du terminal Est lancées le 31 octobre",
+    "summary": "Le premier terminal à conteneurs du port a démarré ses opérations le 31 octobre 2026, selon une dépêche MAP.",
+    "category": "Transport de marchandises et logistique",
+    "date": "2026-11-01",
+    "event_period": "31 octobre 2026 · lancement des opérations du terminal Est",
+    "cover": "/assets/editorial/ports-octobre-2026.svg",
+    "cover_alt": "Illustration éditoriale du lancement des opérations du terminal Est de Nador West Med, le 31 octobre 2026",
+    "sections": [
+      {
+        "title": "Une première étape opérationnelle",
+        "paragraphs": [
+          "Le 31 octobre, à Iaâzzanène dans la province de Nador, le Prince Héritier Moulay El Hassan a lancé les opérations du premier terminal à conteneurs de Nador West Med. La dépêche MAP diffusée par Médias24 rapporte le premier déchargement d’un conteneur depuis un navire commercial au terminal Est."
+        ]
+      },
+      {
+        "title": "Distinguer démarrage et capacité à terme",
+        "paragraphs": [
+          "Le terminal dispose de 1 520 mètres de quai. La capacité annoncée de 3,5 millions de conteneurs correspond à l’horizon 2030. Le terminal Ouest demeure prévu pour avril 2027 : le démarrage du terminal Est ne signifie donc pas que toutes les installations du complexe sont déjà en service."
+        ]
+      },
+      {
+        "title": "Notre lecture pour les approvisionnements",
+        "paragraphs": [
+          "Cette étape mérite un suivi pour les chaînes logistiques marocaines. Avant d’organiser un acheminement, notre recommandation est de vérifier auprès des opérateurs les services effectivement ouverts, les accès terrestres et les délais. Le lancement ne garantit ni baisse du fret ni commande de matériaux pour une entreprise donnée."
+        ]
+      }
+    ],
+    "source_note": "Dépêche MAP publiée le 31 octobre 2026, lue dans sa diffusion par Médias24 et vérifiée le 1er novembre. Le communiqué officiel du 28 octobre est fourni comme contexte chronologique, pas comme confirmation indépendante de l’événement du 31.",
+    "sources": [
+      {
+        "title": "MAP via Médias24 — Lancement du premier terminal, 31 octobre",
+        "url": "https://medias24.com/2026/10/31/le-prince-heritier-moulay-el-hassan-lance-le-premier-terminal-a-conteneurs-du-port-nador-west-med-1786223/",
+        "date": "2026-10-31"
+      },
+      {
+        "title": "Contexte officiel — Maroc.ma, communiqué du 28 octobre",
+        "url": "https://maroc.ma/fr/actualites/communique-du-cabinet-royal-9",
+        "date": "2026-10-28"
+      }
+    ],
+    "verification": {
+      "checked_on": "2026-11-01",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "Dépêche signée MAP lue sur Médias24 : publication 31/10/2026 17h20, mise à jour 18h56 ; lancement le 31, premier déchargement, 1 520 mètres, capacité 3,5 millions à horizon 2030 et terminal Ouest prévu avril 2027. Communiqué officiel Maroc.ma du 28 octobre lu pour le contexte, sans le présenter comme recoupement indépendant."
+    },
+    "instagram": {
+      "caption": "Nador West Med : une nouvelle étape opérationnelle annoncée le 31 octobre. Lire l’article complet — lien en bio.",
+      "slides": [
+        {
+          "title": "Nador West Med",
+          "body": "Actualité du 31 octobre 2026"
+        },
+        {
+          "title": "Le terminal Est démarre",
+          "body": "Premières opérations"
+        },
+        {
+          "title": "Des étapes encore à venir",
+          "body": "Distinguer capacité future et service actuel"
+        },
+        {
+          "title": "Préparer ses flux",
+          "body": "Vérifier services, accès et délais"
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "elboussairimateriaux.com"
+        }
+      ]
+    },
+    "kind": "Actualité",
+    "verified": true,
+    "approvals": {
+      "site": {
+        "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Dépêche signée MAP lue sur Médias24 : publication 31/10/2026 17h20, mise à jour 18h56 ; lancement le 31, premier déchargement, 1 520 mètres, capacité 3,5 millions à horizon 2030 et terminal Ouest prévu avril 2027. Communiqué officiel Maroc.ma du 28 octobre lu pour le contexte, sans le présenter comme recoupement indépendant.",
+        "digest": "bef862f5806c074c0aed8cc13e99eb283471ffb140c81cab5132079be6a99f6c"
+      }
+    }
+  }
+]
