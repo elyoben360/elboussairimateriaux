@@ -17,6 +17,7 @@ def canonical(url):
 def matches(host,domains):return any(host==d or host.endswith('.'+d) for d in domains)
 def accept(existing,batch,policy,today):
     if not policy.get('automatic_site_publication'):raise ValueError('Publication automatique non autorisée')
+    if len(batch)>policy.get('max_articles_per_run',len(batch)):raise ValueError('Limite par passage dépassée')
     current=copy.deepcopy(existing);seen={canonical(s['url']) for a in current for s in a['sources']};slugs={a['slug'] for a in current};ids={a['id'] for a in current}
     count=sum(a['date']==today.isoformat() and a['status']=='published' for a in current)
     if count+len(batch)>policy['max_articles_per_day']:raise ValueError('Limite quotidienne dépassée')

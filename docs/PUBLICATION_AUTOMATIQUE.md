@@ -43,3 +43,7 @@ Aucune image IA n’est autorisée, y compris arrière-plans, couvertures, vigne
 Les photos du propriétaire restent dans son catalogue, ses références et les articles « Notre activité ». Les floutages des visages sont obtenus par traitement local classique des pixels originaux. Les anciennes versions régénérées par IA sont retirées des fichiers publics et remplacées par de nouvelles URLs. Les originaux privés ne sont jamais publiés.
 
 Madriers : mètre linéaire uniquement. Polystyrène : m³ uniquement. Fer à béton : kg, tonne ou barre. Le héros défile dès l’ouverture sans clic ni arrêt au simple survol. Le journal ouvre par défaut « Marché & projets » ; les reportages internes restent consultables par « Notre activité ».
+
+
+## Veille renforcée et interface multilingue
+Veille horaire, jusqu’à trois sujets distincts par passage et 24 par jour, sans quota forcé. Priorité aux publications des dernières 24 h ; sources datées de moins de sept jours. Préférer une mise à jour sourcée de l’article existant lorsqu’un même sujet évolue, avec dateModified et empreinte automatique recalculée. Le site ne garantit pas un suivi instantané. Conserver les photos réelles et les licences, les animations sans Pause, le lien Instagram et les huit langues d’interface. Articles et descriptions techniques restent en français tant qu’une traduction complète n’a pas été validée ; ne pas présenter les traductions d’interface comme des articles traduits.
