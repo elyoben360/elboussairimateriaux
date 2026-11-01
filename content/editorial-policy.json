@@ -34,5 +34,12 @@
   ],
   "instagram_publication": false,
   "max_articles_per_run": 2,
-  "publication_interval_hours": 2
+  "publication_interval_hours": 2,
+  "images": {
+    "real_photographs_only": true,
+    "ai_images_allowed": false,
+    "require_verified_reuse_rights": true,
+    "require_source_credit_license": true,
+    "no_image_fallback": "keep_article_pending"
+  }
 }

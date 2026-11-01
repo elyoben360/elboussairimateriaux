@@ -8,8 +8,8 @@
     "category": "Évolution des prix",
     "date": "2026-11-01",
     "event_period": "Septembre 2026 · note publiée le 30 octobre 2026",
-    "cover": "/assets/depot/treillis-soudes-stock.webp",
-    "cover_alt": "Treillis soudés de notre dépôt, illustration du thème des matériaux.",
+    "cover": "/assets/editorial/briques-construction-photo.webp",
+    "cover_alt": "Briques de construction, photographie réelle de Saral Shots (2024). Illustration du thème des matériaux ; aucun chantier marocain n’est identifié sur cette vue.",
     "sections": [
       {
         "title": "Deux évolutions à distinguer",
@@ -74,15 +74,27 @@
     "approvals": {
       "site": {
         "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
-        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Note primaire HCP lue : date du 30/10/2026, variations mensuelles de septembre et périmètres sectoriels vérifiés. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique.",
-        "digest": "f5a0cced90ccb52cde55435fb533907e069c97d561c4b07ddb42f7656040353b"
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Note primaire HCP lue : date du 30/10/2026, variations mensuelles de septembre et périmètres sectoriels vérifiés. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique. Le propriétaire demande de remplacer les photos du catalogue par des visuels propres aux sujets d’actualité ; couverture remplacée par une illustration générée explicitement identifiée. Dernière instruction du propriétaire : aucune image IA. Couverture remplacée par une photographie réelle avec licence vérifiée ; la localisation d’illustration et le crédit sont explicites.",
+        "digest": "84834336a050fa9a2cf253e782a9bfdd3f4fad8f3cd4b052042468b6d2deac89"
       }
     },
-    "cover_caption": "Photo de notre dépôt · Illustration thématique des matériaux, sans représentation d’un événement statistique.",
-    "cover_width": 810,
-    "cover_height": 1440,
-    "cover_credit": "© El Boussairi Matériaux",
-    "updated_on": "2026-11-01"
+    "cover_caption": "Briques de construction, photographie réelle de Saral Shots (2024). Illustration du thème des matériaux ; aucun chantier marocain n’est identifié sur cette vue.",
+    "cover_width": 1440,
+    "cover_height": 967,
+    "cover_credit": "Saral Shots · CC0 1.0",
+    "updated_on": "2026-11-01",
+    "cover_provenance": {
+      "type": "real_photograph",
+      "author": "Saral Shots",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+      "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+      "rights_checked_on": "2026-11-01"
+    },
+    "cover_source": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+    "cover_license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   {
     "id": "nador-west-med-31-octobre-2026",
@@ -93,8 +105,8 @@
     "category": "Transport de marchandises et logistique",
     "date": "2026-11-01",
     "event_period": "31 octobre 2026 · lancement des opérations du terminal Est",
-    "cover": "/assets/depot/camion-grue-palfinger.webp",
-    "cover_alt": "Camion-grue de notre activité, illustration du thème de la logistique.",
+    "cover": "/assets/editorial/tanger-med-photo.webp",
+    "cover_alt": "Port de Tanger Med, photographié en 2019 par Adam Cli. Illustration du transport portuaire marocain ; cette photographie ne représente pas Nador West Med.",
     "sections": [
       {
         "title": "Une première étape opérationnelle",
@@ -164,15 +176,27 @@
     "approvals": {
       "site": {
         "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
-        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Dépêche signée MAP lue sur Médias24 : publication 31/10/2026 17h20, mise à jour 18h56 ; lancement le 31, premier déchargement, 1 520 mètres, capacité 3,5 millions à horizon 2030 et terminal Ouest prévu avril 2027. Communiqué officiel Maroc.ma du 28 octobre lu pour le contexte, sans le présenter comme recoupement indépendant. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique.",
-        "digest": "b3113ebaca9e1320255a93a6f22b34c3bce59f2f88181d5bba8493e20d2a912d"
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Dépêche signée MAP lue sur Médias24 : publication 31/10/2026 17h20, mise à jour 18h56 ; lancement le 31, premier déchargement, 1 520 mètres, capacité 3,5 millions à horizon 2030 et terminal Ouest prévu avril 2027. Communiqué officiel Maroc.ma du 28 octobre lu pour le contexte, sans le présenter comme recoupement indépendant. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique. Le propriétaire demande de remplacer les photos du catalogue par des visuels propres aux sujets d’actualité ; couverture remplacée par une illustration générée explicitement identifiée. Dernière instruction du propriétaire : aucune image IA. Couverture remplacée par une photographie réelle avec licence vérifiée ; la localisation d’illustration et le crédit sont explicites.",
+        "digest": "7e8d02cbc3164d7c70dee09d1651ccdf6c8b9a2bd52cd739c584a8cccb1924b6"
       }
     },
-    "cover_caption": "Photo de notre activité · Illustration logistique ; ce cliché ne représente pas le port de Nador West Med.",
-    "cover_width": 1171,
-    "cover_height": 1343,
-    "cover_credit": "© El Boussairi Matériaux",
-    "updated_on": "2026-11-01"
+    "cover_caption": "Port de Tanger Med, photographié en 2019 par Adam Cli. Illustration du transport portuaire marocain ; cette photographie ne représente pas Nador West Med.",
+    "cover_width": 1440,
+    "cover_height": 718,
+    "cover_credit": "Adam Cli · CC BY-SA 4.0",
+    "updated_on": "2026-11-01",
+    "cover_provenance": {
+      "type": "real_photograph",
+      "author": "Adam Cli",
+      "source_page": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+      "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PortofTangerMed1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+      "rights_checked_on": "2026-11-01"
+    },
+    "cover_source": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+    "cover_license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "depf-ciment-troisieme-trimestre-2026",
@@ -183,8 +207,8 @@
     "category": "Ciment et béton",
     "date": "2026-11-01",
     "event_period": "Juillet à septembre 2026 pour le bilan trimestriel ; janvier à septembre 2026 pour le cumul et les segments. Note DEPF n° 356 publiée le 26 octobre 2026.",
-    "cover": "/assets/depot/stock-ciment-holcim.webp",
-    "cover_alt": "Ciment sur palettes dans notre dépôt, illustration du thème du ciment.",
+    "cover": "/assets/editorial/cimenterie-carboneras-photo.webp",
+    "cover_alt": "Cimenterie de Carboneras, en Espagne, photographiée en 2020. Photo d’illustration du secteur cimentier ; elle ne représente pas une usine marocaine.",
     "sections": [
       {
         "title": "Les faits : une progression trimestrielle qui se poursuit",
@@ -254,15 +278,27 @@
     "approvals": {
       "site": {
         "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
-        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : PDF officiel téléchargé avec succès (HTTP 200, 7 531 507 octets) et section BTP page 32 lue intégralement. Portail ministériel : publication le 26/10/2026. Trimestres et cumul distingués ; pourcentages, segments et périodes recoupés dans l’article complet de La Vie éco, signé avec MAP, publié le 26/10 à 18h23. Source primaire utilisée ; aucune validation humaine déclarée. Sujet trimestriel distinct de l’IPPI et du port déjà publiés. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique.",
-        "digest": "b2db05f886d3e812272145abfc8cec49cbbdb48119f0345385beeffed8fc1812"
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : PDF officiel téléchargé avec succès (HTTP 200, 7 531 507 octets) et section BTP page 32 lue intégralement. Portail ministériel : publication le 26/10/2026. Trimestres et cumul distingués ; pourcentages, segments et périodes recoupés dans l’article complet de La Vie éco, signé avec MAP, publié le 26/10 à 18h23. Source primaire utilisée ; aucune validation humaine déclarée. Sujet trimestriel distinct de l’IPPI et du port déjà publiés. Illustration remplacée à la demande du propriétaire par une photographie de son travail, légendée comme illustration thématique. Le propriétaire demande de remplacer les photos du catalogue par des visuels propres aux sujets d’actualité ; couverture remplacée par une illustration générée explicitement identifiée. Dernière instruction du propriétaire : aucune image IA. Couverture remplacée par une photographie réelle avec licence vérifiée ; la localisation d’illustration et le crédit sont explicites.",
+        "digest": "d2e3caac3b0f8c634459dbee092fe59e9f0a102152d1f6212588af5baf3f1ae7"
       }
     },
-    "cover_caption": "Photo de notre dépôt · Illustration du thème du ciment, sans lien avec une livraison statistiquement recensée.",
+    "cover_caption": "Cimenterie de Carboneras, en Espagne, photographiée en 2020. Photo d’illustration du secteur cimentier ; elle ne représente pas une usine marocaine.",
     "cover_width": 1440,
-    "cover_height": 810,
-    "cover_credit": "© El Boussairi Matériaux",
-    "updated_on": "2026-11-01"
+    "cover_height": 961,
+    "cover_credit": "Nicolas Vigier · CC0 1.0",
+    "updated_on": "2026-11-01",
+    "cover_provenance": {
+      "type": "real_photograph",
+      "author": "Nicolas Vigier",
+      "source_page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+      "original_file": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+      "rights_checked_on": "2026-11-01"
+    },
+    "cover_source": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+    "cover_license_url": "https://creativecommons.org/publicdomain/zero/1.0/"
   },
   {
     "id": "produit-panneaux-muraux",

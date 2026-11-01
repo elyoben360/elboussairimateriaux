@@ -258,9 +258,12 @@
     "slug": "madriers",
     "facts": [
       "Longueurs : 3 m · 4 m",
-      "Bois de coffrage"
+      "Vente au mètre linéaire uniquement"
     ],
-    "image": "/assets/depot/arrivage-madriers-coffrage-560.webp"
+    "image": "/assets/depot/arrivage-madriers-coffrage-560.webp",
+    "units": [
+      "mètre linéaire"
+    ]
   },
   {
     "work": "Gros œuvre",
@@ -296,7 +299,8 @@
         "dimension": "Référence ou granulométrie libre"
       }
     ],
-    "slug": "agregats"
+    "slug": "agregats",
+    "image": "/assets/references/bouznika/04.webp"
   },
   {
     "work": "Second œuvre",
@@ -380,10 +384,14 @@
     ],
     "slug": "polystyrene",
     "facts": [
-      "Sacs de 0,5 m³",
-      "Épaisseurs : 2 cm et 4 cm"
+      "Conditionnement : sacs de 0,5 m³",
+      "Commande et calcul en m³ uniquement",
+      "Épaisseurs : 2 cm · 4 cm"
     ],
-    "image": "/assets/depot/chargement-panneaux-blancs-560.webp"
+    "image": "/assets/depot/chargement-panneaux-blancs-560.webp",
+    "units": [
+      "m³"
+    ]
   },
   {
     "work": "Second œuvre",
@@ -432,6 +440,7 @@
         "name": "Pointe JP10",
         "dimension": "JP10"
       }
-    ]
+    ],
+    "image": "/assets/depot/palette-sacs-depot-560.webp"
   }
 ]

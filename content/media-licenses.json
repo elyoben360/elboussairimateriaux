@@ -1,0 +1,47 @@
+[
+  {
+    "key": "carboneras",
+    "slug": "cimenterie-carboneras-photo",
+    "author": "Nicolas Vigier",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+    "caption": "Cimenterie de Carboneras, en Espagne, photographiée en 2020. Photo d’illustration du secteur cimentier ; elle ne représente pas une usine marocaine.",
+    "width": 1440,
+    "height": 961,
+    "asset": "/assets/editorial/cimenterie-carboneras-photo.webp",
+    "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+    "verified_on": "2026-11-01"
+  },
+  {
+    "key": "bricks",
+    "slug": "briques-construction-photo",
+    "author": "Saral Shots",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+    "caption": "Briques de construction, photographie réelle de Saral Shots (2024). Illustration du thème des matériaux ; aucun chantier marocain n’est identifié sur cette vue.",
+    "width": 1440,
+    "height": 967,
+    "asset": "/assets/editorial/briques-construction-photo.webp",
+    "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+    "verified_on": "2026-11-01"
+  },
+  {
+    "key": "tanger-med",
+    "slug": "tanger-med-photo",
+    "author": "Adam Cli",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PortofTangerMed1.jpg",
+    "caption": "Port de Tanger Med, photographié en 2019 par Adam Cli. Illustration du transport portuaire marocain ; cette photographie ne représente pas Nador West Med.",
+    "width": 1440,
+    "height": 718,
+    "asset": "/assets/editorial/tanger-med-photo.webp",
+    "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+    "verified_on": "2026-11-01"
+  }
+]
