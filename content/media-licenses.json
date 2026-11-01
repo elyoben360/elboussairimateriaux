@@ -43,5 +43,19 @@
     "asset": "/assets/editorial/tanger-med-photo.webp",
     "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
     "verified_on": "2026-11-01"
+  },
+  {
+    "key": "casablanca-map",
+    "author": "Dr. Blofeld / OpenStreetMap contributors",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Location_map_Greater_Casablanca.png",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/00/Location_map_Greater_Casablanca.png",
+    "caption": "Carte du Grand Casablanca issue d’OpenStreetMap, édition du 22 avril 2012. Fond géographique fixe.",
+    "width": 1600,
+    "height": 788,
+    "asset": "/assets/casablanca-map.webp",
+    "processing": "Redimensionnement et conversion WebP ; teinte sombre appliquée par CSS. Aucune génération IA.",
+    "verified_on": "2026-11-01"
   }
 ]
