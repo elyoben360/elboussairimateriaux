@@ -15,7 +15,7 @@ class DepotSecurityTests(unittest.TestCase):
                     self.assertFalse(im.getexif());im.verify()
     def test_csp_allows_exact_structured_data(self):
         headers=(ROOT/'dist-production/_headers').read_text()
-        self.assertIn("connect-src 'none'",headers)
+        self.assertIn("connect-src 'self'",headers)
         self.assertIn("frame-ancestors 'none'",headers)
         self.assertNotIn("script-src 'self' 'unsafe-inline'",headers)
         for page in (ROOT/'dist-production').rglob('*.html'):

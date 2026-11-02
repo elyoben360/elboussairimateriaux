@@ -1,4 +1,5 @@
 import html
+from journal import masthead
 
 def esc(s):return html.escape(str(s),quote=True)
 def background_slides(slides):
@@ -18,9 +19,7 @@ def editorial_hero(articles):
         if a['status']!='published' or not a.get('cover') or a['cover'] in seen:continue
         seen.add(a['cover'])
         slides.append(dict(src=a['cover'],width=a.get('cover_width',1200),height=a.get('cover_height',630),caption='À lire : '+a['title']+' ↗',url='/actualites/'+a['slug']+'/',credit=a.get('cover_credit','')))
-    out='<section class="editorial-hero"'+(' data-image-rotation' if slides else '')+'>'+background_slides(slides)+'<div class="wrap hero-content"><div class="eyebrow">Le journal</div><h1>Actualités & Marché du BTP</h1><p>Matériaux, chantiers et transport de marchandises au Maroc. Des faits vérifiés, leurs sources et des images adaptées à chaque sujet.</p>'
-    if slides:out+='<a class="hero-credit" data-rotation-caption href="'+esc(slides[0]['url'])+'">'+esc(slides[0]['caption'])+'</a><small class="editorial-image-credit" data-rotation-credit>'+esc(slides[0]['credit'])+'</small>'+rotation_controls()
-    return out+'</div></section>'
+    return '<section class="zi-hero"><div class="wrap">'+masthead()+'<div class="actions"><a class="btn" href="/#catalogue">Demander mes matériaux →</a><button type="button" class="btn outline" data-zi-account>Rejoindre le journal</button></div></div></section>'
 def ticker(articles):
     if not articles:return ''
     return '<section class="news-ticker" data-ticker aria-label="Les titres du journal"><div class="wrap ticker-layout"><span class="ticker-label">Le journal</span><div class="ticker-window"><div class="ticker-line"><div class="ticker-set">'+''.join('<a href="/actualites/'+a['slug']+'/"><img src="'+esc(a['cover'])+'" alt="" width="60" height="44" loading="lazy"><span>'+esc(a['title'])+'</span><span aria-hidden="true">↗</span></a>' for a in articles[:8])+'</div></div></div></div></section>'
