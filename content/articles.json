@@ -481,5 +481,109 @@
         "digest": "a9fc30b477c618b2ef7c6cb9a92a6711a21306f53b1893980e163bde2b0f6500"
       }
     }
+  },
+  {
+    "id": "gasoil-maroc-1-novembre-2026",
+    "slug": "gasoil-maroc-hausse-1-novembre-2026-livraisons",
+    "status": "published",
+    "title": "Gasoil au Maroc : une hausse au 1er novembre, des coûts de livraison à surveiller",
+    "summary": "Le Matin et Médias24 rapportent une hausse allant jusqu’à 1 DH par litre de gasoil au 1er novembre 2026. Les variations dépendent des distributeurs et des stations.",
+    "category": "Transport de marchandises et logistique",
+    "date": "2026-11-02",
+    "event_period": "Ajustement du 1er novembre 2026 · sources publiées les 31 octobre et 1er novembre 2026",
+    "cover": "/assets/editorial/pompes-carburant-liverpool.webp",
+    "cover_alt": "Pompes à carburant à Liverpool, au Royaume-Uni, photographiées par Raymond Okoro (2025). Illustration thématique ; cette vue ne montre ni une station marocaine ni les prix du 1er novembre 2026.",
+    "cover_caption": "Pompes à carburant à Liverpool, au Royaume-Uni, photographiées par Raymond Okoro (2025). Illustration thématique ; cette vue ne montre ni une station marocaine ni les prix du 1er novembre 2026.",
+    "cover_width": 810,
+    "cover_height": 1440,
+    "cover_credit": "Raymond Okoro · Unsplash License",
+    "cover_source": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+    "cover_license_url": "https://unsplash.com/license",
+    "cover_provenance": {
+      "type": "real_photograph",
+      "author": "Raymond Okoro",
+      "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+      "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "credit_required": false,
+      "credit": "Raymond Okoro / Unsplash",
+      "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+      "rights_checked_on": "2026-11-02"
+    },
+    "sections": [
+      {
+        "title": "Les faits : une hausse variable à la pompe",
+        "paragraphs": [
+          "Médias24 rapporte, le 1er novembre, des hausses de 0,50 à 1 DH par litre de gasoil selon les stations. Le Matin annonçait la veille une fourchette de 0,80 à 1 DH selon les distributeurs. Les deux rédactions convergent sur la hausse, sans établir un tarif national uniforme.",
+          "Leurs fourchettes diffèrent : elles sont conservées séparément. Les deux sources signalent aussi un recul de l’essence, dont l’ampleur varie selon leurs observations."
+        ]
+      },
+      {
+        "title": "Notre lecture : isoler le carburant du prix du transport",
+        "paragraphs": [
+          "Le carburant constitue une composante du coût d’une livraison. Sa variation ne se traduit pas automatiquement par une hausse identique du prix du transport ou des matériaux : distance, charge, trajet de retour et manutention interviennent aussi."
+        ]
+      },
+      {
+        "title": "Comparer les livraisons sur une même base",
+        "paragraphs": [
+          "Pour un chantier, comparez des propositions datées avec la même quantité, la même destination et les mêmes conditions de déchargement. Cette recommandation est notre analyse éditoriale ; elle n’annonce aucune modification des tarifs d’El Boussairi Matériaux."
+        ]
+      }
+    ],
+    "source_note": "Deux publications de rédactions distinctes lues intégralement le 2 novembre 2026. Les fourchettes sont attribuées à chaque source ; aucun prix national unique n’est retenu.",
+    "sources": [
+      {
+        "title": "Médias24 — Gasoil : jusqu’à 1 DH de hausse au 1er novembre",
+        "url": "https://medias24.com/2026/11/01/le-gasoil-repart-a-la-hausse-jusqua-1-dh-supplementaire-ce-dimanche-1er-novembre-2026-1786253/",
+        "date": "2026-11-01"
+      },
+      {
+        "title": "Le Matin — Ajustement des carburants annoncé le 31 octobre",
+        "url": "https://lematin.ma/economie/prix-des-carburants-le-gasoil-augmente-de-1-dirham-lessence-baisse/373349",
+        "date": "2026-10-31"
+      }
+    ],
+    "verification": {
+      "checked_on": "2026-11-02",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "Pages complètes Médias24 (publiée 01/11 à 00h23, modifiée 00h24) et Le Matin (31/10 à 21h48) lues le 02/11/2026. Médias24 : gasoil +0,50 à +1 DH/l selon stations ; Le Matin : +0,80 à +1 DH/l selon distributeurs. Écart attribué explicitement, pas de moyenne nationale reconstruite. Heure écartée : contradiction interne 00h01/08h01 dans Le Matin. Niveaux absolus indicatifs, cotations pétrolières et historique non repris faute de recoupement. Deux rédactions, attributions distinctes (constat après ajustement / professionnels interrogés avant ajustement), pas de dépêche commune identifiée. Photo originale et licence Unsplash lues ; lieu Liverpool explicite, pas d’image de presse reprise."
+    },
+    "instagram": {
+      "caption": "Gasoil : ce qui change au 1er novembre 2026 au Maroc. Deux sources, des fourchettes distinctes et une lecture pratique pour les livraisons de matériaux. Lire l’article complet — lien en bio.",
+      "slides": [
+        {
+          "title": "Gasoil : hausse au 1er novembre",
+          "body": "Au Maroc, deux rédactions rapportent des hausses allant jusqu’à 1 DH/l."
+        },
+        {
+          "title": "Des fourchettes distinctes",
+          "body": "Médias24 : +0,50 à +1 DH/l selon stations. Le Matin : +0,80 à +1 DH/l selon distributeurs."
+        },
+        {
+          "title": "Transport : éviter les raccourcis",
+          "body": "Carburant, distance, charge et manutention composent le coût. Aucun tarif national uniforme n’est établi."
+        },
+        {
+          "title": "Comparer des offres datées",
+          "body": "Même quantité, même destination, mêmes conditions de déchargement. Notre lecture éditoriale, sans annonce de tarifs commerciaux."
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "Zone Industrielle · elboussairimateriaux.com/actualites/"
+        }
+      ]
+    },
+    "kind": "Actualité",
+    "verified": true,
+    "approvals": {
+      "site": {
+        "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Pages complètes Médias24 (publiée 01/11 à 00h23, modifiée 00h24) et Le Matin (31/10 à 21h48) lues le 02/11/2026. Médias24 : gasoil +0,50 à +1 DH/l selon stations ; Le Matin : +0,80 à +1 DH/l selon distributeurs. Écart attribué explicitement, pas de moyenne nationale reconstruite. Heure écartée : contradiction interne 00h01/08h01 dans Le Matin. Niveaux absolus indicatifs, cotations pétrolières et historique non repris faute de recoupement. Deux rédactions, attributions distinctes (constat après ajustement / professionnels interrogés avant ajustement), pas de dépêche commune identifiée. Photo originale et licence Unsplash lues ; lieu Liverpool explicite, pas d’image de presse reprise.",
+        "digest": "aad75e0313bcb4539fd8a7b0ce5480400af614c14865ea17286400b029d1a345"
+      }
+    }
   }
 ]
