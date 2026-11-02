@@ -224,3 +224,8 @@ Varier systématiquement le sujet, l’accroche, l’angle et les images : actua
 Avant de préparer un nouveau lot, lire content/instagram-scheduled-2026-11-03.json et tout autre registre daté disponible. Cinq carrousels ont été vérifiés comme programmés sur @zoneindustielle pour le 3 novembre 2026 à 10 h, 12 h, 15 h, 18 h et 20 h, Africa/Casablanca. Programmation ne signifie pas publication effective. Les identifiants publics restent vides jusqu’à confirmation des publications. Les nouveaux contenus d’actualité sont stockés dans ce registre et dans les médias du planificateur Metricool.
 
 Le nouvel espace Metricool utilise la marque 7828156. L’intégration ChatGPT Metricool utilise encore l’ancienne marque 7827377 (PremiumGarage) ; une lecture de la marque 7828156 par cette intégration a renvoyé 403. Aucune publication sur PremiumGarage. Le forfait de la nouvelle marque affiche 20 publications par mois : ne pas annoncer une diffusion continue à cinq publications par jour, ni prendre un abonnement payant sans budget explicite. L’automatisme existant reste consacré à la préparation.
+
+
+## Lot de préparation du 3 novembre 2026
+
+Le lot éditorial corrigé de cinq posts est dans `content/instagram-prepared-2026-11-03.json` ; contrôle et limites : `docs/INSTAGRAM_PREPARATION_2026-11-03.md`. Ce lot de préparation ne remplace pas le registre de programmation et ne doit jamais être ajouté en supplément. Les révisions ne sont pas synchronisées avec Metricool. À chaque passage, lire ces deux fichiers avant de créer quoi que ce soit. Les liens sont vérifiés dans les sources du journal, mais leur contrôle HTTP a reçu 403 : validation en ligne à renouveler. Aucune diffusion dans cette tâche.

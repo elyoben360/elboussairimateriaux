@@ -1,0 +1,813 @@
+{
+  "date": "2026-11-03",
+  "timezone": "Africa/Casablanca",
+  "target_handle": "zoneindustielle",
+  "mode": "preparation_only",
+  "source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+  "daily_count": 5,
+  "editorial_count": 5,
+  "commercial_count": 0,
+  "status": "ready",
+  "existing_scheduling_register": "content/instagram-scheduled-2026-11-03.json",
+  "delivery_warning": "Deux révisions préparées uniquement. Aucune modification de la programmation antérieure ; ne jamais ajouter ce lot à côté des cinq posts déjà programmés.",
+  "posts": [
+    {
+      "id": "ig-panneaux-reportage-20261103-r2",
+      "series": "Reportage · Matériaux",
+      "title": "Panneaux muraux : que montrent nos photos ?",
+      "caption": "Du panneau sur palette à la cloison : que montrent réellement ces images ?\n\nLe modèle photographié mesure 10 cm d’épaisseur. La gamme du catalogue comprend aussi 7 et 15 cm. Les vues de pose montrent des cloisons et murs de remplissage après la structure ; elles ne constituent pas une preuve de performance technique.\n\nRetrouvez le reportage photo et son contexte dans Zone Industrielle — lien en bio.\n\n© El Boussairi Matériaux. Photographies de notre activité ; date et chantier non précisés. Aucun stock actuel garanti.\n#ZoneIndustrielle #PanneauxMuraux #BTPMaroc #MateriauxMaroc",
+      "slides": [
+        {
+          "title": "Panneaux muraux : que montrent nos photos ?",
+          "body": "Un reportage de notre activité : distinguer le modèle photographié, la gamme et les vues de pose.",
+          "photo": "/assets/depot/panneaux-muraux-stock-10cm.webp"
+        },
+        {
+          "title": "Sur la photo : 10 cm.",
+          "body": "Le modèle montré mesure 10 cm d’épaisseur. La gamme présentée au catalogue comprend 7, 10 et 15 cm.",
+          "photo": "/assets/depot/panneaux-muraux-coupe.webp"
+        },
+        {
+          "title": "Après la structure.",
+          "body": "Les vues montrent des cloisons et murs de remplissage. Usage et mise en œuvre restent à valider selon les prescriptions du fabricant.",
+          "photo": "/assets/depot/panneaux-cloisons-interieures.webp"
+        },
+        {
+          "title": "Voir les détails de la pose.",
+          "body": "Le reportage du journal rassemble les vues et leurs explications. Lire le reportage complet — lien en bio.",
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp"
+        }
+      ],
+      "status": "ready",
+      "published_media_id": null,
+      "published_url": null,
+      "format": "carousel",
+      "sources": [
+        {
+          "title": "Notre fiche produit et les informations communiquées par le propriétaire",
+          "url": "https://elboussairimateriaux.com/materiaux/panneaux-muraux/",
+          "date": "2026-11-01"
+        }
+      ],
+      "cta_url": "https://elboussairimateriaux.com/actualites/panneaux-muraux-stock-et-pose-en-images/",
+      "images": [
+        "/assets/instagram/ig-panneaux-reportage-20261103-r2/01.jpg",
+        "/assets/instagram/ig-panneaux-reportage-20261103-r2/02.jpg",
+        "/assets/instagram/ig-panneaux-reportage-20261103-r2/03.jpg",
+        "/assets/instagram/ig-panneaux-reportage-20261103-r2/04.jpg"
+      ],
+      "content_hash": "9da72576454dcf1ad31e88c3cb2ea3b3c9b52d589f8b18088911de86f0f5069e",
+      "article_id": "produit-panneaux-muraux",
+      "replaces_prepared_post": "guide-commande-ciment-v1",
+      "angle": "Lire les photos du reportage sans extrapoler les performances",
+      "preparation_only": true,
+      "scheduled_post_id": null,
+      "article_url": "https://elboussairimateriaux.com/actualites/panneaux-muraux-stock-et-pose-en-images/",
+      "cta": "Lire le reportage complet — lien en bio",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "dedupe_key": "zi:zoneindustielle:2026-11-03:01:ig-panneaux-reportage-20261103-r2",
+      "prior_schedule": null,
+      "editorial": true,
+      "fact_verification": {
+        "checked_on": "2026-11-02",
+        "article_source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "event_period": "Photographies de notre activité — date de prise de vue non renseignée"
+      },
+      "photo_provenance": null,
+      "cover_reuse_justification": null,
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/depot/panneaux-muraux-stock-10cm.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-muraux-stock-10cm.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/depot/panneaux-muraux-coupe.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-muraux-coupe.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/depot/panneaux-cloisons-interieures.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-cloisons-interieures.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-muraux-chantier.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        }
+      ],
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/ig-panneaux-reportage-20261103-r2/01.jpg",
+          "sha256": "0c0f00c20c195f47bb6474e0225f046fcec4d0afbb3b4eb56bf5e1dd2746756d"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/ig-panneaux-reportage-20261103-r2/02.jpg",
+          "sha256": "8035a8686befd174ef1d5ab3378171d3d9fb2c6ebf6eea52034031e8735f7f4b"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/ig-panneaux-reportage-20261103-r2/03.jpg",
+          "sha256": "8c4283be46b987dd235959f3ec25098a8442d4c9522ba141ebec53439809b058"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/ig-panneaux-reportage-20261103-r2/04.jpg",
+          "sha256": "30e608c5f8c17edd4aaa02e0accb82598f82818375004e8dbc112b4d70f5c7d2"
+        }
+      ],
+      "cover_photo_sha256": "46d0830832e2b95bc8e5ba569c2c2903ae3696e908e90c3435202a31ecde1b60",
+      "destination_check": {
+        "status": "article_verified_in_main_live_http_403",
+        "source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "note": "Article publié présent dans main. Les cinq URL ont renvoyé HTTP 403 depuis cet environnement le 2 novembre ; validation live non renouvelée."
+      }
+    },
+    {
+      "id": "ig-fer-reportage-20261103-r2",
+      "series": "Dans le dépôt",
+      "title": "Fer à béton : ce qu’un fardeau raconte",
+      "caption": "Un fardeau de fer à béton, c’est aussi une question d’acheminement.\n\nNos photos montrent des barres réceptionnées au dépôt. Le reportage présente une longueur de 12 m et les références T06 à T20 du catalogue. Pour acheminer des barres longues, la charge, l’accès et le déchargement sont à examiner selon le chantier.\n\nDécouvrez les images et les précisions du reportage dans le journal — lien en bio.\n\n© El Boussairi Matériaux. Photographies de notre activité ; elles ne décrivent pas le stock en temps réel. Le choix du diamètre relève des plans et de l’étude technique.\n#ZoneIndustrielle #FerABeton #BTPMaroc #LogistiqueMaroc",
+      "slides": [
+        {
+          "title": "Fer à béton : ce qu’un fardeau raconte",
+          "body": "Barres longues, regroupement et acheminement : trois points à observer dans notre reportage.",
+          "photo": "/assets/depot/arrivage-fer-beton-sonasid.webp"
+        },
+        {
+          "title": "Des barres de 12 mètres.",
+          "body": "La longueur proposée dans le reportage est de 12 m. La photographie montre leur regroupement en fardeaux.",
+          "photo": "/assets/depot/fardeaux-rond-beton-12m.webp"
+        },
+        {
+          "title": "L’accès compte aussi.",
+          "body": "L’acheminement se prépare selon la charge, l’accès et le déchargement du chantier. Une photo ne suffit pas à définir le moyen adapté.",
+          "photo": "/assets/depot/barres-fer-beton-depot.webp"
+        },
+        {
+          "title": "Le dépôt, vu de plus près.",
+          "body": "Retrouvez la séquence photo et les références présentées dans le journal. Lire le reportage complet — lien en bio.",
+          "photo": "/assets/depot/arrivage-fer-beton-sonasid.webp"
+        }
+      ],
+      "status": "ready",
+      "published_media_id": null,
+      "published_url": null,
+      "format": "carousel",
+      "sources": [
+        {
+          "title": "Notre fiche produit et les informations communiquées par le propriétaire",
+          "url": "https://elboussairimateriaux.com/materiaux/fer-a-beton/",
+          "date": "2026-11-01"
+        }
+      ],
+      "cta_url": "https://elboussairimateriaux.com/actualites/arrivage-fer-beton-fardeaux-barres-12m/",
+      "images": [
+        "/assets/instagram/ig-fer-reportage-20261103-r2/01.jpg",
+        "/assets/instagram/ig-fer-reportage-20261103-r2/02.jpg",
+        "/assets/instagram/ig-fer-reportage-20261103-r2/03.jpg",
+        "/assets/instagram/ig-fer-reportage-20261103-r2/04.jpg"
+      ],
+      "content_hash": "9bef740559622f1d4ae25f139c022c39ab05bdb8629c647b8dafc78026cab89d",
+      "brand_id": "7828156",
+      "dedupe_key": "zi:zoneindustielle:2026-11-03:02:ig-fer-reportage-20261103-r2",
+      "article_id": "produit-fer-beton-12m",
+      "angle": "Observer le conditionnement et les contraintes des barres longues",
+      "revises_prepared_post": "terrain-fer-beton-v1",
+      "preparation_only": true,
+      "scheduled_post_id": null,
+      "article_url": "https://elboussairimateriaux.com/actualites/arrivage-fer-beton-fardeaux-barres-12m/",
+      "cta": "Lire le reportage complet — lien en bio",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "prior_schedule": null,
+      "editorial": true,
+      "fact_verification": {
+        "checked_on": "2026-11-02",
+        "article_source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "event_period": "Photographies de notre activité — date de prise de vue non renseignée"
+      },
+      "photo_provenance": null,
+      "cover_reuse_justification": "Révision du même post précédemment programmé ; ne pas diffuser les deux versions.",
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/depot/arrivage-fer-beton-sonasid.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/arrivage-fer-beton-sonasid.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/depot/fardeaux-rond-beton-12m.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/fardeaux-rond-beton-12m.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/depot/barres-fer-beton-depot.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/barres-fer-beton-depot.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/depot/arrivage-fer-beton-sonasid.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/arrivage-fer-beton-sonasid.webp",
+          "license": "Autorisation du propriétaire pour sa communication",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "geographic_context": "Activité du propriétaire ; lieu exact et date de prise de vue non documentés",
+          "rights_checked_on": "2026-11-02"
+        }
+      ],
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/ig-fer-reportage-20261103-r2/01.jpg",
+          "sha256": "ce05b8bf5ea8fe594c775cd0d5cb8b630750b7c4ea2a30ac37beca95b810d0e8"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/ig-fer-reportage-20261103-r2/02.jpg",
+          "sha256": "92048c54ff1b247afe51d75a82effbfb0007a23b6d71d0ca654bdcb20ff9d205"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/ig-fer-reportage-20261103-r2/03.jpg",
+          "sha256": "92a96e2b43d284dfb8862204bd6cd2e325b20722cf9adde4388bb055e5266eb3"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/ig-fer-reportage-20261103-r2/04.jpg",
+          "sha256": "745180e24014c10235b1c155db86d097aaac7204c7dab91a453bec40ea7406f5"
+        }
+      ],
+      "cover_photo_sha256": "eaf42c5c07ec50c36f16575c97790fb2cb515a6acbb01fd3b937e87c30622e5b",
+      "destination_check": {
+        "status": "article_verified_in_main_live_http_403",
+        "source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "note": "Article publié présent dans main. Les cinq URL ont renvoyé HTTP 403 depuis cet environnement le 2 novembre ; validation live non renouvelée."
+      }
+    },
+    {
+      "id": "ig-gasoil-livraisons-20261103-r2",
+      "title": "Gasoil en hausse : et vos livraisons ?",
+      "series": "Actualité · Logistique",
+      "article_id": "gasoil-maroc-1-novembre-2026",
+      "article_url": "https://elboussairimateriaux.com/actualites/gasoil-maroc-hausse-1-novembre-2026-livraisons/",
+      "caption": "Le gasoil augmente, mais cela suffit-il à expliquer le prix d’une livraison ?\n\nAu 1er novembre 2026, Médias24 rapporte des hausses de 0,50 à 1 DH/l selon les stations. Distance, charge et déchargement restent aussi à considérer : c’est notre lecture éditoriale.\n\nLire le décryptage complet dans Zone Industrielle — lien en bio.\n\nPhoto d’illustration : Liverpool, Royaume-Uni, 2025, Raymond Okoro / Unsplash. Elle ne représente pas une station marocaine.\nSource : Médias24, 1er novembre 2026 ; sources détaillées dans l’article.\n#ZoneIndustrielle #BTPMaroc #LogistiqueMaroc #MateriauxMaroc",
+      "photo_notice": "ILLUSTRATION · LIVERPOOL, ROYAUME-UNI · RAYMOND OKORO · UNSPLASH",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "slides": [
+        {
+          "title": "Gasoil en hausse : et vos livraisons ?",
+          "body": "Maroc · ajustement du 1er novembre 2026. Deux sujets à distinguer : le carburant et le coût du transport.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        },
+        {
+          "title": "Jusqu’à +1 DH par litre.",
+          "body": "Médias24 rapporte +0,50 à +1 DH selon les stations. Il ne s’agit pas d’un tarif uniforme dans tout le pays.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        },
+        {
+          "title": "Transport : ce n’est pas une règle de trois.",
+          "body": "Distance, charge, retour et manutention comptent aussi. Notre lecture : une hausse du gasoil ne fixe pas, à elle seule, le prix d’une livraison.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        },
+        {
+          "title": "Ce qu’il faut surveiller.",
+          "body": "Retrouvez les faits datés, les sources et le décryptage dans le journal. Lire l’article complet — lien en bio.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Médias24 — Gasoil : jusqu’à 1 DH de hausse au 1er novembre",
+          "url": "https://medias24.com/2026/11/01/le-gasoil-repart-a-la-hausse-jusqua-1-dh-supplementaire-ce-dimanche-1er-novembre-2026-1786253/",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Le Matin — Ajustement des carburants annoncé le 31 octobre",
+          "url": "https://lematin.ma/economie/prix-des-carburants-le-gasoil-augmente-de-1-dirham-lessence-baisse/373349",
+          "date": "2026-10-31"
+        }
+      ],
+      "photo_provenance": {
+        "type": "real_photograph",
+        "author": "Raymond Okoro",
+        "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+        "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+        "license": "Unsplash License",
+        "license_url": "https://unsplash.com/license",
+        "credit_required": false,
+        "credit": "Raymond Okoro / Unsplash",
+        "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+        "rights_checked_on": "2026-11-02"
+      },
+      "status": "ready",
+      "published_media_id": null,
+      "brand_id": "7828156",
+      "images": [
+        "/assets/instagram/ig-gasoil-livraisons-20261103-r2/01.jpg",
+        "/assets/instagram/ig-gasoil-livraisons-20261103-r2/02.jpg",
+        "/assets/instagram/ig-gasoil-livraisons-20261103-r2/03.jpg",
+        "/assets/instagram/ig-gasoil-livraisons-20261103-r2/04.jpg"
+      ],
+      "content_hash": "909f0c259b744ba0d3381459bb038c868c7e552150822ce0a6881c8c76fe8956",
+      "dedupe_key": "zi:zoneindustielle:2026-11-03:03:ig-gasoil-livraisons-20261103-r2",
+      "preparation_only": true,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "cta_url": "https://elboussairimateriaux.com/actualites/gasoil-maroc-hausse-1-novembre-2026-livraisons/",
+      "cta": "Lire l’article complet — lien en bio",
+      "format": "carousel",
+      "angle": "Distinguer carburant et coût global de livraison",
+      "prior_schedule": "ig-gasoil-livraisons-20261103",
+      "editorial": true,
+      "fact_verification": {
+        "checked_on": "2026-11-02",
+        "article_source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "event_period": "Ajustement du 1er novembre 2026 · sources publiées les 31 octobre et 1er novembre 2026"
+      },
+      "cover_reuse_justification": "Même contenu déjà programmé : version de préparation archivée séparément, à substituer uniquement ; ne jamais diffuser les deux versions.",
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp",
+          "type": "real_photograph",
+          "author": "Raymond Okoro",
+          "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+          "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+          "license": "Unsplash License",
+          "license_url": "https://unsplash.com/license",
+          "credit_required": false,
+          "credit": "Raymond Okoro / Unsplash",
+          "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · LIVERPOOL, ROYAUME-UNI · RAYMOND OKORO · UNSPLASH"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp",
+          "type": "real_photograph",
+          "author": "Raymond Okoro",
+          "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+          "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+          "license": "Unsplash License",
+          "license_url": "https://unsplash.com/license",
+          "credit_required": false,
+          "credit": "Raymond Okoro / Unsplash",
+          "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · LIVERPOOL, ROYAUME-UNI · RAYMOND OKORO · UNSPLASH"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp",
+          "type": "real_photograph",
+          "author": "Raymond Okoro",
+          "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+          "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+          "license": "Unsplash License",
+          "license_url": "https://unsplash.com/license",
+          "credit_required": false,
+          "credit": "Raymond Okoro / Unsplash",
+          "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · LIVERPOOL, ROYAUME-UNI · RAYMOND OKORO · UNSPLASH"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp",
+          "type": "real_photograph",
+          "author": "Raymond Okoro",
+          "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+          "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+          "license": "Unsplash License",
+          "license_url": "https://unsplash.com/license",
+          "credit_required": false,
+          "credit": "Raymond Okoro / Unsplash",
+          "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · LIVERPOOL, ROYAUME-UNI · RAYMOND OKORO · UNSPLASH"
+        }
+      ],
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/ig-gasoil-livraisons-20261103-r2/01.jpg",
+          "sha256": "f21554287145f70bca6edae03fc5f1f2311a59cab4511aa3652607e54cc88b55"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/ig-gasoil-livraisons-20261103-r2/02.jpg",
+          "sha256": "fb7267722a1367e488928432823d650c26a51584d8f34e9d9e92373b7c6bfbff"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/ig-gasoil-livraisons-20261103-r2/03.jpg",
+          "sha256": "e5cee7e4cbedcef98d4c9f8a10f3df50562b646503139e5ba1702d48cbb79d80"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/ig-gasoil-livraisons-20261103-r2/04.jpg",
+          "sha256": "1c88d3d20ce780457f350dcb1d4bd3b1c746f3c4f895d970f2e2d9a17062708d"
+        }
+      ],
+      "cover_photo_sha256": "87964f785e05a018fbbdff75fe084cf18d85891f5bd56819b4e33c0dc15783e4",
+      "destination_check": {
+        "status": "article_verified_in_main_live_http_403",
+        "source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "note": "Article publié présent dans main. Les cinq URL ont renvoyé HTTP 403 depuis cet environnement le 2 novembre ; validation live non renouvelée."
+      }
+    },
+    {
+      "id": "ig-hcp-indice-devis-20261103-r2",
+      "title": "Un indice n’est pas votre devis.",
+      "series": "Le chiffre décrypté",
+      "article_id": "hcp-ippi-septembre-2026",
+      "article_url": "https://elboussairimateriaux.com/actualites/prix-production-materiaux-septembre-2026-hcp/",
+      "caption": "Prix des matériaux : que dit le HCP… et que ne dit-il pas ?\n\nEn septembre 2026, par rapport à août : +0,6 % pour les autres produits minéraux non métalliques ; −0,4 % pour la métallurgie. Ce sont des indices à la production, pas des prix de vente de nos produits.\n\nNotre décryptage et la source officielle sont dans le journal — lien en bio.\n\nSource : HCP, note IPPI publiée le 30 octobre 2026.\nPhoto d’illustration : Saral Shots, 2024, CC0 1.0 ; aucun chantier marocain identifié.\n#ZoneIndustrielle #MateriauxMaroc #HCP #BTPMaroc",
+      "photo_notice": "ILLUSTRATION · LIEU NON DOCUMENTÉ · SARAL SHOTS · CC0 1.0",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "slides": [
+        {
+          "title": "Un indice n’est pas votre devis.",
+          "body": "Prix des matériaux : que mesure vraiment la dernière note du HCP ?",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        },
+        {
+          "title": "+0,6 % d’un côté. −0,4 % de l’autre.",
+          "body": "Septembre 2026 par rapport à août : autres produits minéraux non métalliques +0,6 % ; métallurgie −0,4 %, selon le HCP.",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        },
+        {
+          "title": "Deux secteurs. Deux évolutions.",
+          "body": "Ces indices sectoriels ne sont ni le tarif d’un sac de ciment, ni celui d’une barre d’acier chez un fournisseur.",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        },
+        {
+          "title": "Le contexte change la lecture.",
+          "body": "Période, secteur, référence et unité : retrouvez les distinctions et la source officielle dans le journal. L’article complet — lien en bio.",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        }
+      ],
+      "sources": [
+        {
+          "title": "HCP — IPPI de septembre 2026",
+          "url": "https://www.hcp.ma/L-indice-des-prix-a-la-production-industrielle-energetique-et-miniere-IPPI-du-mois-de-Septembre-2026_a4363.html",
+          "date": "2026-10-30"
+        }
+      ],
+      "photo_provenance": {
+        "type": "real_photograph",
+        "author": "Saral Shots",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+        "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+        "rights_checked_on": "2026-11-02"
+      },
+      "status": "ready",
+      "published_media_id": null,
+      "brand_id": "7828156",
+      "images": [
+        "/assets/instagram/ig-hcp-indice-devis-20261103-r2/01.jpg",
+        "/assets/instagram/ig-hcp-indice-devis-20261103-r2/02.jpg",
+        "/assets/instagram/ig-hcp-indice-devis-20261103-r2/03.jpg",
+        "/assets/instagram/ig-hcp-indice-devis-20261103-r2/04.jpg"
+      ],
+      "content_hash": "26d89483654988764c8e115090ed7794a7cdb2e62e8a2aa8b8e091cb5f0d97ab",
+      "dedupe_key": "zi:zoneindustielle:2026-11-03:04:ig-hcp-indice-devis-20261103-r2",
+      "preparation_only": true,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "cta_url": "https://elboussairimateriaux.com/actualites/prix-production-materiaux-septembre-2026-hcp/",
+      "cta": "Lire l’article complet — lien en bio",
+      "format": "carousel",
+      "angle": "Distinguer indice à la production et devis",
+      "prior_schedule": "ig-hcp-indice-devis-20261103",
+      "editorial": true,
+      "fact_verification": {
+        "checked_on": "2026-11-02",
+        "article_source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "event_period": "Septembre 2026 · note publiée le 30 octobre 2026"
+      },
+      "cover_reuse_justification": "Même contenu déjà programmé : version de préparation archivée séparément, à substituer uniquement ; ne jamais diffuser les deux versions.",
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/editorial/briques-construction-photo.webp",
+          "type": "real_photograph",
+          "author": "Saral Shots",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · BRIQUES · SARAL SHOTS · CC0 1.0"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/editorial/briques-construction-photo.webp",
+          "type": "real_photograph",
+          "author": "Saral Shots",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · BRIQUES · SARAL SHOTS · CC0 1.0"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/editorial/briques-construction-photo.webp",
+          "type": "real_photograph",
+          "author": "Saral Shots",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · BRIQUES · SARAL SHOTS · CC0 1.0"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/editorial/briques-construction-photo.webp",
+          "type": "real_photograph",
+          "author": "Saral Shots",
+          "source_page": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · BRIQUES · SARAL SHOTS · CC0 1.0"
+        }
+      ],
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/ig-hcp-indice-devis-20261103-r2/01.jpg",
+          "sha256": "52a1512be43b84c36493b0f439b6caeacd621f659798f3c0cbe570ee835ead0e"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/ig-hcp-indice-devis-20261103-r2/02.jpg",
+          "sha256": "d37a593c421f54d10c40f1da1c7199d6257291d9d223c65b00c1687dbafee9a7"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/ig-hcp-indice-devis-20261103-r2/03.jpg",
+          "sha256": "64199ae6a6a7f18e4de0166845aeded8234a5862c579e2e3c0fa949b2e89b99a"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/ig-hcp-indice-devis-20261103-r2/04.jpg",
+          "sha256": "a03813e02f65ce9ffea42769c948f2e441e25433bb617413bacb3347c1fdf739"
+        }
+      ],
+      "cover_photo_sha256": "31e251068544bec53d48326fa8eda2d6561906cf7295148c3aac8ad1954b5b11",
+      "destination_check": {
+        "status": "article_verified_in_main_live_http_403",
+        "source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "note": "Article publié présent dans main. Les cinq URL ont renvoyé HTTP 403 depuis cet environnement le 2 novembre ; validation live non renouvelée."
+      }
+    },
+    {
+      "id": "ig-ciment-deux-periodes-20261103-r2",
+      "title": "Ciment : deux chiffres, deux lectures.",
+      "series": "Comprendre le marché",
+      "article_id": "depf-ciment-troisieme-trimestre-2026",
+      "article_url": "https://elboussairimateriaux.com/actualites/ciment-bilan-troisieme-trimestre-2026-depf/",
+      "caption": "+5,4 % et +1,2 % : deux chiffres compatibles, à condition de lire la période.\n\nLa note d’octobre de la DEPF distingue le troisième trimestre 2026 (+5,4 % sur un an) du cumul janvier–septembre (+1,2 %). Notre article explique cette différence et les segments concernés.\n\nLire l’analyse complète dans Zone Industrielle — lien en bio.\n\nSources : DEPF, note n° 356 d’octobre 2026 ; La Vie éco avec MAP, 26 octobre 2026.\nPhoto d’illustration : cimenterie de Carboneras, Espagne, 2020 ; Nicolas Vigier, CC0 1.0. Elle ne représente pas une usine marocaine.\n#ZoneIndustrielle #Ciment #BTPMaroc #ConstructionMaroc",
+      "photo_notice": "ILLUSTRATION · CARBONERAS, ESPAGNE · NICOLAS VIGIER · CC0 1.0",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "slides": [
+        {
+          "title": "Ciment : deux chiffres, deux lectures.",
+          "body": "Troisième trimestre et cumul annuel ne racontent pas exactement la même chose.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        },
+        {
+          "title": "+5,4 % au troisième trimestre.",
+          "body": "Ventes de ciment au T3 2026 par rapport au T3 2025, selon la note d’octobre de la DEPF.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        },
+        {
+          "title": "+1,2 % de janvier à septembre.",
+          "body": "Ce chiffre porte sur neuf mois. Il ne faut pas le confondre avec le seul troisième trimestre, ni avec l’avancement des chantiers.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        },
+        {
+          "title": "Où se situe la dynamique du BTP ?",
+          "body": "Le journal remet les périodes et les usages en perspective. Retrouvez le bilan et ses sources — lien en bio.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DEPF — Note de conjoncture n° 356, octobre 2026, page 32",
+          "url": "https://www.finances.gov.ma/Publication/depf/2026/NC356.pdf",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Ministère des Finances — date de publication de la note n° 356",
+          "url": "https://www.finances.gov.ma/fr/Pages/index.aspx?id=1507",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "La Vie éco — Électricité et ciment : deux secteurs en croissance, à des rythmes contrastés",
+          "url": "https://www.lavieeco.com/affaires/secteurs/electricite-et-ciment-deux-secteurs-en-croissance-mais-a-des-rythmes-contrastes-en-2026/",
+          "date": "2026-10-26"
+        }
+      ],
+      "photo_provenance": {
+        "type": "real_photograph",
+        "author": "Nicolas Vigier",
+        "source_page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+        "original_file": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+        "rights_checked_on": "2026-11-02"
+      },
+      "status": "ready",
+      "published_media_id": null,
+      "brand_id": "7828156",
+      "images": [
+        "/assets/instagram/ig-ciment-deux-periodes-20261103-r2/01.jpg",
+        "/assets/instagram/ig-ciment-deux-periodes-20261103-r2/02.jpg",
+        "/assets/instagram/ig-ciment-deux-periodes-20261103-r2/03.jpg",
+        "/assets/instagram/ig-ciment-deux-periodes-20261103-r2/04.jpg"
+      ],
+      "content_hash": "f87395b75b9b5c28b41bc9ed687ebbaf0c2e5ee7def5a66f96c3a87387b9b6f0",
+      "dedupe_key": "zi:zoneindustielle:2026-11-03:05:ig-ciment-deux-periodes-20261103-r2",
+      "preparation_only": true,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "cta_url": "https://elboussairimateriaux.com/actualites/ciment-bilan-troisieme-trimestre-2026-depf/",
+      "cta": "Lire l’article complet — lien en bio",
+      "format": "carousel",
+      "angle": "Comparer trimestre et cumul de neuf mois",
+      "prior_schedule": "ig-ciment-deux-periodes-20261103",
+      "editorial": true,
+      "fact_verification": {
+        "checked_on": "2026-11-02",
+        "article_source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "event_period": "Juillet à septembre 2026 pour le bilan trimestriel ; janvier à septembre 2026 pour le cumul et les segments. Note DEPF n° 356 publiée le 26 octobre 2026."
+      },
+      "cover_reuse_justification": "Même contenu déjà programmé : version de préparation archivée séparément, à substituer uniquement ; ne jamais diffuser les deux versions.",
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp",
+          "type": "real_photograph",
+          "author": "Nicolas Vigier",
+          "source_page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · CARBONERAS, ESPAGNE · NICOLAS VIGIER · CC0 1.0"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp",
+          "type": "real_photograph",
+          "author": "Nicolas Vigier",
+          "source_page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · CARBONERAS, ESPAGNE · NICOLAS VIGIER · CC0 1.0"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp",
+          "type": "real_photograph",
+          "author": "Nicolas Vigier",
+          "source_page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · CARBONERAS, ESPAGNE · NICOLAS VIGIER · CC0 1.0"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp",
+          "type": "real_photograph",
+          "author": "Nicolas Vigier",
+          "source_page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+          "license": "CC0 1.0",
+          "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-02",
+          "geographic_context": "ILLUSTRATION · CARBONERAS, ESPAGNE · NICOLAS VIGIER · CC0 1.0"
+        }
+      ],
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/ig-ciment-deux-periodes-20261103-r2/01.jpg",
+          "sha256": "d57d7540e2e6986539034d4aa94072563ccbf050f3b69beec0c43b16c8d9cd06"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/ig-ciment-deux-periodes-20261103-r2/02.jpg",
+          "sha256": "f9aa511b75bf14fd1a9e0d51252a3f5bff00c05c1770223281451b34790d4301"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/ig-ciment-deux-periodes-20261103-r2/03.jpg",
+          "sha256": "8c5379b9cd22eec3daccc0c1b13253962cb0a529cf018788f0028d45244a8754"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/ig-ciment-deux-periodes-20261103-r2/04.jpg",
+          "sha256": "a7eb929e9c4acd43ae0e192c95a788fed4b9362368c3f63f8ef5570256ddfe0e"
+        }
+      ],
+      "cover_photo_sha256": "410c019243cca296a900e734d635e8d73cab2571bcd872b07b1d7421b4103d32",
+      "destination_check": {
+        "status": "article_verified_in_main_live_http_403",
+        "source_commit": "8c8577e2021e70ce0e8e33f240557855eb0d7d49",
+        "note": "Article publié présent dans main. Les cinq URL ont renvoyé HTTP 403 depuis cet environnement le 2 novembre ; validation live non renouvelée."
+      }
+    }
+  ],
+  "qa": {
+    "jpeg_count": 20,
+    "size": "1080x1350",
+    "exif_removed": true,
+    "visual_review": "20 pages inspectées sur planche contact le 2 novembre 2026 ; ordre, photos, contraste et absence de débordement vérifiés",
+    "no_ai_images": true,
+    "scheduled_registry_unchanged": true,
+    "published_identifiers_empty": true,
+    "diffusion_readiness": "Non validée : contrôle HTTP des destinations à renouveler et rapprochement obligatoire avec les programmations antérieures."
+  }
+}
