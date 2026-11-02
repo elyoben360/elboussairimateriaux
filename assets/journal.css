@@ -11,3 +11,17 @@
 
 .zi-page .zi-consent .btn.outline{color:#142536;border-color:#8191a1}
 @media(max-width:420px){.zi-masthead{gap:14px}.zi-masthead img{width:82px;height:82px}.zi-masthead h1{font-size:clamp(24px,7.1vw,30px)}.zi-masthead p{font-size:10px}.zi-hero .actions{flex-direction:column}.zi-hero .actions>*{text-align:center}}
+
+/* Keep flex-basis from turning into button height on narrow column layouts. */
+.zi-page .actions>.btn{flex:0 1 auto;min-height:46px;height:auto;width:auto;padding:13px 20px;line-height:1.4;align-self:flex-start}
+.zi-page .actions{align-items:flex-start}
+.zi-header{background:#071d39;color:#f7f3e9;border-bottom:1px solid #ffffff22}
+.zi-header nav{display:flex;flex-wrap:wrap;padding-block:14px;gap:14px}
+.zi-wordmark{display:flex;align-items:center;gap:12px;text-decoration:none;font-weight:900;letter-spacing:.05em;font-size:15px}
+.zi-wordmark small{display:block;font-size:9px;color:#ff6500;letter-spacing:.18em;margin-top:4px}
+.zi-navigation{display:flex;align-items:center;flex-wrap:wrap;gap:16px;font-size:12px}
+.zi-navigation a{text-decoration:none}.zi-navigation button{color:inherit;background:transparent;border:1px solid #ffffff44;border-radius:4px;padding:10px}
+.zi-platform{color:#ff9c55}.zi-footer{background:#071d39;color:#f7f3e9;padding:40px 0}.zi-footer small{display:block;color:#a5b4c5;margin-top:26px}.zi-footer .actions{gap:20px;font-size:12px}
+.zi-page .blog-tools{border-top:3px solid #ff6500;padding-top:24px}.zi-page .article-card{transition:transform .2s,box-shadow .2s}.zi-page .article-card:hover{transform:translateY(-4px);box-shadow:0 12px 28px #071d3915}
+@media(max-width:720px){.zi-header nav{display:flex}.zi-navigation{width:100%;justify-content:space-between;gap:8px;font-size:11px}.zi-wordmark{font-size:14px}.zi-page .zi-hero .actions{flex-direction:row;flex-wrap:wrap}.zi-page .zi-hero .actions>.btn{flex:0 1 auto;width:auto}.zi-page .zi-offer .actions>.btn{width:100%}.zi-page{padding-bottom:0}.zi-masthead{gap:16px}.zi-masthead h1{font-size:clamp(26px,7vw,42px)}}
+@media(prefers-reduced-motion:reduce){.zi-page *{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
