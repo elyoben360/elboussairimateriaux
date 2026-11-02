@@ -33,14 +33,14 @@ def render(post,slide,i):
     d.rectangle((0,602,1080,610),fill=O)
     d.rounded_rectangle((52,574,52+int(d.textlength(post['series'].upper(),font=font(17,True)))+36,620),radius=4,fill=O)
     d.text((70,584),post['series'].upper(),font=font(17,True),fill=N)
-    d.text((54,646),'PHOTOGRAPHIE DE NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX',font=font(13),fill=M)
+    d.text((54,646),post.get('photo_notice','PHOTOGRAPHIE DE NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX'),font=font(13),fill=M)
     size=64
     while len(lines(d,slide['title'],font(size,serif=True),968))>3 and size>45:size-=2
     y=text(d,slide['title'],(54,696),968,size,C,serif=True,leading=1.12)
     y=text(d,slide['body'],(56,y+26),944,29,M,leading=1.4)
     if y>1160:raise ValueError('Text exceeds safe area: '+post['id'])
     d.line((54,1194,1026,1194),fill='#31465e',width=2)
-    d.text((56,1220),'ENREGISTREZ CE CONSEIL' if i<3 else 'DÉCOUVREZ NOS SERVICES · LIEN EN BIO',font=font(19,True),fill=O)
+    d.text((56,1220),post.get('footer_cta','ENREGISTREZ CE CONSEIL') if i<3 else post.get('final_cta','LIRE LE JOURNAL · LIEN EN BIO'),font=font(19,True),fill=O)
     d.text((56,1264),'elboussairimateriaux.com',font=font(18),fill=C)
     d.text((946,1258),'→',font=font(38),fill=O)
     path=OUT/post['id']/f'{i+1:02d}.jpg';path.parent.mkdir(exist_ok=True);im.save(path,quality=93,optimize=True,exif=b'')

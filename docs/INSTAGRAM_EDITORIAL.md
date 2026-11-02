@@ -20,7 +20,7 @@ Les cinq publications sont des posts du fil (photo ou carrousel), pas cinq écra
 | Fin d’après-midi | Décryptage d’un chiffre ou réponse à une question métier | Partage et lecture | Carrousel 4–6 pages | Partager à un collègue / lire l’analyse |
 | Soir | Une solution concrète pour préparer une fourniture ou une livraison | Demande qualifiée | Photo réelle + carrousel court | Préparer la demande via le lien en bio |
 
-Base : quatre contenus utiles/éditoriaux et une présentation explicite des services par jour. Le contenu peut orienter vers un article produit puis ses services, mais ne doit pas transformer chaque post en publicité. Si moins de deux actualités récentes sont disponibles, utiliser des guides et reportages intemporels réellement documentés : ne pas recycler une ancienne information en « breaking news » pour remplir le quota.
+Priorité confirmée le 2 novembre 2026 : environ neuf contenus éditoriaux sur dix, destinés à générer du trafic vers le journal. Le commercial est ponctuel, jamais imposé chaque jour. Cette règle prévaut sur toute ancienne matrice commerciale. Le contenu peut orienter vers un article produit puis ses services, mais ne doit pas transformer chaque post en publicité. Si moins de deux actualités récentes sont disponibles, utiliser des guides et reportages intemporels réellement documentés : ne pas recycler une ancienne information en « breaking news » pour remplir le quota.
 
 ## Rotation et continuité
 
@@ -213,3 +213,14 @@ Le rythme courant pourra inclure deux sujets de veille lorsque des faits nouveau
 ## Critères de passage à la publication
 
 Compte exact vérifié, publication autorisée, canal connecté, source et droits valides, cinq sujets distincts, textes relus, cinq exports inspectés, destinations testées, registre initialisé et déduplication active. L’état `published` exige l’identifiant et la vérification du post réellement accessible. Les cinq contenus ci-dessus sont une première file de travail, pas des publications déjà réalisées.
+
+
+## Priorité éditoriale confirmée et registre de diffusion
+
+Instagram sert principalement et majoritairement à générer du trafic vers le journal d’actualité des matériaux : https://elboussairimateriaux.com/actualites/. La bio constatée le 2 novembre pointe déjà vers cette adresse. Viser environ neuf publications éditoriales sur dix, avec une présentation commerciale occasionnelle et clairement identifiée. Les anciennes recommandations de services chaque soir sont abandonnées.
+
+Varier systématiquement le sujet, l’accroche, l’angle et les images : actualité, décryptage, question métier, chiffre remis en contexte, reportage et explication utile. Chaque post doit avoir un apport propre et une destination de lecture réelle. Aucune redondance, aucun doublon, pas de nouvelle artificielle ni de fausse urgence. Pas d’image IA : uniquement des photographies professionnelles et propres, y compris externes avec licence vérifiée, crédit et contexte exact.
+
+Avant de préparer un nouveau lot, lire content/instagram-scheduled-2026-11-03.json et tout autre registre daté disponible. Cinq carrousels ont été vérifiés comme programmés sur @zoneindustielle pour le 3 novembre 2026 à 10 h, 12 h, 15 h, 18 h et 20 h, Africa/Casablanca. Programmation ne signifie pas publication effective. Les identifiants publics restent vides jusqu’à confirmation des publications. Les nouveaux contenus d’actualité sont stockés dans ce registre et dans les médias du planificateur Metricool.
+
+Le nouvel espace Metricool utilise la marque 7828156. L’intégration ChatGPT Metricool utilise encore l’ancienne marque 7827377 (PremiumGarage) ; une lecture de la marque 7828156 par cette intégration a renvoyé 403. Aucune publication sur PremiumGarage. Le forfait de la nouvelle marque affiche 20 publications par mois : ne pas annoncer une diffusion continue à cinq publications par jour, ni prendre un abonnement payant sans budget explicite. L’automatisme existant reste consacré à la préparation.

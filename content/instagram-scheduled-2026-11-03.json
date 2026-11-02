@@ -1,0 +1,323 @@
+{
+  "brand_id": "7828156",
+  "instagram_handle": "zoneindustielle",
+  "timezone": "Africa/Casablanca",
+  "checked_on": "2026-11-02",
+  "verification_method": "Liste Metricool filtrée sur 3 nov. 2026 ; cinq lignes contrôlées",
+  "recurring_publishing_active": false,
+  "remaining_blockers": [
+    "Forfait Metricool : 20 publications par mois",
+    "Intégration Metricool ChatGPT reliée à l’ancien compte ; lecture marque 7828156 refusée 403"
+  ],
+  "posts": [
+    {
+      "id": "guide-commande-ciment-v1",
+      "series": "Le conseil chantier",
+      "title": "Ciment : une demande claire en 4 points",
+      "caption": "Pour préparer votre demande de ciment : précisez la référence, la quantité et son unité, le lieu de livraison et votre échéance. Une photo du sac ou une fiche produit peut aider à identifier la référence.\n\nPhotographies de notre activité : elles ne garantissent pas une disponibilité en temps réel.\nEnregistrez ce mémo. Pour découvrir nos matériaux : lien en bio.\n\n#ZoneIndustrielle #MateriauxMaroc #ChantierMaroc #Ciment #Casablanca",
+      "slides": [
+        {
+          "title": "Ciment : préparez une demande précise.",
+          "body": "Quatre informations pour nous permettre d’étudier votre besoin.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp"
+        },
+        {
+          "title": "01 / La référence exacte.",
+          "body": "Indiquez le produit recherché. Ajoutez une photo du sac ou une fiche si nécessaire.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp"
+        },
+        {
+          "title": "02 / La quantité et l’unité.",
+          "body": "Sacs ou tonnes : précisez l’unité et le poids du sac. Évitez les quantités ambiguës.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp"
+        },
+        {
+          "title": "03 + 04 / Le lieu et votre échéance.",
+          "body": "Destination, date souhaitée et accès au chantier : transmettez ces éléments avec votre demande.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp"
+        }
+      ],
+      "status": "scheduled",
+      "published_media_id": null,
+      "published_url": null,
+      "format": "carousel",
+      "sources": [
+        "content/depot.json",
+        "content/products.json",
+        "content/articles.json"
+      ],
+      "cta_url": "https://elboussairimateriaux.com/actualites/instagram/?utm_source=instagram&utm_medium=organic_social&utm_campaign=guide-commande-ciment-v1",
+      "images": [
+        "/assets/instagram/guide-commande-ciment-v1/01.jpg",
+        "/assets/instagram/guide-commande-ciment-v1/02.jpg",
+        "/assets/instagram/guide-commande-ciment-v1/03.jpg",
+        "/assets/instagram/guide-commande-ciment-v1/04.jpg"
+      ],
+      "content_hash": "db5d6a5c79cd8f3cf9cfb4c4b1ba69d76a2fa8c4acd81b86fbcb21745f563959",
+      "scheduled_for": "2026-11-03T10:00:00+01:00",
+      "brand_id": "7828156",
+      "confirmation": "Metricool : publication créée avec succès, puis présence vérifiée dans la liste du 3 novembre 2026",
+      "dedupe_key": "zoneindustielle:2026-11-03:10:302e62ed0d77",
+      "media_storage": "Fichiers importés dans le planificateur Metricool ; chemins locaux de génération conservés pour reconstruction."
+    },
+    {
+      "id": "terrain-fer-beton-v1",
+      "series": "Dans notre activité",
+      "title": "Le fer à béton, du dépôt au chantier",
+      "caption": "Du dépôt au chantier : aperçu de nos fardeaux de rond à béton.\nGamme présentée : T06 à T20, barres de 12 m, selon les informations de notre catalogue. Pour votre commande, précisez les diamètres, les quantités et le chantier. Le choix des diamètres relève de vos plans et de votre étude technique.\n\nPhotos de notre activité, sans promesse de stock immédiat.\nDécouvrez le reportage et nos matériaux — lien en bio.\n\n#ZoneIndustrielle #FerABeton #MateriauxMaroc #BTPMaroc",
+      "slides": [
+        {
+          "title": "Le fer à béton, en images.",
+          "body": "Un regard sur notre activité : fardeaux, barres et préparation des demandes.",
+          "photo": "/assets/depot/arrivage-fer-beton-sonasid.webp"
+        },
+        {
+          "title": "Une référence par diamètre.",
+          "body": "Notre gamme présentée va de T06 à T20. Indiquez chaque diamètre séparément.",
+          "photo": "/assets/depot/barres-fer-beton-depot.webp"
+        },
+        {
+          "title": "Barres de 12 mètres.",
+          "body": "Précisez la longueur et la quantité souhaitées. Les plans déterminent vos besoins techniques.",
+          "photo": "/assets/depot/fardeaux-rond-beton-12m.webp"
+        },
+        {
+          "title": "Préparons votre demande.",
+          "body": "Diamètres + quantités + destination + échéance. Retrouvez nos matériaux via le lien en bio.",
+          "photo": "/assets/depot/arrivage-fer-beton-sonasid.webp"
+        }
+      ],
+      "status": "scheduled",
+      "published_media_id": null,
+      "published_url": null,
+      "format": "carousel",
+      "sources": [
+        "content/depot.json",
+        "content/products.json",
+        "content/articles.json"
+      ],
+      "cta_url": "https://elboussairimateriaux.com/actualites/instagram/?utm_source=instagram&utm_medium=organic_social&utm_campaign=terrain-fer-beton-v1",
+      "images": [
+        "/assets/instagram/terrain-fer-beton-v1/01.jpg",
+        "/assets/instagram/terrain-fer-beton-v1/02.jpg",
+        "/assets/instagram/terrain-fer-beton-v1/03.jpg",
+        "/assets/instagram/terrain-fer-beton-v1/04.jpg"
+      ],
+      "content_hash": "6f5f33f2d1951a01f8b5a699b968e15fa86bccbfe5364d440365e0d48606535a",
+      "scheduled_for": "2026-11-03T12:00:00+01:00",
+      "brand_id": "7828156",
+      "confirmation": "Metricool : publication créée avec succès, puis présence vérifiée dans la liste du 3 novembre 2026",
+      "dedupe_key": "zoneindustielle:2026-11-03:12:6af7886f16fa",
+      "media_storage": "Fichiers importés dans le planificateur Metricool ; chemins locaux de génération conservés pour reconstruction."
+    },
+    {
+      "id": "ig-gasoil-livraisons-20261103",
+      "title": "Gasoil en hausse : et vos livraisons ?",
+      "series": "Actualité · Logistique",
+      "article_id": "gasoil-maroc-1-novembre-2026",
+      "article_url": "https://elboussairimateriaux.com/actualites/gasoil-maroc-hausse-1-novembre-2026-livraisons/",
+      "caption": "Le gasoil augmente, mais cela suffit-il à expliquer le prix d’une livraison ?\n\nAu 1er novembre 2026, Médias24 rapporte des hausses de 0,50 à 1 DH/l selon les stations. Distance, charge et déchargement restent aussi à considérer : c’est notre lecture éditoriale.\n\nLire le décryptage complet dans Zone Industrielle — lien en bio.\n\nPhoto d’illustration : Liverpool, Royaume-Uni, 2025, Raymond Okoro / Unsplash. Elle ne représente pas une station marocaine.\nSource : Médias24, 1er novembre 2026 ; sources détaillées dans l’article.\n#ZoneIndustrielle #BTPMaroc #LogistiqueMaroc #MateriauxMaroc",
+      "photo_notice": "ILLUSTRATION · LIVERPOOL, ROYAUME-UNI · RAYMOND OKORO · UNSPLASH",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "slides": [
+        {
+          "title": "Gasoil en hausse : et vos livraisons ?",
+          "body": "Maroc · ajustement du 1er novembre 2026. Deux sujets à distinguer : le carburant et le coût du transport.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        },
+        {
+          "title": "Jusqu’à +1 DH par litre.",
+          "body": "Médias24 rapporte +0,50 à +1 DH selon les stations. Il ne s’agit pas d’un tarif uniforme dans tout le pays.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        },
+        {
+          "title": "Transport : ce n’est pas une règle de trois.",
+          "body": "Distance, charge, retour et manutention comptent aussi. Notre lecture : une hausse du gasoil ne fixe pas, à elle seule, le prix d’une livraison.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        },
+        {
+          "title": "Ce qu’il faut surveiller.",
+          "body": "Retrouvez les faits datés, les sources et le décryptage dans le journal. Lire l’article complet — lien en bio.",
+          "photo": "/assets/editorial/pompes-carburant-liverpool.webp"
+        }
+      ],
+      "sources": [
+        {
+          "title": "Médias24 — Gasoil : jusqu’à 1 DH de hausse au 1er novembre",
+          "url": "https://medias24.com/2026/11/01/le-gasoil-repart-a-la-hausse-jusqua-1-dh-supplementaire-ce-dimanche-1er-novembre-2026-1786253/",
+          "date": "2026-11-01"
+        },
+        {
+          "title": "Le Matin — Ajustement des carburants annoncé le 31 octobre",
+          "url": "https://lematin.ma/economie/prix-des-carburants-le-gasoil-augmente-de-1-dirham-lessence-baisse/373349",
+          "date": "2026-10-31"
+        }
+      ],
+      "photo_provenance": {
+        "type": "real_photograph",
+        "author": "Raymond Okoro",
+        "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+        "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+        "license": "Unsplash License",
+        "license_url": "https://unsplash.com/license",
+        "credit_required": false,
+        "credit": "Raymond Okoro / Unsplash",
+        "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+        "rights_checked_on": "2026-11-02"
+      },
+      "status": "scheduled",
+      "published_media_id": null,
+      "brand_id": "7828156",
+      "images": [
+        "/assets/instagram/ig-gasoil-livraisons-20261103/01.jpg",
+        "/assets/instagram/ig-gasoil-livraisons-20261103/02.jpg",
+        "/assets/instagram/ig-gasoil-livraisons-20261103/03.jpg",
+        "/assets/instagram/ig-gasoil-livraisons-20261103/04.jpg"
+      ],
+      "content_hash": "ea6c244f9676f25eb3461e22ed595e93a2d8989b102b6bad5309218740955348",
+      "scheduled_for": "2026-11-03T15:00:00+01:00",
+      "confirmation": "Metricool : publication créée avec succès, puis présence vérifiée dans la liste du 3 novembre 2026",
+      "dedupe_key": "zoneindustielle:2026-11-03:15:dd0c947025fc",
+      "media_storage": "Fichiers importés dans le planificateur Metricool ; chemins locaux de génération conservés pour reconstruction."
+    },
+    {
+      "id": "ig-hcp-indice-devis-20261103",
+      "title": "Un indice n’est pas votre devis.",
+      "series": "Le chiffre décrypté",
+      "article_id": "hcp-ippi-septembre-2026",
+      "article_url": "https://elboussairimateriaux.com/actualites/prix-production-materiaux-septembre-2026-hcp/",
+      "caption": "Prix des matériaux : que dit le HCP… et que ne dit-il pas ?\n\nEn septembre 2026, par rapport à août : +0,6 % pour les autres produits minéraux non métalliques ; −0,4 % pour la métallurgie. Ce sont des indices à la production, pas des prix de vente de nos produits.\n\nNotre décryptage et la source officielle sont dans le journal — lien en bio.\n\nSource : HCP, note IPPI publiée le 30 octobre 2026.\nPhoto d’illustration : Saral Shots, 2024, CC0 1.0 ; aucun chantier marocain identifié.\n#ZoneIndustrielle #MateriauxMaroc #HCP #BTPMaroc",
+      "photo_notice": "ILLUSTRATION · BRIQUES · SARAL SHOTS · CC0 1.0",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "slides": [
+        {
+          "title": "Un indice n’est pas votre devis.",
+          "body": "Prix des matériaux : que mesure vraiment la dernière note du HCP ?",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        },
+        {
+          "title": "+0,6 % d’un côté. −0,4 % de l’autre.",
+          "body": "Septembre 2026 par rapport à août : autres produits minéraux non métalliques +0,6 % ; métallurgie −0,4 %, selon le HCP.",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        },
+        {
+          "title": "Deux secteurs. Deux évolutions.",
+          "body": "Ces indices sectoriels ne sont ni le tarif d’un sac de ciment, ni celui d’une barre d’acier chez un fournisseur.",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        },
+        {
+          "title": "Le contexte change la lecture.",
+          "body": "Période, secteur, référence et unité : retrouvez les distinctions et la source officielle dans le journal. L’article complet — lien en bio.",
+          "photo": "/assets/editorial/briques-construction-photo.webp"
+        }
+      ],
+      "sources": [
+        {
+          "title": "HCP — IPPI de septembre 2026",
+          "url": "https://www.hcp.ma/L-indice-des-prix-a-la-production-industrielle-energetique-et-miniere-IPPI-du-mois-de-Septembre-2026_a4363.html",
+          "date": "2026-10-30"
+        }
+      ],
+      "photo_provenance": {
+        "type": "real_photograph",
+        "author": "Saral Shots",
+        "source_page": "https://commons.wikimedia.org/wiki/File:Bricks_for_construction.jpg",
+        "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Bricks_for_construction.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+        "rights_checked_on": "2026-11-01"
+      },
+      "status": "scheduled",
+      "published_media_id": null,
+      "brand_id": "7828156",
+      "images": [
+        "/assets/instagram/ig-hcp-indice-devis-20261103/01.jpg",
+        "/assets/instagram/ig-hcp-indice-devis-20261103/02.jpg",
+        "/assets/instagram/ig-hcp-indice-devis-20261103/03.jpg",
+        "/assets/instagram/ig-hcp-indice-devis-20261103/04.jpg"
+      ],
+      "content_hash": "40f5a3dfe1b50db8ad08896ce9956f1ee0ad91063fbe00663399b0d55fb92a84",
+      "scheduled_for": "2026-11-03T18:00:00+01:00",
+      "confirmation": "Metricool : publication créée avec succès, puis présence vérifiée dans la liste du 3 novembre 2026",
+      "dedupe_key": "zoneindustielle:2026-11-03:18:3ca541442877",
+      "media_storage": "Fichiers importés dans le planificateur Metricool ; chemins locaux de génération conservés pour reconstruction."
+    },
+    {
+      "id": "ig-ciment-deux-periodes-20261103",
+      "title": "Ciment : deux chiffres, deux lectures.",
+      "series": "Comprendre le marché",
+      "article_id": "depf-ciment-troisieme-trimestre-2026",
+      "article_url": "https://elboussairimateriaux.com/actualites/ciment-bilan-troisieme-trimestre-2026-depf/",
+      "caption": "+5,4 % et +1,2 % : deux chiffres compatibles, à condition de lire la période.\n\nLa note d’octobre de la DEPF distingue le troisième trimestre 2026 (+5,4 % sur un an) du cumul janvier–septembre (+1,2 %). Notre article explique cette différence et les segments concernés.\n\nLire l’analyse complète dans Zone Industrielle — lien en bio.\n\nSources : DEPF, note n° 356 d’octobre 2026 ; La Vie éco avec MAP, 26 octobre 2026.\nPhoto d’illustration : cimenterie de Carboneras, Espagne, 2020 ; Nicolas Vigier, CC0 1.0. Elle ne représente pas une usine marocaine.\n#ZoneIndustrielle #Ciment #BTPMaroc #ConstructionMaroc",
+      "photo_notice": "ILLUSTRATION · CARBONERAS, ESPAGNE · NICOLAS VIGIER · CC0 1.0",
+      "footer_cta": "LES FAITS. LE CONTEXTE. LE JOURNAL.",
+      "final_cta": "LIRE L’ARTICLE COMPLET · LIEN EN BIO",
+      "slides": [
+        {
+          "title": "Ciment : deux chiffres, deux lectures.",
+          "body": "Troisième trimestre et cumul annuel ne racontent pas exactement la même chose.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        },
+        {
+          "title": "+5,4 % au troisième trimestre.",
+          "body": "Ventes de ciment au T3 2026 par rapport au T3 2025, selon la note d’octobre de la DEPF.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        },
+        {
+          "title": "+1,2 % de janvier à septembre.",
+          "body": "Ce chiffre porte sur neuf mois. Il ne faut pas le confondre avec le seul troisième trimestre, ni avec l’avancement des chantiers.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        },
+        {
+          "title": "Où se situe la dynamique du BTP ?",
+          "body": "Le journal remet les périodes et les usages en perspective. Retrouvez le bilan et ses sources — lien en bio.",
+          "photo": "/assets/editorial/cimenterie-carboneras-photo.webp"
+        }
+      ],
+      "sources": [
+        {
+          "title": "DEPF — Note de conjoncture n° 356, octobre 2026, page 32",
+          "url": "https://www.finances.gov.ma/Publication/depf/2026/NC356.pdf",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Ministère des Finances — date de publication de la note n° 356",
+          "url": "https://www.finances.gov.ma/fr/Pages/index.aspx?id=1507",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "La Vie éco — Électricité et ciment : deux secteurs en croissance, à des rythmes contrastés",
+          "url": "https://www.lavieeco.com/affaires/secteurs/electricite-et-ciment-deux-secteurs-en-croissance-mais-a-des-rythmes-contrastes-en-2026/",
+          "date": "2026-10-26"
+        }
+      ],
+      "photo_provenance": {
+        "type": "real_photograph",
+        "author": "Nicolas Vigier",
+        "source_page": "https://commons.wikimedia.org/wiki/File:F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+        "original_file": "https://upload.wikimedia.org/wikipedia/commons/1/14/F%C3%A1brica_de_cemento_de_Carboneras_-_50330917192.jpg",
+        "license": "CC0 1.0",
+        "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+        "rights_checked_on": "2026-11-01"
+      },
+      "status": "scheduled",
+      "published_media_id": null,
+      "brand_id": "7828156",
+      "images": [
+        "/assets/instagram/ig-ciment-deux-periodes-20261103/01.jpg",
+        "/assets/instagram/ig-ciment-deux-periodes-20261103/02.jpg",
+        "/assets/instagram/ig-ciment-deux-periodes-20261103/03.jpg",
+        "/assets/instagram/ig-ciment-deux-periodes-20261103/04.jpg"
+      ],
+      "content_hash": "2e7e8710cc5e4062c66873ea018796d4b4297ff9c7e978177b6f29a0d7a821ee",
+      "scheduled_for": "2026-11-03T20:00:00+01:00",
+      "confirmation": "Metricool : publication créée avec succès, puis présence vérifiée dans la liste du 3 novembre 2026",
+      "dedupe_key": "zoneindustielle:2026-11-03:20:453d61b0c113",
+      "media_storage": "Fichiers importés dans le planificateur Metricool ; chemins locaux de génération conservés pour reconstruction."
+    }
+  ]
+}

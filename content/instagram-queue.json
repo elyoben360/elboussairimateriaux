@@ -1,6 +1,6 @@
 {
   "target_handle": "zoneindustielle",
-  "account_verified": false,
+  "account_verified": true,
   "publisher_connected": false,
   "owner_authorized_automatic_publication_on": "2026-11-02",
   "posts": [
@@ -31,7 +31,7 @@
           "photo": "/assets/depot/stock-ciment-holcim.webp"
         }
       ],
-      "status": "ready",
+      "status": "scheduled",
       "published_media_id": null,
       "published_url": null,
       "format": "carousel",
@@ -47,7 +47,11 @@
         "/assets/instagram/guide-commande-ciment-v1/03.jpg",
         "/assets/instagram/guide-commande-ciment-v1/04.jpg"
       ],
-      "content_hash": "db5d6a5c79cd8f3cf9cfb4c4b1ba69d76a2fa8c4acd81b86fbcb21745f563959"
+      "content_hash": "db5d6a5c79cd8f3cf9cfb4c4b1ba69d76a2fa8c4acd81b86fbcb21745f563959",
+      "scheduled_for": "2026-11-03T10:00:00+01:00",
+      "brand_id": "7828156",
+      "confirmation": "Metricool : publication créée avec succès, puis présence vérifiée dans la liste du 3 novembre 2026",
+      "dedupe_key": "zoneindustielle:2026-11-03:10:302e62ed0d77"
     },
     {
       "id": "terrain-fer-beton-v1",
@@ -76,7 +80,7 @@
           "photo": "/assets/depot/arrivage-fer-beton-sonasid.webp"
         }
       ],
-      "status": "ready",
+      "status": "scheduled",
       "published_media_id": null,
       "published_url": null,
       "format": "carousel",
@@ -92,7 +96,11 @@
         "/assets/instagram/terrain-fer-beton-v1/03.jpg",
         "/assets/instagram/terrain-fer-beton-v1/04.jpg"
       ],
-      "content_hash": "6f5f33f2d1951a01f8b5a699b968e15fa86bccbfe5364d440365e0d48606535a"
+      "content_hash": "6f5f33f2d1951a01f8b5a699b968e15fa86bccbfe5364d440365e0d48606535a",
+      "scheduled_for": "2026-11-03T12:00:00+01:00",
+      "brand_id": "7828156",
+      "confirmation": "Metricool : publication créée avec succès, puis présence vérifiée dans la liste du 3 novembre 2026",
+      "dedupe_key": "zoneindustielle:2026-11-03:12:6af7886f16fa"
     },
     {
       "id": "guide-panneaux-muraux-v1",
@@ -121,7 +129,7 @@
           "photo": "/assets/depot/panneaux-muraux-chantier.webp"
         }
       ],
-      "status": "ready",
+      "status": "held",
       "published_media_id": null,
       "published_url": null,
       "format": "carousel",
@@ -137,7 +145,8 @@
         "/assets/instagram/guide-panneaux-muraux-v1/03.jpg",
         "/assets/instagram/guide-panneaux-muraux-v1/04.jpg"
       ],
-      "content_hash": "afccfaf1a29b6576cedfcef03ae1c7851904a84bb5587f25fbb98839c322e7ee"
+      "content_hash": "afccfaf1a29b6576cedfcef03ae1c7851904a84bb5587f25fbb98839c322e7ee",
+      "reason": "Les sujets d’actualité ont priorité ; contenu non programmé pour ce lot."
     },
     {
       "id": "guide-preparer-livraison-v1",
@@ -166,7 +175,7 @@
           "photo": "/assets/depot/camion-grue-palfinger-photo-floutee.webp"
         }
       ],
-      "status": "ready",
+      "status": "held",
       "published_media_id": null,
       "published_url": null,
       "format": "carousel",
@@ -182,7 +191,8 @@
         "/assets/instagram/guide-preparer-livraison-v1/03.jpg",
         "/assets/instagram/guide-preparer-livraison-v1/04.jpg"
       ],
-      "content_hash": "b550406f19f03a4c6b6ef1d6ab24842be11fed2d0b690466444561bba358bb03"
+      "content_hash": "b550406f19f03a4c6b6ef1d6ab24842be11fed2d0b690466444561bba358bb03",
+      "reason": "Les sujets d’actualité ont priorité ; contenu non programmé pour ce lot."
     },
     {
       "id": "services-demande-materiaux-v1",
@@ -211,7 +221,7 @@
           "photo": "/assets/depot/camion-grue-palfinger-photo-floutee.webp"
         }
       ],
-      "status": "ready",
+      "status": "held",
       "published_media_id": null,
       "published_url": null,
       "format": "carousel",
@@ -227,7 +237,12 @@
         "/assets/instagram/services-demande-materiaux-v1/03.jpg",
         "/assets/instagram/services-demande-materiaux-v1/04.jpg"
       ],
-      "content_hash": "5e761108c3cd85fe795a23b81b4f0ad301abdba5f434278699b89f1e011a8b2e"
+      "content_hash": "5e761108c3cd85fe795a23b81b4f0ad301abdba5f434278699b89f1e011a8b2e",
+      "reason": "Les sujets d’actualité ont priorité ; contenu non programmé pour ce lot."
     }
-  ]
+  ],
+  "browser_brand_id": "7828156",
+  "browser_instagram_connected": true,
+  "scheduling_register": "content/instagram-scheduled-2026-11-03.json",
+  "editorial_priority": "Trafic vers le journal, environ 9 publications éditoriales sur 10, commercial ponctuel"
 }
