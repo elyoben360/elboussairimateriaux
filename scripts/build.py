@@ -133,6 +133,10 @@ def build(preview=False,out='dist'):
     (news/'index.html').write_text(shell('Zone Industrielle | Matériaux · Chantiers · Industrie','Le journal des matériaux et du BTP au Maroc : ciment, acier, briques, agrégats, chantiers et infrastructures.',body,'/actualites/',scripts=['/assets/blog.js?v=20261102b','/assets/motion.js','/assets/shared.js'],preview=preview))
     for a in visible:
         folder=news/a['slug'];folder.mkdir();(folder/'index.html').write_text(article_page(a,preview))
+    from instagram_hub import hub
+    hub_dir=news/'instagram';hub_dir.mkdir()
+    shutil.copyfile(ROOT/'src/instagram-hub.js',target/'assets/instagram-hub.js')
+    (hub_dir/'index.html').write_text(shell('Depuis Instagram | Zone Industrielle','Le journal, nos matériaux et votre demande de livraison : découvrez El Boussairi Matériaux depuis Instagram.',hub(),'/actualites/instagram/',scripts=['/assets/shared.js','/assets/instagram-hub.js'],preview=preview))
     from email.utils import format_datetime
     from datetime import datetime, timezone
     items=[]
