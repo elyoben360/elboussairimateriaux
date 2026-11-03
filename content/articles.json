@@ -687,5 +687,104 @@
         "digest": "9efb2846a8ebde813ac05d9dc9f7dcb1c07af3b9fccb96c95560dfd8d463225b"
       }
     }
+  },
+  {
+    "cover": "/assets/editorial/pompes-carburant-liverpool.webp",
+    "cover_width": 810,
+    "cover_height": 1440,
+    "cover_credit": "Raymond Okoro · Unsplash License",
+    "cover_provenance": {
+      "type": "real_photograph",
+      "author": "Raymond Okoro",
+      "source_page": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+      "original_file": "https://images.unsplash.com/photo-1748761751275-e55a2a29e1bf?auto=format&fit=crop&fm=jpg&ixid=NHwxMjA3fDA%3D&ixlib=rb-4.1.0&q=60&w=3000",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "credit_required": false,
+      "credit": "Raymond Okoro / Unsplash",
+      "processing": "Redimensionnement et conversion WebP sans EXIF. Aucune génération IA.",
+      "rights_checked_on": "2026-11-03"
+    },
+    "cover_source": "https://unsplash.com/photos/fuel-pumps-dispensing-diesel-and-petrol-S3kgSuSMH2Q",
+    "cover_license_url": "https://unsplash.com/license",
+    "id": "soutien-transport-routier-novembre-2026",
+    "slug": "transport-routier-aide-demandes-10-novembre-2026",
+    "status": "published",
+    "title": "Transport routier : les demandes d’aide ouvriront le 10 novembre",
+    "summary": "Le gouvernement annonce une nouvelle tranche de soutien aux transporteurs de personnes et de marchandises, couvrant quinze jours. Les inscriptions débuteront le 10 novembre 2026 sur Mouakaba.",
+    "category": "Transport de marchandises et logistique",
+    "date": "2026-11-03",
+    "event_period": "Annonce du 2 novembre 2026 · inscriptions à partir du 10 novembre 2026 · soutien couvrant quinze jours, sans dates de début et de fin précisées",
+    "cover_alt": "Pompes à carburant à Liverpool, au Royaume-Uni, photographiées par Raymond Okoro en 2025. Illustration thématique du coût des carburants ; cette vue ne représente ni une station marocaine ni une opération d’aide aux transporteurs.",
+    "cover_caption": "Pompes à carburant à Liverpool, au Royaume-Uni, photographiées par Raymond Okoro en 2025. Illustration thématique du coût des carburants ; cette vue ne représente ni une station marocaine ni une opération d’aide aux transporteurs.",
+    "sections": [
+      {
+        "title": "Une nouvelle tranche annoncée",
+        "paragraphs": [
+          "Le portail officiel Maroc.ma relaie le 3 novembre une dépêche MAP du 2 novembre : le soutien exceptionnel et direct au transport routier sera poursuivi. Le gouvernement présente cette mesure comme une réponse aux effets de la hausse persistante des produits pétroliers sur le secteur."
+        ]
+      },
+      {
+        "title": "Inscriptions et versements : deux étapes distinctes",
+        "paragraphs": [
+          "Les demandes pour cette nouvelle tranche pourront être enregistrées à partir du 10 novembre sur mouakaba.transport.gov.ma. Cette date est celle de l’ouverture des inscriptions ; la publication consultée n’annonce pas de date de versement.",
+          "La source indique une durée de quinze jours, sans en préciser les bornes calendaires. Elle ne donne ni montant de l’aide ni barème par catégorie de véhicule. Ces éléments ne peuvent donc pas être déduits de cette annonce."
+        ]
+      },
+      {
+        "title": "Notre lecture pour les livraisons de chantier",
+        "paragraphs": [
+          "Pour préparer un approvisionnement, cette annonce ne suffit pas à calculer une baisse du coût de transport. Notre recommandation est de confirmer le devis et la date de livraison avec le transporteur ; aucun nouveau tarif commercial ne découle automatiquement de cette information."
+        ]
+      }
+    ],
+    "source_note": "Source officielle lue intégralement le 3 novembre 2026. La page est datée du 3 novembre et reprend une dépêche MAP du 2 novembre. Le dernier paragraphe présente notre analyse éditoriale ; les montants et le calendrier des versements restent non précisés dans cette source.",
+    "sources": [
+      {
+        "title": "Maroc.ma — Poursuite du soutien exceptionnel au transport routier (MAP, 2 novembre ; page du 3 novembre 2026)",
+        "url": "https://maroc.ma/fr/actualites/hausse-des-prix-des-produits-petroliers-poursuite-du-soutien-exceptionnel-et-direct-destine-aux",
+        "date": "2026-11-03"
+      }
+    ],
+    "verification": {
+      "checked_on": "2026-11-03",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "Page officielle Maroc.ma lue intégralement le 03/11/2026 par HTTP public, datée Mardi 3 Novembre 2026 avec attribution MAP: 02 Novembre 2026. Vérifié : maintien du soutien exceptionnel direct au transport routier de personnes et marchandises ; tranche supplémentaire couvrant 15 jours ; ouverture des inscriptions le 10 novembre sur Mouakaba. Aucun montant, barème, bornes de la quinzaine ou date de versement annoncé sur cette page. La source officielle nouvellement accessible remplit le critère primaire ; pas de fausse indépendance entre reprises du communiqué. Photo existante Raymond Okoro inspectée, page Unsplash et licence relues le 03/11/2026 : Liverpool UK, publiée 01/06/2025, réutilisation commerciale gratuite autorisée, crédit conservé, légende explicite. WebP existant réutilisé sans doublon, sans EXIF."
+    },
+    "instagram": {
+      "caption": "Transport routier au Maroc : une nouvelle tranche d’aide couvrant quinze jours est annoncée. Inscriptions à partir du 10 novembre 2026 sur Mouakaba. Montant et date de versement non précisés dans la source officielle. Lire l’article complet — lien en bio.",
+      "slides": [
+        {
+          "title": "Transport routier au Maroc",
+          "body": "Une nouvelle tranche de soutien annoncée."
+        },
+        {
+          "title": "Inscriptions le 10 novembre",
+          "body": "Demandes sur mouakaba.transport.gov.ma."
+        },
+        {
+          "title": "Quinze jours de soutien",
+          "body": "La source ne précise pas les dates de début et de fin de cette période."
+        },
+        {
+          "title": "Ce qui reste à confirmer",
+          "body": "Montant, barème et date de versement ne sont pas indiqués dans la publication officielle."
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "elboussairimateriaux.com/actualites/"
+        }
+      ]
+    },
+    "kind": "Actualité",
+    "verified": true,
+    "approvals": {
+      "site": {
+        "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Page officielle Maroc.ma lue intégralement le 03/11/2026 par HTTP public, datée Mardi 3 Novembre 2026 avec attribution MAP: 02 Novembre 2026. Vérifié : maintien du soutien exceptionnel direct au transport routier de personnes et marchandises ; tranche supplémentaire couvrant 15 jours ; ouverture des inscriptions le 10 novembre sur Mouakaba. Aucun montant, barème, bornes de la quinzaine ou date de versement annoncé sur cette page. La source officielle nouvellement accessible remplit le critère primaire ; pas de fausse indépendance entre reprises du communiqué. Photo existante Raymond Okoro inspectée, page Unsplash et licence relues le 03/11/2026 : Liverpool UK, publiée 01/06/2025, réutilisation commerciale gratuite autorisée, crédit conservé, légende explicite. WebP existant réutilisé sans doublon, sans EXIF.",
+        "digest": "958dafad85451a9edd6f288a61a953a1c7e10b9b0f6b59c97e61ebaa9be25971"
+      }
+    }
   }
 ]
