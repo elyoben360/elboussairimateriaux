@@ -786,5 +786,97 @@
         "digest": "958dafad85451a9edd6f288a61a953a1c7e10b9b0f6b59c97e61ebaa9be25971"
       }
     }
+  },
+  {
+    "id": "strategie-eau-barrages-novembre-2026",
+    "slug": "barrages-maroc-17-grands-ouvrages-construction-2026",
+    "status": "published",
+    "date": "2026-11-03",
+    "title": "Barrages au Maroc : 17 grands ouvrages en construction, selon le ministère",
+    "summary": "Nizar Baraka fait état de 17 grands barrages en chantier, représentant 5,4 milliards de m³ de stockage. La capacité nationale visée pour 2031 reste un objectif.",
+    "event_period": "Déclaration du 2 novembre 2026 à Rabat · publication du 3 novembre 2026 · objectif à l’horizon 2031",
+    "category": "Investissements et infrastructures",
+    "cover": "/assets/editorial/barrage-al-wahda-2023.webp",
+    "cover_alt": "Barrage Al Wahda au Maroc, photographié le 29 avril 2023 par l’école Lamjaara dans le cadre de WikiChallenge Écoles d’Afrique. Vue d’un ouvrage existant ; elle ne représente pas les 17 barrages en construction.",
+    "cover_caption": "Barrage Al Wahda au Maroc, photographié le 29 avril 2023 par l’école Lamjaara dans le cadre de WikiChallenge Écoles d’Afrique. Vue d’un ouvrage existant ; elle ne représente pas les 17 barrages en construction.",
+    "cover_width": 1440,
+    "cover_height": 1080,
+    "cover_credit": "École Lamjaara — WikiChallenge Écoles d’Afrique 2023 · CC BY-SA 4.0",
+    "cover_source": "https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg",
+    "cover_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "cover_provenance": {
+      "author": "École Lamjaara — WikiChallenge Écoles d’Afrique 2023",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Barrage_Al_Wahda_%283%29.jpg",
+      "date": "2023-04-29",
+      "rights_checked_on": "2026-11-03",
+      "processing": "Redimensionnement à 1440 × 1080, conversion WebP, retrait des métadonnées EXIF. Copie sous CC BY-SA 4.0. Aucune génération IA."
+    },
+    "sections": [
+      {
+        "title": "Des travaux en cours",
+        "paragraphs": [
+          "Le 2 novembre à la Chambre des représentants, le ministre Nizar Baraka a présenté les orientations de la nouvelle stratégie de sécurité hydrique. Selon le compte rendu officiel publié par Maroc.ma, la construction de 17 grands barrages se poursuit, pour une capacité de stockage de 5,4 milliards de m³."
+        ]
+      },
+      {
+        "title": "Un objectif pour 2031",
+        "paragraphs": [
+          "Le ministre annonce également le lancement de 12 nouveaux barrages, représentant 4,9 milliards de m³ supplémentaires. Il fixe un objectif de capacité globale de 27 milliards de m³ à l’horizon 2031. Ces annonces ne signifient pas que ces ouvrages sont achevés ou que ces volumes sont déjà disponibles."
+        ]
+      },
+      {
+        "title": "Notre lecture pour les chantiers",
+        "paragraphs": [
+          "Ces orientations donnent un repère sur la place des infrastructures hydrauliques dans l’activité de construction. Elles ne permettent pas de déduire les quantités de matériaux à commander, les attributaires des marchés ou des dates de livraison pour chaque chantier."
+        ]
+      }
+    ],
+    "source_note": "Source officielle lue intégralement le 3 novembre 2026. La page reprend une dépêche MAP du 2 novembre. La dernière section présente notre analyse éditoriale.",
+    "sources": [
+      {
+        "title": "Maroc.ma — Nouvelle stratégie de sécurité hydrique (MAP, 2 novembre ; page du 3 novembre 2026)",
+        "url": "https://maroc.ma/fr/actualites/securite-hydrique-lancement-dune-nouvelle-strategie-adaptee-aux-mutations-climatiques-majeures",
+        "date": "2026-11-03"
+      }
+    ],
+    "verification": {
+      "checked_on": "2026-11-03",
+      "facts_checked": true,
+      "date_checked": true,
+      "evidence": "Source officielle Maroc.ma lue intégralement le 03/11/2026 par HTTP public : page du 3 novembre, MAP du 2 novembre, déclaration à Rabat le lundi 2 novembre. 17 grands barrages en construction, capacité 5,4 milliards m³ ; lancement de 12 nouveaux barrages, 4,9 milliards m³ supplémentaires ; objectif global 27 milliards m³ en 2031. Statuts en cours/annoncé/objectif explicitement distincts, aucune addition interprétative ni prix commercial. Photographie réelle Barrage Al Wahda (3).jpg inspectée ; page Commons et licence CC BY-SA 4.0 lues intégralement le 03/11/2026. Auteur école Lamjaara, date 29/04/2023. Légende distingue ouvrage existant et barrages en construction ; crédit et licence visibles. Original préservé via URL de provenance et copie locale temporaire ; WebP sans EXIF, copie sous même licence."
+    },
+    "instagram": {
+      "caption": "Barrages au Maroc : 17 grands ouvrages en construction selon le ministère. Les capacités annoncées et les objectifs restent distincts. Lire l’article complet — lien en bio.",
+      "slides": [
+        {
+          "title": "Barrages au Maroc",
+          "body": "17 grands ouvrages en construction selon le ministère."
+        },
+        {
+          "title": "5,4 milliards de m³",
+          "body": "Capacité de stockage des 17 grands barrages en chantier."
+        },
+        {
+          "title": "Objectif 2031",
+          "body": "27 milliards de m³ de capacité globale visée ; ce volume n’est pas déjà disponible."
+        },
+        {
+          "title": "Lire l'article complet — lien en bio",
+          "body": "elboussairimateriaux.com/actualites/"
+        }
+      ]
+    },
+    "kind": "Actualité",
+    "verified": true,
+    "approvals": {
+      "site": {
+        "approved_by": "Publication automatique — politique autorisée le 2026-11-01",
+        "evidence": "Le propriétaire demande une vraie automatisation pour publier des actualités sourcées sur le BTP, les matériaux et le transport de marchandises au Maroc. Vérification documentaire : Source officielle Maroc.ma lue intégralement le 03/11/2026 par HTTP public : page du 3 novembre, MAP du 2 novembre, déclaration à Rabat le lundi 2 novembre. 17 grands barrages en construction, capacité 5,4 milliards m³ ; lancement de 12 nouveaux barrages, 4,9 milliards m³ supplémentaires ; objectif global 27 milliards m³ en 2031. Statuts en cours/annoncé/objectif explicitement distincts, aucune addition interprétative ni prix commercial. Photographie réelle Barrage Al Wahda (3).jpg inspectée ; page Commons et licence CC BY-SA 4.0 lues intégralement le 03/11/2026. Auteur école Lamjaara, date 29/04/2023. Légende distingue ouvrage existant et barrages en construction ; crédit et licence visibles. Original préservé via URL de provenance et copie locale temporaire ; WebP sans EXIF, copie sous même licence.",
+        "digest": "4e0b7b6e533d83b786d386461d52d9d0864fabfa6d51d1b8a85a42eaa03f0480"
+      }
+    }
   }
 ]
