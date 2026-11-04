@@ -229,3 +229,8 @@ Le nouvel espace Metricool utilise la marque 7828156. L’intégration ChatGPT M
 ## Lot de préparation du 3 novembre 2026
 
 Le lot éditorial corrigé de cinq posts est dans `content/instagram-prepared-2026-11-03.json` ; contrôle et limites : `docs/INSTAGRAM_PREPARATION_2026-11-03.md`. Ce lot de préparation ne remplace pas le registre de programmation et ne doit jamais être ajouté en supplément. Les révisions ne sont pas synchronisées avec Metricool. À chaque passage, lire ces deux fichiers avant de créer quoi que ce soit. Les liens sont vérifiés dans les sources du journal, mais leur contrôle HTTP a reçu 403 : validation en ligne à renouveler. Aucune diffusion dans cette tâche.
+
+
+## Lot de préparation du 4 novembre 2026
+
+Lire `content/instagram-prepared-2026-11-04.json` et `docs/INSTAGRAM_PREPARATION_2026-11-04.md` avant toute préparation supplémentaire à cette date. Cinq carrousels éditoriaux et vingt JPEG sont prêts ; ne pas recréer cinq posts à chaque passage. Les contrôles et limites de destination, de sources et d’historique sont consignés. Ce lot n’a pas été programmé ni publié. Aucune activation de diffusion récurrente n’est impliquée.

@@ -1,0 +1,922 @@
+{
+  "date": "2026-11-04",
+  "timezone": "Africa/Casablanca",
+  "target_handle": "zoneindustielle",
+  "mode": "preparation_only",
+  "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+  "daily_count": 5,
+  "editorial_count": 5,
+  "commercial_count": 0,
+  "status": "ready",
+  "publication_identifiers_empty": true,
+  "previous_lot": "content/instagram-prepared-2026-11-03.json",
+  "scheduling_register": "content/instagram-scheduled-2026-11-03.json",
+  "history_limits": "Historique disponible : lots et registre du 3 novembre, sans preuve de publication publique. Contrôle sept jours limité à ces registres ; aucune publication déduite de l’heure écoulée.",
+  "posts": [
+    {
+      "id": "zi-emploi-construction-20261104",
+      "article_id": "hcp-emploi-construction-t3-2026",
+      "title": "L’emploi du BTP : que dit vraiment le HCP ?",
+      "series": "Emploi · Le repère",
+      "angle": "Lire une variation trimestrielle et ses limites méthodologiques",
+      "photo": "/assets/depot/panneaux-murs-remplissage.webp",
+      "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+      "photo_context": "Photo de notre activité, lieu exact et date non documentés ; elle ne représente pas l’enquête nationale ni une variation d’effectifs EBM.",
+      "layout": 0,
+      "source_short": "HCP · EMO T3 2026 · note du 3 novembre",
+      "caption": "L’emploi dans la construction reste presque stable au T3 2026, selon le HCP.\n\n1,354 million de personnes en emploi contre revenu ; recul net de 3 000 sur un trimestre (−0,2 %). Attention : l’EMO remplace l’ancienne ENE et les résultats ne sont pas directement comparables.\n\nLire les chiffres et leurs limites dans le journal — lien en bio.\n\nSource : HCP, 3 novembre 2026. Illustration : photographie de notre activité, © El Boussairi Matériaux ; elle ne représente pas l’enquête.\n#ZoneIndustrielle #BTPMaroc #ConstructionMaroc #HCP",
+      "slides": [
+        {
+          "title": "L’emploi du BTP : que dit le HCP ?",
+          "body": "Un repère national sur la construction au troisième trimestre 2026. Note publiée le 3 novembre.",
+          "photo": "/assets/depot/panneaux-murs-remplissage.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "1,354 million de personnes.",
+          "body": "Dans la construction, en emploi contre revenu. Recul net de 3 000 sur un trimestre (−0,2 %), selon le HCP.",
+          "photo": "/assets/depot/panneaux-cloisons-interieures.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "La comparaison demande du contexte.",
+          "body": "L’EMO remplace l’ancienne ENE : résultats non directement comparables. Les variations trimestrielles peuvent aussi intégrer des effets saisonniers.",
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "Et pour votre chantier ?",
+          "body": "Notre lecture : ces chiffres ne disent pas quelles équipes sont disponibles localement. Retrouvez les précautions de lecture dans l’article.",
+          "photo": "/assets/depot/panneaux-murs-remplissage.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        }
+      ],
+      "post_key": "zi:zoneindustielle:2026-11-04:01:zi-emploi-construction-20261104",
+      "dedupe_key": "zi:zoneindustielle:2026-11-04:01:zi-emploi-construction-20261104",
+      "status": "ready",
+      "format": "carousel",
+      "editorial": true,
+      "article_url": "https://elboussairimateriaux.com/actualites/construction-emploi-troisieme-trimestre-2026-hcp/",
+      "cta": "Lire l’article complet — lien en bio",
+      "cta_url": "https://elboussairimateriaux.com/actualites/construction-emploi-troisieme-trimestre-2026-hcp/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-emploi-construction-20261104",
+      "event_period": "Juillet à septembre 2026, comparé à avril à juin 2026 · publication du 3 novembre 2026",
+      "sources": [
+        {
+          "title": "HCP — Publication de l’EMO du troisième trimestre 2026, 3 novembre 2026",
+          "url": "https://www.hcp.ma/Situation-du-marche-du-travail-au-Maroc-au-troisieme-trimestre-2026-selon-l-enquete-sur-la-main-d-oeuvre-EMO2026_a4364.html",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "HCP — Note intégrale sur le marché du travail, troisième trimestre 2026 (PDF)",
+          "url": "https://www.hcp.ma/attachment/2927551/",
+          "date": "2026-11-03"
+        }
+      ],
+      "publication_date": "2026-11-03",
+      "published_media_id": null,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "preparation_only": true,
+      "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+      "checked_on": "2026-11-04",
+      "images": [
+        "/assets/instagram/zi-emploi-construction-20261104/01.jpg",
+        "/assets/instagram/zi-emploi-construction-20261104/02.jpg",
+        "/assets/instagram/zi-emploi-construction-20261104/03.jpg",
+        "/assets/instagram/zi-emploi-construction-20261104/04.jpg"
+      ],
+      "photo_provenance": {
+        "author": "El Boussairi Matériaux",
+        "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-murs-remplissage.webp",
+        "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+        "license": "Autorisation du propriétaire pour la communication de sa marque",
+        "license_url": "https://elboussairimateriaux.com/#droits-images",
+        "credit": "© El Boussairi Matériaux",
+        "type": "real_photograph",
+        "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+        "geographic_context": "Photo de notre activité, lieu exact et date non documentés ; elle ne représente pas l’enquête nationale ni une variation d’effectifs EBM.",
+        "rights_checked_on": "2026-11-04"
+      },
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/depot/panneaux-murs-remplissage.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-murs-remplissage.webp",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité, lieu exact et date non documentés ; elle ne représente pas l’enquête nationale ni une variation d’effectifs EBM.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/depot/panneaux-cloisons-interieures.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-cloisons-interieures.webp",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité, lieu exact et date non documentés ; elle ne représente pas l’enquête nationale ni une variation d’effectifs EBM.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-muraux-chantier.webp",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité, lieu exact et date non documentés ; elle ne représente pas l’enquête nationale ni une variation d’effectifs EBM.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/depot/panneaux-murs-remplissage.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-murs-remplissage.webp",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité, lieu exact et date non documentés ; elle ne représente pas l’enquête nationale ni une variation d’effectifs EBM.",
+          "rights_checked_on": "2026-11-04"
+        }
+      ],
+      "destination_check": {
+        "status": "article_verified_in_main_public_access_unconfirmed",
+        "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+        "note": "Les cinq URL ont été tentées le 4 novembre par lecture web, sans accès. Article réel et slug vérifiés dans main ; accès public à reconfirmer avant toute diffusion."
+      },
+      "facts_check": {
+        "checked_on": "2026-11-04",
+        "evidence": "HCP page de publication et PDF pages 2-3 et 6 relus : 1 354 000, -3 000, -0,2 %, EMO/ENE non comparables, effets saisonniers."
+      },
+      "content_hash": "7ad3de79045565a04b8d3744b84efac915f167ea5e9ed93f525f2ca6d16cbff3",
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/zi-emploi-construction-20261104/01.jpg",
+          "sha256": "23782519c2498730a2b95b85acac2de9450cff5d17188d8de59e01e8c1c9131e"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/zi-emploi-construction-20261104/02.jpg",
+          "sha256": "0925eabdee1bbc3e41328df0bb438b274d4668b7a308bd7b193eeef695b12d2a"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/zi-emploi-construction-20261104/03.jpg",
+          "sha256": "0d9a5b67d6f64b47956e941897807c4cd7bbe06f662e2a60adcd6f9e72865c70"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/zi-emploi-construction-20261104/04.jpg",
+          "sha256": "6e27d8e571c747716349b8a4eedbbbcc521a50a78fc276cb85d3492a3189887e"
+        }
+      ],
+      "cover_photo_sha256": "9e420f123a41211f49d62f30eadb8b9846e379a711ebba6591b2190735c7d014"
+    },
+    {
+      "id": "zi-barrages-statuts-20261104",
+      "article_id": "strategie-eau-barrages-novembre-2026",
+      "title": "Barrages : en chantier, annoncé ou objectif ?",
+      "series": "Infrastructures · Les statuts",
+      "angle": "Distinguer les ouvrages en travaux, les lancements annoncés et la capacité cible",
+      "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+      "photo_notice": "ILLUSTRATION · AL WAHDA, MAROC · OUVRAGE EXISTANT · 2023",
+      "photo_context": "Al Wahda, Maroc, 29 avril 2023. Ouvrage existant : ne représente pas les 17 barrages en construction.",
+      "layout": 1,
+      "source_short": "Maroc.ma / MAP · déclaration du 2 novembre",
+      "caption": "Trois statuts à distinguer dans les annonces sur les barrages.\n\nSelon le ministère : 17 grands ouvrages en construction ; lancement de 12 nouveaux barrages annoncé ; capacité globale de 27 milliards de m³ visée pour 2031. Un objectif n’est pas un volume déjà disponible.\n\nLire le point complet dans le journal — lien en bio.\n\nSource : Maroc.ma, 3 novembre 2026 (MAP du 2 novembre).\nPhoto : école Lamjaara — WikiChallenge Écoles d’Afrique 2023, Al Wahda, 29 avril 2023. Ouvrage existant, pas les chantiers annoncés. Recadrage, mise en page et textes ajoutés. Pages de ce carrousel sous CC BY-SA 4.0 : https://creativecommons.org/licenses/by-sa/4.0/ ; source photo : https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg . Aucun soutien de l’auteur suggéré.\n#ZoneIndustrielle #InfrastructuresMaroc #Barrages #BTPMaroc",
+      "slides": [
+        {
+          "title": "Barrages : trois statuts à distinguer.",
+          "body": "En chantier, lancement annoncé, objectif : les mots changent la lecture. Déclaration ministérielle du 2 novembre 2026.",
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "photo_notice": "ILLUSTRATION · AL WAHDA, MAROC · OUVRAGE EXISTANT · 2023",
+          "credit_short": "École Lamjaara · WikiChallenge Afrique 2023 · CC BY-SA 4.0"
+        },
+        {
+          "title": "17 grands barrages en construction.",
+          "body": "Le ministère leur associe 5,4 milliards de m³ de stockage. Ce chiffre décrit la capacité des ouvrages, pas leur remplissage actuel.",
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "photo_notice": "ILLUSTRATION · AL WAHDA, MAROC · OUVRAGE EXISTANT · 2023",
+          "credit_short": "École Lamjaara · WikiChallenge Afrique 2023 · CC BY-SA 4.0"
+        },
+        {
+          "title": "2031 reste un horizon.",
+          "body": "12 nouveaux barrages annoncés ; 27 milliards de m³ de capacité globale visée en 2031. Ne pas confondre annonces et ouvrages achevés.",
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "photo_notice": "ILLUSTRATION · AL WAHDA, MAROC · OUVRAGE EXISTANT · 2023",
+          "credit_short": "École Lamjaara · WikiChallenge Afrique 2023 · CC BY-SA 4.0"
+        },
+        {
+          "title": "Ce que le journal remet en contexte.",
+          "body": "Notre lecture : ces orientations ne donnent ni commandes de matériaux, ni attributaires par chantier. Les statuts et la source sont dans l’article.",
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "photo_notice": "ILLUSTRATION · AL WAHDA, MAROC · OUVRAGE EXISTANT · 2023",
+          "credit_short": "École Lamjaara · WikiChallenge Afrique 2023 · CC BY-SA 4.0"
+        }
+      ],
+      "post_key": "zi:zoneindustielle:2026-11-04:02:zi-barrages-statuts-20261104",
+      "dedupe_key": "zi:zoneindustielle:2026-11-04:02:zi-barrages-statuts-20261104",
+      "status": "ready",
+      "format": "carousel",
+      "editorial": true,
+      "article_url": "https://elboussairimateriaux.com/actualites/barrages-maroc-17-grands-ouvrages-construction-2026/",
+      "cta": "Lire l’article complet — lien en bio",
+      "cta_url": "https://elboussairimateriaux.com/actualites/barrages-maroc-17-grands-ouvrages-construction-2026/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-barrages-statuts-20261104",
+      "event_period": "Déclaration du 2 novembre 2026 à Rabat · publication du 3 novembre 2026 · objectif à l’horizon 2031",
+      "sources": [
+        {
+          "title": "Maroc.ma — Nouvelle stratégie de sécurité hydrique (MAP, 2 novembre ; page du 3 novembre 2026)",
+          "url": "https://maroc.ma/fr/actualites/securite-hydrique-lancement-dune-nouvelle-strategie-adaptee-aux-mutations-climatiques-majeures",
+          "date": "2026-11-03"
+        }
+      ],
+      "publication_date": "2026-11-03",
+      "published_media_id": null,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "preparation_only": true,
+      "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+      "checked_on": "2026-11-04",
+      "images": [
+        "/assets/instagram/zi-barrages-statuts-20261104/01.jpg",
+        "/assets/instagram/zi-barrages-statuts-20261104/02.jpg",
+        "/assets/instagram/zi-barrages-statuts-20261104/03.jpg",
+        "/assets/instagram/zi-barrages-statuts-20261104/04.jpg"
+      ],
+      "photo_provenance": {
+        "author": "École Lamjaara — WikiChallenge Écoles d’Afrique 2023",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": "https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg",
+        "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Barrage_Al_Wahda_%283%29.jpg",
+        "date": "2023-04-29",
+        "rights_checked_on": "2026-11-04",
+        "processing": "Redimensionnement à 1440 × 1080, conversion WebP, retrait des métadonnées EXIF. Copie sous CC BY-SA 4.0. Aucune génération IA.",
+        "geographic_context": "Al Wahda, Maroc, 29 avril 2023. Ouvrage existant : ne représente pas les 17 barrages en construction."
+      },
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "author": "École Lamjaara — WikiChallenge Écoles d’Afrique 2023",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Barrage_Al_Wahda_%283%29.jpg",
+          "date": "2023-04-29",
+          "rights_checked_on": "2026-11-04",
+          "processing": "Redimensionnement à 1440 × 1080, conversion WebP, retrait des métadonnées EXIF. Copie sous CC BY-SA 4.0. Aucune génération IA.",
+          "geographic_context": "Al Wahda, Maroc, 29 avril 2023. Ouvrage existant : ne représente pas les 17 barrages en construction."
+        },
+        {
+          "page": 2,
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "author": "École Lamjaara — WikiChallenge Écoles d’Afrique 2023",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Barrage_Al_Wahda_%283%29.jpg",
+          "date": "2023-04-29",
+          "rights_checked_on": "2026-11-04",
+          "processing": "Redimensionnement à 1440 × 1080, conversion WebP, retrait des métadonnées EXIF. Copie sous CC BY-SA 4.0. Aucune génération IA.",
+          "geographic_context": "Al Wahda, Maroc, 29 avril 2023. Ouvrage existant : ne représente pas les 17 barrages en construction."
+        },
+        {
+          "page": 3,
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "author": "École Lamjaara — WikiChallenge Écoles d’Afrique 2023",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Barrage_Al_Wahda_%283%29.jpg",
+          "date": "2023-04-29",
+          "rights_checked_on": "2026-11-04",
+          "processing": "Redimensionnement à 1440 × 1080, conversion WebP, retrait des métadonnées EXIF. Copie sous CC BY-SA 4.0. Aucune génération IA.",
+          "geographic_context": "Al Wahda, Maroc, 29 avril 2023. Ouvrage existant : ne représente pas les 17 barrages en construction."
+        },
+        {
+          "page": 4,
+          "photo": "/assets/editorial/barrage-al-wahda-2023.webp",
+          "author": "École Lamjaara — WikiChallenge Écoles d’Afrique 2023",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "source": "https://commons.wikimedia.org/wiki/File:Barrage_Al_Wahda_(3).jpg",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Barrage_Al_Wahda_%283%29.jpg",
+          "date": "2023-04-29",
+          "rights_checked_on": "2026-11-04",
+          "processing": "Redimensionnement à 1440 × 1080, conversion WebP, retrait des métadonnées EXIF. Copie sous CC BY-SA 4.0. Aucune génération IA.",
+          "geographic_context": "Al Wahda, Maroc, 29 avril 2023. Ouvrage existant : ne représente pas les 17 barrages en construction."
+        }
+      ],
+      "destination_check": {
+        "status": "article_verified_in_main_public_access_unconfirmed",
+        "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+        "note": "Les cinq URL ont été tentées le 4 novembre par lecture web, sans accès. Article réel et slug vérifiés dans main ; accès public à reconfirmer avant toute diffusion."
+      },
+      "facts_check": {
+        "checked_on": "2026-11-04",
+        "evidence": "Page officielle Maroc.ma intégrale relue après recherche officielle : 17 barrages, 5,4 milliards m³, 12 annoncés, objectif 27 milliards en 2031, MAP du 2 novembre."
+      },
+      "artwork_license": {
+        "license": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "scope": "Pages JPEG de ce carrousel avec recadrage, mise en page et textes ajoutés ; crédits et provenance conservés. Les marques et logos restent des signes distinctifs et ne suggèrent aucun soutien des photographes."
+      },
+      "content_hash": "cb02deeb8cf42962d136bd10dfbaf3fcab71254c210c219106b133d64bd3765c",
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/zi-barrages-statuts-20261104/01.jpg",
+          "sha256": "6b81e69218905376215e2e24632d2a44d8704dc9ac5d0d6571d685f2d8a4ff1e"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/zi-barrages-statuts-20261104/02.jpg",
+          "sha256": "9ae883486956d1772d54feb178c5a884e59e9ff16b09eefe40666b31df7272d2"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/zi-barrages-statuts-20261104/03.jpg",
+          "sha256": "8122c0956ac215b62628fd976569d1ec908b80ed02c89021c9fda8e8c9664c36"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/zi-barrages-statuts-20261104/04.jpg",
+          "sha256": "e45bc7bf4a179490565e728f5088afa0f50ebad44e62a3ac491a24e7f3eacea1"
+        }
+      ],
+      "cover_photo_sha256": "903078d7e005a9fbadb1e721ca5fe856186ce8264d14da591d05998ac27d5172"
+    },
+    {
+      "id": "zi-transport-aide-calendrier-20261104",
+      "article_id": "soutien-transport-routier-novembre-2026",
+      "title": "Aide au transport : quelle date retenir ?",
+      "series": "Logistique · Le calendrier",
+      "angle": "Distinguer ouverture des demandes, durée du soutien et versement",
+      "photo": "/assets/depot/arrivage-madriers-coffrage.webp",
+      "photo_notice": "ILLUSTRATION · TRANSPORT DE NOTRE ACTIVITÉ · © EBM",
+      "photo_context": "Photo de notre activité logistique, date et lieu exact non documentés. Elle ne prouve ni éligibilité ni attribution de l’aide à EBM.",
+      "layout": 2,
+      "source_short": "Maroc.ma / MAP · annonce du 2 novembre",
+      "caption": "Le 10 novembre est une date d’inscription à retenir.\n\nLa nouvelle tranche de soutien au transport routier couvre quinze jours, selon l’annonce gouvernementale. Les demandes ouvriront le 10 novembre 2026 sur Mouakaba. Montant et date de versement ne sont pas précisés dans cette source.\n\nLire les éléments confirmés dans le journal — lien en bio.\n\nSource : Maroc.ma, 3 novembre 2026 (MAP du 2 novembre). Photo d’illustration de notre activité, © El Boussairi Matériaux ; aucune attribution d’aide à EBM n’est affirmée.\n#ZoneIndustrielle #TransportMaroc #LogistiqueMaroc #BTPMaroc",
+      "slides": [
+        {
+          "title": "Aide au transport : quelle date retenir ?",
+          "body": "Annonce du 2 novembre 2026 : une nouvelle tranche pour les professionnels du transport routier de personnes et de marchandises.",
+          "photo": "/assets/depot/arrivage-madriers-coffrage.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE NOTRE ACTIVITÉ · © EBM",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "Demandes à partir du 10 novembre.",
+          "body": "Inscriptions via mouakaba.transport.gov.ma. L’annonce concerne l’ouverture des demandes, pas une date de versement.",
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE NOTRE ACTIVITÉ · © EBM",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "Quinze jours de soutien.",
+          "body": "La source ne précise ni les bornes de cette période, ni le montant, ni le barème. Ne pas déduire une somme par véhicule.",
+          "photo": "/assets/depot/arrivage-madriers-coffrage.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE NOTRE ACTIVITÉ · © EBM",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "Livraison : quel effet concret ?",
+          "body": "Notre lecture : l’annonce ne fixe pas automatiquement un nouveau tarif de transport. Retrouvez les informations confirmées et la source dans le journal.",
+          "photo": "/assets/depot/camion-grue-palfinger-photo-floutee.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE NOTRE ACTIVITÉ · © EBM",
+          "credit_short": "© El Boussairi Matériaux"
+        }
+      ],
+      "post_key": "zi:zoneindustielle:2026-11-04:03:zi-transport-aide-calendrier-20261104",
+      "dedupe_key": "zi:zoneindustielle:2026-11-04:03:zi-transport-aide-calendrier-20261104",
+      "status": "ready",
+      "format": "carousel",
+      "editorial": true,
+      "article_url": "https://elboussairimateriaux.com/actualites/transport-routier-aide-demandes-10-novembre-2026/",
+      "cta": "Lire l’article complet — lien en bio",
+      "cta_url": "https://elboussairimateriaux.com/actualites/transport-routier-aide-demandes-10-novembre-2026/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-transport-aide-calendrier-20261104",
+      "event_period": "Annonce du 2 novembre 2026 · inscriptions à partir du 10 novembre 2026 · soutien couvrant quinze jours, sans dates de début et de fin précisées",
+      "sources": [
+        {
+          "title": "Maroc.ma — Poursuite du soutien exceptionnel au transport routier (MAP, 2 novembre ; page du 3 novembre 2026)",
+          "url": "https://maroc.ma/fr/actualites/hausse-des-prix-des-produits-petroliers-poursuite-du-soutien-exceptionnel-et-direct-destine-aux",
+          "date": "2026-11-03"
+        }
+      ],
+      "publication_date": "2026-11-03",
+      "published_media_id": null,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "preparation_only": true,
+      "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+      "checked_on": "2026-11-04",
+      "images": [
+        "/assets/instagram/zi-transport-aide-calendrier-20261104/01.jpg",
+        "/assets/instagram/zi-transport-aide-calendrier-20261104/02.jpg",
+        "/assets/instagram/zi-transport-aide-calendrier-20261104/03.jpg",
+        "/assets/instagram/zi-transport-aide-calendrier-20261104/04.jpg"
+      ],
+      "photo_provenance": {
+        "author": "El Boussairi Matériaux",
+        "source_page": "https://elboussairimateriaux.com/assets/depot/arrivage-madriers-coffrage.webp",
+        "source": "Photographie et identification fournies par le propriétaire du site",
+        "license": "Autorisation du propriétaire pour la communication de sa marque",
+        "license_url": "https://elboussairimateriaux.com/#droits-images",
+        "credit": "© El Boussairi Matériaux",
+        "type": "real_photograph",
+        "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+        "geographic_context": "Photo de notre activité logistique, date et lieu exact non documentés. Elle ne prouve ni éligibilité ni attribution de l’aide à EBM.",
+        "rights_checked_on": "2026-11-04"
+      },
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/depot/arrivage-madriers-coffrage.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/arrivage-madriers-coffrage.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité logistique, date et lieu exact non documentés. Elle ne prouve ni éligibilité ni attribution de l’aide à EBM.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/camion-bois-coffrage.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité logistique, date et lieu exact non documentés. Elle ne prouve ni éligibilité ni attribution de l’aide à EBM.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/depot/arrivage-madriers-coffrage.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/arrivage-madriers-coffrage.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité logistique, date et lieu exact non documentés. Elle ne prouve ni éligibilité ni attribution de l’aide à EBM.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/depot/camion-grue-palfinger-photo-floutee.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/camion-grue-palfinger-photo-floutee.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photo de notre activité logistique, date et lieu exact non documentés. Elle ne prouve ni éligibilité ni attribution de l’aide à EBM.",
+          "rights_checked_on": "2026-11-04"
+        }
+      ],
+      "destination_check": {
+        "status": "article_verified_in_main_public_access_unconfirmed",
+        "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+        "note": "Les cinq URL ont été tentées le 4 novembre par lecture web, sans accès. Article réel et slug vérifiés dans main ; accès public à reconfirmer avant toute diffusion."
+      },
+      "facts_check": {
+        "checked_on": "2026-11-04",
+        "evidence": "Page officielle Maroc.ma intégrale relue : annonce MAP du 2 novembre, publication 3 novembre, inscriptions 10 novembre, 15 jours ; aucun montant ni versement annoncé."
+      },
+      "content_hash": "96fae298ff5424b62528149a49dfaa20bc269ab8474d209320c8f25a9eac5843",
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/zi-transport-aide-calendrier-20261104/01.jpg",
+          "sha256": "b64b0697173cb0873a7bf140e0924a2dab633acd5f67ed55e083395a899ac628"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/zi-transport-aide-calendrier-20261104/02.jpg",
+          "sha256": "2e4e7ab7011728828fce9693c33f13ab36fdd0b2823257ac6719c00d1686c136"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/zi-transport-aide-calendrier-20261104/03.jpg",
+          "sha256": "90c7b992feea0f1a2139234e708bde6b32bdfd3244ca86902b676a2e120adb7a"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/zi-transport-aide-calendrier-20261104/04.jpg",
+          "sha256": "559dc761935065bd25d8ac1d5886f0b38846b25dff3cc0eb647df6324ab5ad6c"
+        }
+      ],
+      "cover_photo_sha256": "18894a9ba27bbfa54255af2eb61aab1cde1076cc33c16348b5d9eed04ffce2c4"
+    },
+    {
+      "id": "zi-nador-etapes-20261104",
+      "article_id": "nador-west-med-31-octobre-2026",
+      "title": "Nador West Med : démarrage et capacité future",
+      "series": "Ports · Comprendre les étapes",
+      "angle": "Explication datée du terminal Est et de la capacité future, sans nouvelle annonce",
+      "photo": "/assets/editorial/tanger-med-photo.webp",
+      "photo_notice": "ILLUSTRATION · TANGER MED, 2019 · CE N’EST PAS NADOR WEST MED",
+      "photo_context": "Tanger Med, Maroc, 24 septembre 2019. Illustration portuaire : ne représente pas Nador West Med ni son lancement.",
+      "layout": 0,
+      "source_short": "MAP via Médias24 · 31 octobre 2026",
+      "caption": "Un terminal qui démarre et une capacité future ne décrivent pas la même étape.\n\nLe terminal Est de Nador West Med a lancé ses opérations le 31 octobre 2026, selon MAP. Sa capacité annoncée de 3,5 millions de conteneurs correspond à l’horizon 2030. Le terminal Ouest reste annoncé pour avril 2027. Retour explicatif sur cet événement, sans nouvelle annonce.\n\nLire le décryptage dans le journal — lien en bio.\n\nSource : MAP via Médias24, 31 octobre 2026. Photo : Adam Cli, Tanger Med, 24 septembre 2019 ; ce n’est pas Nador West Med. Recadrage, mise en page et textes ajoutés. Pages sous CC BY-SA 4.0 : https://creativecommons.org/licenses/by-sa/4.0/ ; source photo : https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg . Aucun soutien de l’auteur suggéré.\n#ZoneIndustrielle #NadorWestMed #LogistiqueMaroc #InfrastructuresMaroc",
+      "slides": [
+        {
+          "title": "Nador West Med : où en est chaque étape ?",
+          "body": "Retour sur le lancement des opérations du terminal Est le 31 octobre 2026. Un événement daté, pas une nouvelle annonce.",
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "photo_notice": "ILLUSTRATION · TANGER MED, 2019 · CE N’EST PAS NADOR WEST MED",
+          "credit_short": "Adam Cli · photo de 2019 · CC BY-SA 4.0"
+        },
+        {
+          "title": "Est : démarrage des opérations.",
+          "body": "La dépêche MAP rapporte le premier déchargement d’un conteneur. Le terminal dispose de 1 520 mètres de quai.",
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "photo_notice": "ILLUSTRATION · TANGER MED, 2019 · CE N’EST PAS NADOR WEST MED",
+          "credit_short": "Adam Cli · photo de 2019 · CC BY-SA 4.0"
+        },
+        {
+          "title": "Une capacité à l’horizon 2030.",
+          "body": "3,5 millions de conteneurs annoncés pour le terminal Est en 2030. Le terminal Ouest reste prévu en avril 2027, selon la dépêche.",
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "photo_notice": "ILLUSTRATION · TANGER MED, 2019 · CE N’EST PAS NADOR WEST MED",
+          "credit_short": "Adam Cli · photo de 2019 · CC BY-SA 4.0"
+        },
+        {
+          "title": "Les services ouverts restent à vérifier.",
+          "body": "Notre lecture : pour organiser un flux, confirmer les services et accès auprès des opérateurs. Le journal distingue démarrage et capacités futures.",
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "photo_notice": "ILLUSTRATION · TANGER MED, 2019 · CE N’EST PAS NADOR WEST MED",
+          "credit_short": "Adam Cli · photo de 2019 · CC BY-SA 4.0"
+        }
+      ],
+      "post_key": "zi:zoneindustielle:2026-11-04:04:zi-nador-etapes-20261104",
+      "dedupe_key": "zi:zoneindustielle:2026-11-04:04:zi-nador-etapes-20261104",
+      "status": "ready",
+      "format": "carousel",
+      "editorial": true,
+      "article_url": "https://elboussairimateriaux.com/actualites/nador-west-med-terminal-est-31-octobre-2026/",
+      "cta": "Lire l’article complet — lien en bio",
+      "cta_url": "https://elboussairimateriaux.com/actualites/nador-west-med-terminal-est-31-octobre-2026/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-nador-etapes-20261104",
+      "event_period": "31 octobre 2026 · lancement des opérations du terminal Est",
+      "sources": [
+        {
+          "title": "MAP via Médias24 — Lancement du premier terminal, 31 octobre",
+          "url": "https://medias24.com/2026/10/31/le-prince-heritier-moulay-el-hassan-lance-le-premier-terminal-a-conteneurs-du-port-nador-west-med-1786223/",
+          "date": "2026-10-31"
+        },
+        {
+          "title": "Contexte officiel — Maroc.ma, communiqué du 28 octobre",
+          "url": "https://maroc.ma/fr/actualites/communique-du-cabinet-royal-9",
+          "date": "2026-10-28"
+        }
+      ],
+      "publication_date": "2026-11-01",
+      "published_media_id": null,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "preparation_only": true,
+      "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+      "checked_on": "2026-11-04",
+      "images": [
+        "/assets/instagram/zi-nador-etapes-20261104/01.jpg",
+        "/assets/instagram/zi-nador-etapes-20261104/02.jpg",
+        "/assets/instagram/zi-nador-etapes-20261104/03.jpg",
+        "/assets/instagram/zi-nador-etapes-20261104/04.jpg"
+      ],
+      "photo_provenance": {
+        "type": "real_photograph",
+        "author": "Adam Cli",
+        "source_page": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+        "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PortofTangerMed1.jpg",
+        "license": "CC BY-SA 4.0",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+        "rights_checked_on": "2026-11-04",
+        "geographic_context": "Tanger Med, Maroc, 24 septembre 2019. Illustration portuaire : ne représente pas Nador West Med ni son lancement."
+      },
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "type": "real_photograph",
+          "author": "Adam Cli",
+          "source_page": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PortofTangerMed1.jpg",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-04",
+          "geographic_context": "Tanger Med, Maroc, 24 septembre 2019. Illustration portuaire : ne représente pas Nador West Med ni son lancement."
+        },
+        {
+          "page": 2,
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "type": "real_photograph",
+          "author": "Adam Cli",
+          "source_page": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PortofTangerMed1.jpg",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-04",
+          "geographic_context": "Tanger Med, Maroc, 24 septembre 2019. Illustration portuaire : ne représente pas Nador West Med ni son lancement."
+        },
+        {
+          "page": 3,
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "type": "real_photograph",
+          "author": "Adam Cli",
+          "source_page": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PortofTangerMed1.jpg",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-04",
+          "geographic_context": "Tanger Med, Maroc, 24 septembre 2019. Illustration portuaire : ne représente pas Nador West Med ni son lancement."
+        },
+        {
+          "page": 4,
+          "photo": "/assets/editorial/tanger-med-photo.webp",
+          "type": "real_photograph",
+          "author": "Adam Cli",
+          "source_page": "https://commons.wikimedia.org/wiki/File:PortofTangerMed1.jpg",
+          "original_file": "https://upload.wikimedia.org/wikipedia/commons/a/a0/PortofTangerMed1.jpg",
+          "license": "CC BY-SA 4.0",
+          "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "processing": "Redimensionnement, conversion WebP et retrait des EXIF ; recadrage d’affichage possible. Aucune génération IA.",
+          "rights_checked_on": "2026-11-04",
+          "geographic_context": "Tanger Med, Maroc, 24 septembre 2019. Illustration portuaire : ne représente pas Nador West Med ni son lancement."
+        }
+      ],
+      "destination_check": {
+        "status": "article_verified_in_main_public_access_unconfirmed",
+        "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+        "note": "Les cinq URL ont été tentées le 4 novembre par lecture web, sans accès. Article réel et slug vérifiés dans main ; accès public à reconfirmer avant toute diffusion."
+      },
+      "facts_check": {
+        "checked_on": "2026-11-04",
+        "evidence": "Dépêche MAP intégrale via Médias24 relue : lancement 31 octobre, 1 520 m, 3,5 millions horizon 2030, Ouest prévu avril 2027."
+      },
+      "artwork_license": {
+        "license": "CC BY-SA 4.0",
+        "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "scope": "Pages JPEG de ce carrousel avec recadrage, mise en page et textes ajoutés ; crédits et provenance conservés. Les marques et logos restent des signes distinctifs et ne suggèrent aucun soutien des photographes."
+      },
+      "content_hash": "248cb486c78035be5814d4c47d017b88ad5ff65737662d2a2ba7e90470d8490a",
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/zi-nador-etapes-20261104/01.jpg",
+          "sha256": "5b1c5f6b6ca6ce928e9b879540b152b3c7807b09cdaa6aedf10903719efbabc8"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/zi-nador-etapes-20261104/02.jpg",
+          "sha256": "e28f40323884d71330d625ec127de1f6b9c9a37c57d48ad083f9e18fddcf9fbf"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/zi-nador-etapes-20261104/03.jpg",
+          "sha256": "7d76fa2479ce00127373d6c3ff5adf63a7aff934ec0217f16f732b69b2d90af0"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/zi-nador-etapes-20261104/04.jpg",
+          "sha256": "7d1f3a42f9de5ad00a424634004ec4ca12e419c846b79f2067e845fd668e15c4"
+        }
+      ],
+      "cover_photo_sha256": "683f8001c5a6827dc8afb88ed486f049da7f482b1860115ed069e234cb7ab6d7"
+    },
+    {
+      "id": "zi-ciment-usages-20261104",
+      "article_id": "depf-ciment-troisieme-trimestre-2026",
+      "title": "Ciment : quels usages portent la progression ?",
+      "series": "Marchés · Comparer les usages",
+      "angle": "Comparer les segments infrastructures, béton prêt à l’emploi et bâtiment",
+      "photo": "/assets/depot/stock-ciment-holcim.webp",
+      "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+      "photo_context": "Photographie du ciment au dépôt, date et lieu exact non documentés. Illustration de notre activité ; pas une mesure du marché national ni du stock actuel.",
+      "layout": 1,
+      "source_short": "DEPF · octobre 2026 / La Vie éco-MAP · 26 octobre",
+      "caption": "Le marché du ciment n’évolue pas au même rythme selon les usages.\n\nJanvier–septembre 2026, sur un an : infrastructures +19,5 % ; béton prêt à l’emploi +8,6 % ; bâtiment +0,9 %, selon la DEPF. Ce sont des évolutions de livraisons de ciment, pas des taux d’avancement des chantiers. Lecture d’un bilan d’octobre, sans nouvelle annonce.\n\nLire le détail par usage dans le journal — lien en bio.\n\nSources : DEPF, note n°356 ; La Vie éco/MAP, 26 octobre 2026. Photo d’illustration de notre activité, © El Boussairi Matériaux ; elle ne décrit pas le stock actuel.\n#ZoneIndustrielle #Ciment #BTPMaroc #InfrastructuresMaroc",
+      "slides": [
+        {
+          "title": "Ciment : quels usages progressent ?",
+          "body": "Une autre lecture du bilan d’octobre de la DEPF : comparer les usages sur janvier–septembre 2026, sur un an.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "Infrastructures : +19,5 %.",
+          "body": "Évolution des livraisons de ciment destinées aux infrastructures. Cela ne signifie pas que les chantiers sont avancés de 19,5 %.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "+8,6 % pour le béton prêt à l’emploi.",
+          "body": "Le segment du bâtiment progresse de 0,9 % sur les mêmes neuf mois. Des usages différents ; des rythmes distincts.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        },
+        {
+          "title": "Ce que la comparaison apporte.",
+          "body": "Notre lecture : suivre chaque usage aide à comprendre le marché. Le journal détaille les segments et les sources, sans prévision de stock ni de prix.",
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX",
+          "credit_short": "© El Boussairi Matériaux"
+        }
+      ],
+      "cover_reuse_justification": "Exception explicite : photo réelle EBM de ciment déjà utilisée dans le mémo de commande du 3 novembre. Ici, apport distinct vérifiable sur les segments infrastructures/BPE/bâtiment, et composition différente. Pas de reprise de l’accroche, de l’angle ni de la légende ; aucune nouvelle photo adéquate réutilisable téléchargée.",
+      "post_key": "zi:zoneindustielle:2026-11-04:05:zi-ciment-usages-20261104",
+      "dedupe_key": "zi:zoneindustielle:2026-11-04:05:zi-ciment-usages-20261104",
+      "status": "ready",
+      "format": "carousel",
+      "editorial": true,
+      "article_url": "https://elboussairimateriaux.com/actualites/ciment-bilan-troisieme-trimestre-2026-depf/",
+      "cta": "Lire l’article complet — lien en bio",
+      "cta_url": "https://elboussairimateriaux.com/actualites/ciment-bilan-troisieme-trimestre-2026-depf/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-ciment-usages-20261104",
+      "event_period": "Juillet à septembre 2026 pour le bilan trimestriel ; janvier à septembre 2026 pour le cumul et les segments. Note DEPF n° 356 publiée le 26 octobre 2026.",
+      "sources": [
+        {
+          "title": "DEPF — Note de conjoncture n° 356, octobre 2026, page 32",
+          "url": "https://www.finances.gov.ma/Publication/depf/2026/NC356.pdf",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "Ministère des Finances — date de publication de la note n° 356",
+          "url": "https://www.finances.gov.ma/fr/Pages/index.aspx?id=1507",
+          "date": "2026-10-26"
+        },
+        {
+          "title": "La Vie éco — Électricité et ciment : deux secteurs en croissance, à des rythmes contrastés",
+          "url": "https://www.lavieeco.com/affaires/secteurs/electricite-et-ciment-deux-secteurs-en-croissance-mais-a-des-rythmes-contrastes-en-2026/",
+          "date": "2026-10-26"
+        }
+      ],
+      "publication_date": "2026-11-01",
+      "published_media_id": null,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "preparation_only": true,
+      "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+      "checked_on": "2026-11-04",
+      "images": [
+        "/assets/instagram/zi-ciment-usages-20261104/01.jpg",
+        "/assets/instagram/zi-ciment-usages-20261104/02.jpg",
+        "/assets/instagram/zi-ciment-usages-20261104/03.jpg",
+        "/assets/instagram/zi-ciment-usages-20261104/04.jpg"
+      ],
+      "photo_provenance": {
+        "author": "El Boussairi Matériaux",
+        "source_page": "https://elboussairimateriaux.com/assets/depot/stock-ciment-holcim.webp",
+        "source": "Photographie et identification fournies par le propriétaire du site",
+        "license": "Autorisation du propriétaire pour la communication de sa marque",
+        "license_url": "https://elboussairimateriaux.com/#droits-images",
+        "credit": "© El Boussairi Matériaux",
+        "type": "real_photograph",
+        "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+        "geographic_context": "Photographie du ciment au dépôt, date et lieu exact non documentés. Illustration de notre activité ; pas une mesure du marché national ni du stock actuel.",
+        "rights_checked_on": "2026-11-04"
+      },
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/stock-ciment-holcim.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photographie du ciment au dépôt, date et lieu exact non documentés. Illustration de notre activité ; pas une mesure du marché national ni du stock actuel.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/stock-ciment-holcim.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photographie du ciment au dépôt, date et lieu exact non documentés. Illustration de notre activité ; pas une mesure du marché national ni du stock actuel.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/stock-ciment-holcim.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photographie du ciment au dépôt, date et lieu exact non documentés. Illustration de notre activité ; pas une mesure du marché national ni du stock actuel.",
+          "rights_checked_on": "2026-11-04"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/depot/stock-ciment-holcim.webp",
+          "author": "El Boussairi Matériaux",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/stock-ciment-holcim.webp",
+          "source": "Photographie et identification fournies par le propriétaire du site",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "processing": "Recadrage d’affichage, redimensionnement, composition typographique ; aucun traitement génératif.",
+          "geographic_context": "Photographie du ciment au dépôt, date et lieu exact non documentés. Illustration de notre activité ; pas une mesure du marché national ni du stock actuel.",
+          "rights_checked_on": "2026-11-04"
+        }
+      ],
+      "destination_check": {
+        "status": "article_verified_in_main_public_access_unconfirmed",
+        "source_commit": "61bac82fc8343d8352b88fca98de6a5b0a15527e",
+        "note": "Les cinq URL ont été tentées le 4 novembre par lecture web, sans accès. Article réel et slug vérifiés dans main ; accès public à reconfirmer avant toute diffusion."
+      },
+      "facts_check": {
+        "checked_on": "2026-11-04",
+        "evidence": "Article La Vie éco/MAP relu, paragraphes sectoriels : janvier-septembre 2026, infrastructures +19,5 %, BPE +8,6 %, bâtiment +0,9 %. PDF officiel DEPF temporairement inaccessible aujourd’hui ; dernière lecture primaire consignée au 1er novembre dans le journal."
+      },
+      "distinct_contribution": "Même article DEPF que le 3 novembre, apport distinct : nouveaux chiffres par segment et usage (19,5 %, 8,6 %, 0,9 %), plutôt que comparaison trimestre/cumul. Bilan ancien explicitement daté, aucune nouvelle annonce.",
+      "content_hash": "4ec5720f75c9d6a15701b8995855dd7b48adf747016f77aee7d27133ba0e730e",
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/zi-ciment-usages-20261104/01.jpg",
+          "sha256": "e40be99cbce6189a4f861f8d9294e0b4d0bf3af18da91fee888b7f0d7c721d44"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/zi-ciment-usages-20261104/02.jpg",
+          "sha256": "5b588c8705e83b441598437a926249b55768e01ed4767edde3fc0e19fa805c61"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/zi-ciment-usages-20261104/03.jpg",
+          "sha256": "29bcff854be9e9ff194a223e6425095ea46318005692ed13bd9c4bb65f9281cc"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/zi-ciment-usages-20261104/04.jpg",
+          "sha256": "faf12bcda5f7b10a1756ef925a16adfe8d44ae96e77c89e40f38c6cd92e859e3"
+        }
+      ],
+      "cover_photo_sha256": "fe743f5aab126f765cb9590a8965650a87f81ae1fc2cae206835bd037b3c32ed"
+    }
+  ],
+  "qa": {
+    "dimensions": "1080x1350",
+    "jpeg_count": 20,
+    "no_ai_images": true,
+    "visual_review": "20 pages inspectées sur planche contact le 4 novembre : photos/légendes, hiérarchie, lisibilité, crédits, ordre et absence de débordement vérifiés.",
+    "diffusion_readiness": "Non validée : accessibilité publique des destinations non reconfirmée. Tâche de préparation uniquement.",
+    "source_limit": "DEPF PDF indisponible ce jour ; données par usage recoupées dans La Vie éco/MAP, source primaire antérieure consignée dans le journal."
+  }
+}
