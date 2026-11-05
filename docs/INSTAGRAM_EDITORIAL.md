@@ -234,3 +234,8 @@ Le lot éditorial corrigé de cinq posts est dans `content/instagram-prepared-20
 ## Lot de préparation du 4 novembre 2026
 
 Lire `content/instagram-prepared-2026-11-04.json` et `docs/INSTAGRAM_PREPARATION_2026-11-04.md` avant toute préparation supplémentaire à cette date. Cinq carrousels éditoriaux et vingt JPEG sont prêts ; ne pas recréer cinq posts à chaque passage. Les contrôles et limites de destination, de sources et d’historique sont consignés. Ce lot n’a pas été programmé ni publié. Aucune activation de diffusion récurrente n’est impliquée.
+
+
+## Lot de préparation du 5 novembre 2026
+
+Lire `content/instagram-prepared-2026-11-05.json` et `docs/INSTAGRAM_PREPARATION_2026-11-05.md` avant toute préparation supplémentaire à cette date. Lot partiel : un carrousel éditorial prêt, quatre JPEG ; quatre places restent à compléter faute d’apport suffisamment distinct parmi les articles disponibles. Conserver le contenu préparé ; compléter sans doublons après lecture du dernier main. Aucun contenu programmé ou publié dans cette tâche. Accessibilité publique de l’article non reconfirmée.

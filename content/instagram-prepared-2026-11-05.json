@@ -1,0 +1,219 @@
+{
+  "date": "2026-11-05",
+  "timezone": "Africa/Casablanca",
+  "target_handle": "zoneindustielle",
+  "mode": "preparation_only",
+  "source_commit": "64bc709151277e63f1a0dcc65a1902a320365af4",
+  "target_daily_count": 5,
+  "daily_count": 1,
+  "editorial_count": 1,
+  "commercial_count": 0,
+  "status": "partial",
+  "publication_identifiers_empty": true,
+  "previous_lot": "content/instagram-prepared-2026-11-04.json",
+  "scheduling_register": "content/instagram-scheduled-2026-11-03.json",
+  "history_limits": "Registres du dépôt seulement. Programmation historique du 3 novembre, aucun identifiant public prouvant une publication. Aucun accès de diffusion utilisé.",
+  "posts": [
+    {
+      "id": "zi-emploi-part-effectif-20261105",
+      "post_key": "zi:7828156:2026-11-05:01:emploi-part-effectif",
+      "dedupe_key": "zi:7828156:2026-11-05:01:emploi-part-effectif",
+      "article_id": "hcp-emploi-construction-t3-2026",
+      "article_url": "https://elboussairimateriaux.com/actualites/construction-emploi-troisieme-trimestre-2026-hcp/",
+      "title": "Emploi BTP : une part en hausse, moins de personnes ?",
+      "series": "Comprendre un indicateur",
+      "angle": "Part sectorielle et effectif : expliquer le rôle du dénominateur",
+      "distinct_contribution": "Même article que le 4 novembre, nouvel apport explicite : 12,7 % puis 12,9 % et mécanisme du dénominateur avec baisse globale de 1,6 %. Le carrousel du 4 novembre traitait effectif, variation trimestrielle et méthode EMO/ENE ; il ne donnait ni ces parts ni cette explication.",
+      "status": "ready",
+      "format": "carousel",
+      "editorial": true,
+      "preparation_only": true,
+      "source_commit": "64bc709151277e63f1a0dcc65a1902a320365af4",
+      "checked_on": "2026-11-05",
+      "edition_label": "5 NOVEMBRE 2026",
+      "layout": 1,
+      "source_short": "Source : HCP · note du 3 novembre 2026",
+      "caption": "La construction pèse davantage dans l’emploi… sans compter davantage de personnes.\n\nDu T2 au T3 2026, sa part dans l’emploi contre revenu passe de 12,7 % à 12,9 %, alors que son effectif recule de 0,2 %. L’ensemble des secteurs recule plus fortement (−1,6 %) : le dénominateur diminue aussi. Voilà pourquoi une part en hausse n’est pas une création nette d’emplois.\n\nDécryptage de la note HCP du 3 novembre, pas une nouvelle annonce. Ces variations trimestrielles peuvent intégrer des effets saisonniers ; les résultats EMO ne sont pas directement comparables à l’ancienne ENE.\n\nLire l’explication et les précautions dans le journal — lien en bio.\n\nPhotos : © El Boussairi Matériaux. Illustrations de notre activité, lieu et date exacts non documentés ; elles ne représentent pas l’enquête nationale du HCP.\n#ZoneIndustrielle #BTPMaroc #ConstructionMaroc #Emploi",
+      "cta": "Lire l’article du journal — lien en bio",
+      "cta_url": "https://elboussairimateriaux.com/actualites/construction-emploi-troisieme-trimestre-2026-hcp/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-emploi-part-effectif-20261105",
+      "event_period": "T2 et T3 2026 ; note publiée le 3 novembre 2026",
+      "publication_date": null,
+      "published_media_id": null,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "sources": [
+        {
+          "title": "HCP — Note EMO T3 2026",
+          "url": "https://www.hcp.ma/Situation-du-marche-du-travail-au-Maroc-au-troisieme-trimestre-2026-selon-l-enquete-sur-la-main-d-oeuvre-EMO2026_a4364.html",
+          "date": "2026-11-03"
+        },
+        {
+          "title": "HCP — PDF actuellement lié sur la page officielle, pages imprimées 5, 6 et 14",
+          "url": "https://www.hcp.ma/attachment/2928207/",
+          "date": "2026-11-03"
+        }
+      ],
+      "facts_check": {
+        "checked_on": "2026-11-05",
+        "evidence": "Page officielle et PDF lié relus. Page imprimée 14 : construction 12,7 % au T2, 12,9 % au T3 ; p.6 : baisse construction 3 000 (-0,2 %) ; p.5 : ensemble -173 000 (-1,6 %). Captures des tableaux et texte contrôlées. Nouveau lien PDF 2928207 ; l’ancien 2927551 renvoie 404. Le mécanisme du rapport est une explication éditoriale, pas une nouvelle statistique."
+      },
+      "destination_check": {
+        "status": "article_verified_in_main_public_access_unconfirmed",
+        "source_commit": "64bc709151277e63f1a0dcc65a1902a320365af4",
+        "note": "Article et slug vérifiés dans main ; tentative de lecture publique le 5 novembre échouée. Accessibilité à reconfirmer avant toute diffusion."
+      },
+      "cover_check": {
+        "status": "distinct_in_available_seven_day_registers",
+        "note": "Photo panneaux-muraux-chantier déjà utilisée en page intérieure ; aucune couverture identique dans les lots/file/registres disponibles des 2 au 4 novembre. Historique public complet non accessible."
+      },
+      "slides": [
+        {
+          "title": "Emploi BTP : une part en hausse, moins de personnes ?",
+          "body": "Décryptage des résultats du T3 2026, publiés le 3 novembre. Une part sectorielle et un effectif peuvent évoluer différemment.",
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · LIEU ET DATE NON DOCUMENTÉS",
+          "credit_short": "© El Boussairi Matériaux · hors enquête HCP"
+        },
+        {
+          "title": "12,7 % → 12,9 % du total.",
+          "body": "Part de la construction dans l’emploi contre revenu, du T2 au T3 2026. Pourtant, son effectif recule de 3 000 personnes (−0,2 %).",
+          "photo": "/assets/depot/panneaux-cloisons-interieures.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · LIEU ET DATE NON DOCUMENTÉS",
+          "credit_short": "© El Boussairi Matériaux · hors enquête HCP"
+        },
+        {
+          "title": "La part dépend aussi du total.",
+          "body": "L’emploi contre revenu baisse de 1,6 % tous secteurs confondus. La construction recule moins : son poids relatif augmente. C’est l’explication du rapport entre les deux mesures.",
+          "photo": "/assets/depot/panneaux-muraux-coupe.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · LIEU ET DATE NON DOCUMENTÉS",
+          "credit_short": "© El Boussairi Matériaux · hors enquête HCP"
+        },
+        {
+          "title": "Notre lecture : regarder les deux.",
+          "body": "Une part plus élevée ne prouve pas une hausse de l’effectif. Le journal remet ces indicateurs en contexte ; ils ne mesurent pas les équipes disponibles sur votre chantier.",
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp",
+          "photo_notice": "ILLUSTRATION · NOTRE ACTIVITÉ · LIEU ET DATE NON DOCUMENTÉS",
+          "credit_short": "© El Boussairi Matériaux · hors enquête HCP"
+        }
+      ],
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone ; content/depot.json",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-muraux-chantier.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Lieu et date exacts non documentés. Illustration d’activité ; pas une photographie de l’enquête HCP.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-05"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/depot/panneaux-cloisons-interieures.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone ; content/depot.json",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-cloisons-interieures.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Lieu et date exacts non documentés. Illustration d’activité ; pas une photographie de l’enquête HCP.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-05"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/depot/panneaux-muraux-coupe.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone ; content/depot.json",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-muraux-coupe.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Lieu et date exacts non documentés. Illustration d’activité ; pas une photographie de l’enquête HCP.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-05"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/depot/panneaux-muraux-chantier.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie originale du propriétaire, issue de son travail et de son téléphone ; content/depot.json",
+          "source_page": "https://elboussairimateriaux.com/assets/depot/panneaux-muraux-chantier.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Lieu et date exacts non documentés. Illustration d’activité ; pas une photographie de l’enquête HCP.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-05"
+        }
+      ],
+      "images": [
+        "/assets/instagram/zi-emploi-part-effectif-20261105/01.jpg",
+        "/assets/instagram/zi-emploi-part-effectif-20261105/02.jpg",
+        "/assets/instagram/zi-emploi-part-effectif-20261105/03.jpg",
+        "/assets/instagram/zi-emploi-part-effectif-20261105/04.jpg"
+      ],
+      "content_hash": "13edbd7aec06380f8080c2f1fbac7457d20cac09a5477eea9f9e82458023f8e9",
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/zi-emploi-part-effectif-20261105/01.jpg",
+          "sha256": "60dd88227fcc4a6655c555322c478cee734457123b30e8b9411b1d07bd415468"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/zi-emploi-part-effectif-20261105/02.jpg",
+          "sha256": "82d287d4572cf1d485d195b44ecb76db631d38c4d674dbff1e7ddda2a4a6a05b"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/zi-emploi-part-effectif-20261105/03.jpg",
+          "sha256": "83947df58246fa7f97c20c9db0ff504d225ca8be63a38f926a7f82194d819882"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/zi-emploi-part-effectif-20261105/04.jpg",
+          "sha256": "67f8562cf50595084906a8300c511e6f3594b1a39979d30d377e346df718132a"
+        }
+      ],
+      "cover_photo_sha256": "a5cf735d7b716538ad197af5f405e4d92ef479d0fdbb35da1b6a212fd0b4965d"
+    }
+  ],
+  "unfilled_slots": [
+    {
+      "slot": 2,
+      "status": "needs_distinct_subject",
+      "reason": "Aucun apport suffisamment distinct retenu dans les neuf articles actuels après comparaison aux lots des 3 et 4 novembre. Ne pas créer un doublon pour remplir le quota."
+    },
+    {
+      "slot": 3,
+      "status": "needs_distinct_subject",
+      "reason": "Aucun apport suffisamment distinct retenu dans les neuf articles actuels après comparaison aux lots des 3 et 4 novembre. Ne pas créer un doublon pour remplir le quota."
+    },
+    {
+      "slot": 4,
+      "status": "needs_distinct_subject",
+      "reason": "Aucun apport suffisamment distinct retenu dans les neuf articles actuels après comparaison aux lots des 3 et 4 novembre. Ne pas créer un doublon pour remplir le quota."
+    },
+    {
+      "slot": 5,
+      "status": "needs_distinct_subject",
+      "reason": "Aucun apport suffisamment distinct retenu dans les neuf articles actuels après comparaison aux lots des 3 et 4 novembre. Ne pas créer un doublon pour remplir le quota."
+    }
+  ],
+  "resume_rule": "Relire ce lot et le dernier main avant tout passage. Conserver le post prêt ; compléter uniquement les places restantes si un article réel ou un apport documenté et distinct devient disponible.",
+  "qa": {
+    "jpeg_count": 4,
+    "dimensions": "1080x1350",
+    "no_ai_images": true,
+    "visual_review": "Quatre pages inspectées sur planche contact le 5 novembre : texte lisible, ordre, photo/légende, date, crédit et absence de débordement vérifiés.",
+    "diffusion_readiness": "Non validée : accès public à la destination non reconfirmé."
+  }
+}
