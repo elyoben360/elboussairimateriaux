@@ -19,7 +19,7 @@
       "post_key": "zi:7828156:2026-11-05:01:emploi-part-effectif",
       "dedupe_key": "zi:7828156:2026-11-05:01:emploi-part-effectif",
       "article_id": "hcp-emploi-construction-t3-2026",
-      "article_url": "https://elboussairimateriaux.com/actualites/construction-emploi-troisieme-trimestre-2026-hcp/",
+      "article_url": "https://bananamateriaux.ma/actualites/construction-emploi-troisieme-trimestre-2026-hcp/",
       "title": "Emploi BTP : une part en hausse, moins de personnes ?",
       "series": "Comprendre un indicateur",
       "angle": "Part sectorielle et effectif : expliquer le rôle du dénominateur",
@@ -35,7 +35,7 @@
       "source_short": "Source : HCP · note du 3 novembre 2026",
       "caption": "La construction pèse davantage dans l’emploi… sans compter davantage de personnes.\n\nDu T2 au T3 2026, sa part dans l’emploi contre revenu passe de 12,7 % à 12,9 %, alors que son effectif recule de 0,2 %. L’ensemble des secteurs recule plus fortement (−1,6 %) : le dénominateur diminue aussi. Voilà pourquoi une part en hausse n’est pas une création nette d’emplois.\n\nDécryptage de la note HCP du 3 novembre, pas une nouvelle annonce. Ces variations trimestrielles peuvent intégrer des effets saisonniers ; les résultats EMO ne sont pas directement comparables à l’ancienne ENE.\n\nLire l’explication et les précautions dans le journal — lien en bio.\n\nPhotos : © El Boussairi Matériaux. Illustrations de notre activité, lieu et date exacts non documentés ; elles ne représentent pas l’enquête nationale du HCP.\n#ZoneIndustrielle #BTPMaroc #ConstructionMaroc #Emploi",
       "cta": "Lire l’article du journal — lien en bio",
-      "cta_url": "https://elboussairimateriaux.com/actualites/construction-emploi-troisieme-trimestre-2026-hcp/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-emploi-part-effectif-20261105",
+      "cta_url": "https://bananamateriaux.ma/actualites/construction-emploi-troisieme-trimestre-2026-hcp/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-emploi-part-effectif-20261105",
       "event_period": "T2 et T3 2026 ; note publiée le 3 novembre 2026",
       "publication_date": null,
       "published_media_id": null,
@@ -59,8 +59,8 @@
       },
       "destination_check": {
         "status": "article_verified_in_main_public_access_unconfirmed",
-        "source_commit": "64bc709151277e63f1a0dcc65a1902a320365af4",
-        "note": "Article et slug vérifiés dans main ; tentative de lecture publique le 5 novembre échouée. Accessibilité à reconfirmer avant toute diffusion."
+        "source_commit": "05eb1649203470e89b3f9ec88f167dccd43be299",
+        "note": "URL canonique vérifiée dans le HTML de main le 5 novembre après migration. Ouverture publique non confirmée sur le nouveau domaine."
       },
       "cover_check": {
         "status": "distinct_in_available_seven_day_registers",
@@ -160,27 +160,27 @@
         "/assets/instagram/zi-emploi-part-effectif-20261105/03.jpg",
         "/assets/instagram/zi-emploi-part-effectif-20261105/04.jpg"
       ],
-      "content_hash": "13edbd7aec06380f8080c2f1fbac7457d20cac09a5477eea9f9e82458023f8e9",
+      "content_hash": "ce925bc026536b45e1caf841d744f03e17b008fb4578b5ee322de3aa21c6f5d7",
       "image_hashes": [
         {
           "page": 1,
           "path": "assets/instagram/zi-emploi-part-effectif-20261105/01.jpg",
-          "sha256": "60dd88227fcc4a6655c555322c478cee734457123b30e8b9411b1d07bd415468"
+          "sha256": "02efce8c973b317adc5178e9162c786904f8994240f1abad9aea3372ac5a1605"
         },
         {
           "page": 2,
           "path": "assets/instagram/zi-emploi-part-effectif-20261105/02.jpg",
-          "sha256": "82d287d4572cf1d485d195b44ecb76db631d38c4d674dbff1e7ddda2a4a6a05b"
+          "sha256": "a7377c2f485489c1e47686e74cf14b2bf4a74a6dd682353a4891f899c2b58216"
         },
         {
           "page": 3,
           "path": "assets/instagram/zi-emploi-part-effectif-20261105/03.jpg",
-          "sha256": "83947df58246fa7f97c20c9db0ff504d225ca8be63a38f926a7f82194d819882"
+          "sha256": "6dcaef7d7c4839952a952c2b37f2372277608e1db859ff15e6352923cc85b31f"
         },
         {
           "page": 4,
           "path": "assets/instagram/zi-emploi-part-effectif-20261105/04.jpg",
-          "sha256": "67f8562cf50595084906a8300c511e6f3594b1a39979d30d377e346df718132a"
+          "sha256": "9e3a7e05901c58690d227aa53a7f17e429f620b9747a2a9c43e1dec617f9de0a"
         }
       ],
       "cover_photo_sha256": "a5cf735d7b716538ad197af5f405e4d92ef479d0fdbb35da1b6a212fd0b4965d"
@@ -213,7 +213,7 @@
     "jpeg_count": 4,
     "dimensions": "1080x1350",
     "no_ai_images": true,
-    "visual_review": "Quatre pages inspectées sur planche contact le 5 novembre : texte lisible, ordre, photo/légende, date, crédit et absence de débordement vérifiés.",
-    "diffusion_readiness": "Non validée : accès public à la destination non reconfirmé."
+    "visual_review": "Quatre JPEG revérifiés après mise à jour du pied de page le 5 novembre. Ordre, photos, crédits, lisibilité et empreintes contrôlés.",
+    "diffusion_readiness": "Accès public au nouvel article à confirmer avant diffusion."
   }
 }

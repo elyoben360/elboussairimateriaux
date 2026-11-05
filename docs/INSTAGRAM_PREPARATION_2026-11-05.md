@@ -46,3 +46,7 @@ Ne pas produire quatre variations supplémentaires à partir des mêmes faits po
 Aucun autre apport suffisamment distinct retenu à ce passage. Les places 2 à 5 restent explicitement ouvertes, sans faux statut ready ni visuels de remplissage. Aucun manque de contenu compensé par du commercial.
 
 Au prochain passage, lire ce lot et le dernier main ; conserver ce post et compléter uniquement les places restantes si un article réel ou un apport documenté distinct devient disponible. Ne pas recréer cinq posts et ne pas modifier les lots historiques. Identifiants sociaux vides ; aucune diffusion autorisée dans cette tâche.
+
+## Correction de l’adresse du journal
+
+Le 5 novembre, le carrousel a été réexporté avec `bananamateriaux.ma/actualites/` sur les quatre pages. La destination et le CTA correspondent à la nouvelle adresse canonique de l’article dans `main`. L’ouverture publique sur le nouveau domaine reste à confirmer. Les quatre JPEG et leurs empreintes ont été contrôlés. Le post conserve sa clé de déduplication et ses crédits photographiques.
