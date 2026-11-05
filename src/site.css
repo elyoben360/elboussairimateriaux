@@ -178,3 +178,25 @@ body:not(.zi-page) .hero .btn {
     max-width: 12ch;
   }
 }
+
+/* Shared Banana styling for commercial pages. */
+body:not(.zi-page) :is(h2, h3) {
+  font-family: system-ui, sans-serif;
+  font-weight: 760;
+  letter-spacing: -.035em;
+}
+body:not(.zi-page) .eyebrow { color: #725800; }
+body:not(.zi-page) .hero-content .eyebrow { color: #ffda57; }
+body:not(.zi-page) .featured-products,
+body:not(.zi-page) #transport { background: var(--cream); }
+body:not(.zi-page) .news-ticker {
+  background: #202020;
+  border-top: 2px solid var(--bronze);
+}
+body:not(.zi-page) .ticker-label { color: #ffda57; }
+body:not(.zi-page) .rotation-progress span { background: var(--bronze); }
+body:not(.zi-page) .mobile-request {
+  border-top: 1px solid var(--line);
+  box-shadow: 0 -3px 16px #20202012;
+}
+body:not(.zi-page) .mobile-request .btn :is(span, strong) { color: inherit; }
