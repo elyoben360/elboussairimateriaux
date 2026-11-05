@@ -1,6 +1,6 @@
 """Public product pages and a progressively enhanced photo gallery."""
 import html,json
-BASE='https://elboussairimateriaux.com'
+BASE='https://bananamateriaux.ma'
 def esc(s):return html.escape(str(s),quote=True)
 def photo_markup(p,album=None,index=0):
     data=''

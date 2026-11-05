@@ -86,7 +86,7 @@ def render(post, slide, index):
         else 'ZONE INDUSTRIELLE · ' + post.get('edition_label', '4 NOVEMBRE 2026'), font=font(25, True), fill=ORANGE)
     draw.text((54, 1250), post['source_short'], font=font(21), fill=ink)
     draw.text((54, 1283), 'creativecommons.org/licenses/by-sa/4.0/' if post.get('artwork_license')
-        else 'elboussairimateriaux.com/actualites/', font=font(22), fill=muted)
+        else 'bananamateriaux.ma/actualites/', font=font(22), fill=muted)
     out = ROOT / 'assets/instagram' / post['id'] / f'{index+1:02d}.jpg'
     out.parent.mkdir(parents=True, exist_ok=True)
     im.save(out, quality=89, optimize=True, exif=b'')

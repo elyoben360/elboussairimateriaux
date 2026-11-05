@@ -7,7 +7,7 @@ globalThis.testModerate=moderate;
 const {JournalStore,default:worker}=await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'));
 const db=new DatabaseSync(':memory:');let alarm=null;const storage={sql:{exec(sql,...params){const q=db.prepare(sql);if(q.columns().length)return q.all(...params);q.run(...params);return [];}},getAlarm:async()=>alarm,setAlarm:async t=>{alarm=t},transactionSync:fn=>{db.exec('BEGIN');try{fn();db.exec('COMMIT')}catch(e){db.exec('ROLLBACK');throw e}}};
 const store=new JournalStore({storage},{AI:{run:async()=>({response:'{"decision":"allow"}'})}});
-const origin='https://elboussairimateriaux.com';let sid='';
+const origin='https://bananamateriaux.ma';let sid='';
 async function call(path,body,cookie=sid){return store.fetch(new Request(origin+'/api/zi/'+path,{method:body?'POST':'GET',headers:{'Content-Type':'application/json',Cookie:cookie,'X-ZI-Rate':'TEST-ONLY'},body:body?JSON.stringify(body):undefined}));}
 let r=await call('register',{email:'reader@example.test',name:'Lecteur',password:'TEST-only-password-489372',terms:true});assert.equal(r.status,200);sid=r.headers.get('Set-Cookie').split(';')[0];
 r=await call('me');assert.equal((await r.json()).member.name,'Lecteur');

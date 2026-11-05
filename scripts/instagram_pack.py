@@ -41,7 +41,7 @@ def render(post,slide,i):
     if y>1160:raise ValueError('Text exceeds safe area: '+post['id'])
     d.line((54,1194,1026,1194),fill='#31465e',width=2)
     d.text((56,1220),post.get('footer_cta','ENREGISTREZ CE CONSEIL') if i<3 else post.get('final_cta','LIRE LE JOURNAL · LIEN EN BIO'),font=font(19,True),fill=O)
-    d.text((56,1264),'elboussairimateriaux.com',font=font(18),fill=C)
+    d.text((56,1264),'bananamateriaux.ma',font=font(18),fill=C)
     d.text((946,1258),'→',font=font(38),fill=O)
     path=OUT/post['id']/f'{i+1:02d}.jpg';path.parent.mkdir(exist_ok=True);im.save(path,quality=93,optimize=True,exif=b'')
     return '/assets/instagram/'+post['id']+'/'+path.name

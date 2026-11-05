@@ -13,6 +13,12 @@ async function passwordHash(password,salt){const key=await crypto.subtle.importK
 const equal=(a,b)=>{let x=a.length^b.length;for(let i=0;i<Math.max(a.length,b.length);i++)x|=(a.charCodeAt(i)||0)^(b.charCodeAt(i)||0);return x===0;};
 export default {async fetch(req,env){
   const u=new URL(req.url);
+  if (['elboussairimateriaux.com', 'www.elboussairimateriaux.com'].includes(u.hostname)) {
+    return new Response(null, {
+      status: 404,
+      headers: {'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex'}
+    });
+  }
   if(!u.pathname.startsWith('/api/zi/'))return env.ASSETS.fetch(req);
   try{
     if(u.pathname.startsWith('/api/zi/internal/'))return json({error:'Route introuvable'},404);

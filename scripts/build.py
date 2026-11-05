@@ -7,7 +7,7 @@ from journal import offer,community,privacy
 from product_pages import gallery,featured,product_page,image_schema,photo_markup
 from motion_components import hero,ticker,news_controls,editorial_hero
 ROOT=Path(__file__).resolve().parents[1]
-BASE='https://elboussairimateriaux.com'
+BASE='https://bananamateriaux.ma'
 CATEGORIES=['Ciment et béton','Acier et fer à béton','Briques, agglos et agrégats','Évolution des prix','Nouveaux chantiers','Investissements et infrastructures','Innovations et tendances','Transport de marchandises et logistique']
 def esc(value): return html.escape(str(value),quote=True)
 def read(name): return (ROOT/name).read_text()
