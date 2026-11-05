@@ -2,12 +2,12 @@
 const dictionaries=window.EBM_TRANSLATIONS||{},selector=document.getElementById('site-language'),supported=['fr',...Object.keys(dictionaries)],originals=new WeakMap(),attributes=new WeakMap();let language='fr';
 const flags={fr:'🇫🇷',en:'🇬🇧',ar:'🇲🇦',zh:'🇨🇳',de:'🇩🇪',nl:'🇳🇱',ru:'🇷🇺',pl:'🇵🇱'};
 function compose(key,d){
- if(key.endsWith(' | El Boussairi Matériaux')){const base=key.slice(0,-' | El Boussairi Matériaux'.length);if(d[base])return d[base]+' | El Boussairi Matériaux';}
+ if(key.endsWith(' | Banana Matériaux')){const base=key.slice(0,-' | Banana Matériaux'.length);if(d[base])return d[base]+' | Banana Matériaux';}
  const labelled=[['À lire : ',['Read: ','للقراءة: ','阅读：','Lesen: ','Lezen: ','Читать: ','Czytaj: ']],['Période : ',['Period: ','الفترة: ','时期：','Zeitraum: ','Periode: ','Период: ','Okres: ']],['Agrandir : ',['Enlarge: ','تكبير: ','放大：','Vergrößern: ','Vergroten: ','Увеличить: ','Powiększ: ']]];
  for(const [prefix,labels] of labelled)if(key.startsWith(prefix)){const tail=key.slice(prefix.length),clean=tail.replace(/ ↗$/,'');if(d[clean])return labels[supported.indexOf(language)-1]+d[clean]+(tail.endsWith(' ↗')?' ↗':'');}
  const m=key.match(/^(\d+) (photos? ↗|sources?|galeries · (\d+) photos|articles?)(.*)$/);if(m){const words={en:['photos ↗','sources','galleries · '+m[3]+' photos','articles'],ar:['صور ↗','مصادر','معارض · '+m[3]+' صور','مقالات'],zh:['张照片 ↗','个来源','个图库 · '+m[3]+' 张照片','篇文章'],de:['Fotos ↗','Quellen','Galerien · '+m[3]+' Fotos','Artikel'],nl:['foto’s ↗','bronnen','galerijen · '+m[3]+' foto’s','artikelen'],ru:['фото ↗','источников','галерей · '+m[3]+' фото','статей'],pl:['zdjęć ↗','źródeł','galerii · '+m[3]+' zdjęć','artykułów']};const kind=m[2].startsWith('photo')?0:m[2].startsWith('source')?1:m[3]?2:3;return m[1]+' '+words[language][kind]+m[4];}
  const date=key.match(/^(\d{1,2}) (janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre) (\d{4})$/);if(date){const month=['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'].indexOf(date[2]);return new Intl.DateTimeFormat(language==='zh'?'zh-CN':language,{day:'numeric',month:'long',year:'numeric',timeZone:'UTC'}).format(new Date(Date.UTC(+date[3],month,+date[1])));}
- if(key.startsWith('© El Boussairi Matériaux · ')){let tail=key.slice('© El Boussairi Matériaux · '.length);tail=tail.replace('Livraison au camion-grue',d['Camion-grue']||'Livraison au camion-grue');return '© El Boussairi Matériaux · '+tail;}
+ if(key.startsWith('© Banana Matériaux · ')){let tail=key.slice('© Banana Matériaux · '.length);tail=tail.replace('Livraison au camion-grue',d['Camion-grue']||'Livraison au camion-grue');return '© Banana Matériaux · '+tail;}
  if(key.includes(' · '))return key.split(' · ').map(part=>d[part]||part).join(' · ');
  return key;
 }
