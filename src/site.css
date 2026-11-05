@@ -145,3 +145,36 @@ body:not(.zi-page) .footer-main h4{color:#f4c62f}
 .banana-logo-crop{display:block;position:relative;overflow:hidden;width:210px;aspect-ratio:775/230;background:white}
 .banana-logo-crop img{position:absolute;width:100%;max-width:none;height:auto;left:0;top:0}
 @media(max-width:600px){.banana-logo-crop{width:175px}.logo small{font-size:7px;letter-spacing:.15px}}
+
+/* Banana commercial masthead */
+body:not(.zi-page) .hero-photo {
+  background: #171717;
+}
+body:not(.zi-page) .hero-photo::before {
+  background: linear-gradient(90deg, #161616f5, #161616c9 45%, #16161640);
+}
+body:not(.zi-page) .hero-content h1 {
+  font-family: system-ui, sans-serif;
+  font-weight: 850;
+  letter-spacing: -.055em;
+  line-height: 1;
+}
+body:not(.zi-page) .hero-content .eyebrow,
+body:not(.zi-page) .hero-credit {
+  color: #ffda57;
+}
+body:not(.zi-page) .hero .btn {
+  border-radius: 6px;
+}
+@media (max-width: 720px) {
+  body:not(.zi-page) .hero-photo {
+    padding-block: 38px 28px;
+  }
+  body:not(.zi-page) .hero-photo::before {
+    background: linear-gradient(0deg, #171717ef, #17171792);
+  }
+  body:not(.zi-page) .hero-content h1 {
+    font-size: clamp(36px, 10vw, 56px);
+    max-width: 12ch;
+  }
+}
