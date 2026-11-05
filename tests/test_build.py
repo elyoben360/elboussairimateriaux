@@ -13,7 +13,7 @@ class Links(HTMLParser):
 class BuildTests(unittest.TestCase):
     def test_all_photographs_decode(self):
         from PIL import Image
-        photos=list((ROOT/'assets/references').rglob('*.webp'));self.assertEqual(len(photos),14)
+        photos=list((ROOT/'assets/references').rglob('*.webp'));self.assertEqual(len(photos),34)
         for photo in photos:
             with Image.open(photo) as im:im.verify()
     def test_production_excludes_drafts_and_pending_media(self):
@@ -32,7 +32,7 @@ class BuildTests(unittest.TestCase):
         old=json.loads(re.search(r'const DATA=(.*?);\nconst VEHICLES',original,re.S)[1]);new=json.loads((ROOT/'content/catalogue.json').read_text());self.assertEqual([p for p in old if p['product']!='Polystyrène'],[{k:p[k] for k in ('work','family','product','variants')} for p in new if p['product'] not in ['Panneaux muraux','Pointes','Polystyrène']])
         generated=json.loads(re.search(r'const DATA=(.*?);\nconst VEHICLES',(ROOT/'src/catalogue.js').read_text(),re.S)[1]);self.assertEqual(new,generated)
     def test_footer_and_delivery_scope(self):
-        s=(ROOT/'dist/index.html').read_text();self.assertIn('href="tel:+212602644454"',s);self.assertIn('href="mailto:youssef.materiauxdeconstruction@gmail.com"',s)
+        s=(ROOT/'dist/index.html').read_text();self.assertIn('href="tel:+212602644454"',s);self.assertNotIn('youssef.materiauxdeconstruction@gmail.com',s)
         for forbidden in ['Catalogue indicatif','Sans prix','Dimensions, véhicules et disponibilités à confirmer','Transport seul','location de véhicules']:
             self.assertNotIn(forbidden,s)
     def test_seo_template(self):

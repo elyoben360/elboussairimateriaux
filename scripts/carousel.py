@@ -21,7 +21,7 @@ def render(a,out):
     for i,s in enumerate(a['instagram']['slides'],1):
         im=Image.new('RGB',(1080,1350),'#172f59');d=ImageDraw.Draw(im)
         d.rectangle((760,180,1000,1120),fill='#203d68');d.rectangle((630,600,735,1120),fill='#284572');d.line((80,190,410,190),fill='#ac8754',width=5)
-        d.text((80,65),'EL BOUSSAIRI',font=ImageFont.truetype(SERIF,36),fill='white');d.text((80,112),'MATÉRIAUX',font=ImageFont.truetype(SANS,23),fill='#d7b988')
+        d.text((80,65),'BANANA',font=ImageFont.truetype(SERIF,36),fill='white');d.text((80,112),'MATÉRIAUX',font=ImageFont.truetype(SANS,23),fill='#d7b988')
         d.text((80,235),'LE JOURNAL BTP · MAROC',font=ImageFont.truetype(SANS,23),fill='#d7b988')
         font=ImageFont.truetype(SERIF,66)
         while len(wrap(d,s['title'],font,900))>4:font=ImageFont.truetype(SERIF,font.size-2)

@@ -33,7 +33,7 @@ def render(post,slide,i):
     d.rectangle((0,602,1080,610),fill=O)
     d.rounded_rectangle((52,574,52+int(d.textlength(post['series'].upper(),font=font(17,True)))+36,620),radius=4,fill=O)
     d.text((70,584),post['series'].upper(),font=font(17,True),fill=N)
-    d.text((54,646),post.get('photo_notice','PHOTOGRAPHIE DE NOTRE ACTIVITÉ · © EL BOUSSAIRI MATÉRIAUX'),font=font(13),fill=M)
+    d.text((54,646),post.get('photo_notice','PHOTOGRAPHIE DE NOTRE ACTIVITÉ · © BANANA MATÉRIAUX'),font=font(13),fill=M)
     size=64
     while len(lines(d,slide['title'],font(size,serif=True),968))>3 and size>45:size-=2
     y=text(d,slide['title'],(54,696),968,size,C,serif=True,leading=1.12)
