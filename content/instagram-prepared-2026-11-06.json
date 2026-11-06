@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-06",
+  "timezone": "Africa/Casablanca",
+  "target_handle": "zoneindustielle",
+  "mode": "preparation_only",
+  "source_commit": "4f864be0fbe36e395d09088c83006ffab72d9c80",
+  "target_daily_count": 5,
+  "daily_count": 1,
+  "editorial_count": 1,
+  "commercial_count": 0,
+  "status": "partial",
+  "publication_identifiers_empty": true,
+  "previous_lot": "content/instagram-prepared-2026-11-05.json",
+  "scheduling_register": "content/instagram-scheduled-2026-11-03.json",
+  "history_limits": "Registres du dépôt seulement. Programmation historique du 3 novembre, aucun identifiant public prouvant une publication. Aucun accès de diffusion utilisé.",
+  "posts": [
+    {
+      "id": "zi-nador-desserte-20261106",
+      "post_key": "zi:7828156:2026-11-06:01:nador-desserte",
+      "dedupe_key": "zi:7828156:2026-11-06:01:nador-desserte",
+      "article_id": "nador-west-med-31-octobre-2026",
+      "article_url": "https://bananamateriaux.ma/actualites/nador-west-med-terminal-est-31-octobre-2026/",
+      "title": "Nador West Med : comment le port sera-t-il relié au réseau routier ?",
+      "series": "Repères logistiques",
+      "angle": "Le tracé autoroutier et ses trois sections, avec une vérification pratique avant trajet",
+      "distinct_contribution": "Le lot du 4 novembre traitait le lancement et les capacités des terminaux. Celui-ci décrit le tracé et les trois sections de la desserte autoroutière.",
+      "status": "ready",
+      "format": "carousel",
+      "editorial": true,
+      "preparation_only": true,
+      "source_commit": "4f864be0fbe36e395d09088c83006ffab72d9c80",
+      "checked_on": "2026-11-06",
+      "edition_label": "6 NOVEMBRE 2026",
+      "layout": 0,
+      "source_short": "Source : site du projet autoroutier Guercif–Nador",
+      "caption": "Un terminal peut commencer à fonctionner pendant que les accès terrestres évoluent. Après le lancement des opérations du terminal Est le 31 octobre 2026, voici un repère pour lire la desserte routière.\n\nLe site du projet Guercif–Nador indique 104,2 km de tracé, répartis entre Guercif–Saka (36,5 km), Saka–Driouch (40,5 km) et Driouch–Nador (27,2 km). Pour préparer un trajet, vérifiez les tronçons ouverts et l’accès au terminal à la date du déplacement.\n\nRetrouvez dans le journal le contexte du lancement du terminal Est via le lien en bio.\n\nPhoto d’illustration : transport de bois de coffrage, © El Boussairi Matériaux. Lieu et date non documentés. La photo est extérieure au projet Guercif–Nador.\n#ZoneIndustrielle #NadorWestMed #LogistiqueMaroc",
+      "cta": "Lire le contexte du lancement du terminal Est via le lien en bio",
+      "cta_url": "https://bananamateriaux.ma/actualites/nador-west-med-terminal-est-31-octobre-2026/?utm_source=instagram&utm_medium=organic_social&utm_campaign=zi_202611&utm_content=zi-nador-desserte-20261106",
+      "event_period": "Lancement du terminal le 31 octobre 2026. Repère sur le tracé consulté le 6 novembre.",
+      "publication_date": null,
+      "published_media_id": null,
+      "published_url": null,
+      "scheduled_post_id": null,
+      "sources": [
+        {
+          "title": "Le projet autoroutier Guercif–Nador",
+          "url": "https://www.projetguercif-nador.ma/le-projet"
+        },
+        {
+          "title": "Zone Industrielle — lancement du terminal Est le 31 octobre",
+          "url": "https://bananamateriaux.ma/actualites/nador-west-med-terminal-est-31-octobre-2026/"
+        }
+      ],
+      "facts_check": {
+        "checked_on": "2026-11-06",
+        "evidence": "Tracé et trois longueurs vérifiés sur la page du projet. Aucun statut d’ouverture ni date d’achèvement avancés."
+      },
+      "destination_check": {
+        "status": "article_verified_in_main_public_access_unconfirmed",
+        "source_commit": "4f864be0fbe36e395d09088c83006ffab72d9c80",
+        "note": "URL canonique et article vérifiés dans main. Ouverture publique non confirmée."
+      },
+      "cover_check": {
+        "status": "distinct_in_available_seven_day_registers",
+        "note": "Couverture camion-bois-coffrage distincte des couvertures recensées. Illustration métier."
+      },
+      "slides": [
+        {
+          "title": "Nador West Med : comment le port sera-t-il relié au réseau routier ?",
+          "body": "Le terminal Est a lancé ses opérations le 31 octobre 2026. Le projet de desserte autoroutière suit son propre calendrier.",
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE BOIS DE COFFRAGE",
+          "credit_short": "© El Boussairi Matériaux · hors projet Guercif–Nador"
+        },
+        {
+          "title": "104,2 km de tracé prévu",
+          "body": "Le projet Guercif–Nador doit relier le complexe portuaire au réseau autoroutier national. Le tracé traverse les provinces de Guercif, Driouch et Nador.",
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE BOIS DE COFFRAGE",
+          "credit_short": "© El Boussairi Matériaux · hors projet Guercif–Nador"
+        },
+        {
+          "title": "Un axe, trois tronçons",
+          "body": "Guercif–Saka : 36,5 km. Saka–Driouch : 40,5 km. Driouch–Nador : 27,2 km. Chaque section suit son propre calendrier de travaux.",
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE BOIS DE COFFRAGE",
+          "credit_short": "© El Boussairi Matériaux · hors projet Guercif–Nador"
+        },
+        {
+          "title": "Quel itinéraire retenir pour un trajet ?",
+          "body": "Vérifiez les tronçons effectivement ouverts et l’accès au terminal avant de calculer le temps de parcours. Le journal revient sur le démarrage du terminal Est.",
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "photo_notice": "ILLUSTRATION · TRANSPORT DE BOIS DE COFFRAGE",
+          "credit_short": "© El Boussairi Matériaux · hors projet Guercif–Nador"
+        }
+      ],
+      "photo_records": [
+        {
+          "page": 1,
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie et identification fournies par le propriétaire du site, content/depot.json",
+          "source_page": "https://bananamateriaux.ma/assets/depot/camion-bois-coffrage.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Camion transportant du bois de coffrage. Lieu et date non documentés. Illustration extérieure au projet Guercif–Nador.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-06"
+        },
+        {
+          "page": 2,
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie et identification fournies par le propriétaire du site, content/depot.json",
+          "source_page": "https://bananamateriaux.ma/assets/depot/camion-bois-coffrage.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Camion transportant du bois de coffrage. Lieu et date non documentés. Illustration extérieure au projet Guercif–Nador.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-06"
+        },
+        {
+          "page": 3,
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie et identification fournies par le propriétaire du site, content/depot.json",
+          "source_page": "https://bananamateriaux.ma/assets/depot/camion-bois-coffrage.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Camion transportant du bois de coffrage. Lieu et date non documentés. Illustration extérieure au projet Guercif–Nador.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-06"
+        },
+        {
+          "page": 4,
+          "photo": "/assets/depot/camion-bois-coffrage.webp",
+          "author": "El Boussairi Matériaux",
+          "source": "Photographie et identification fournies par le propriétaire du site, content/depot.json",
+          "source_page": "https://bananamateriaux.ma/assets/depot/camion-bois-coffrage.webp",
+          "license": "Autorisation du propriétaire pour la communication de sa marque",
+          "license_url": "https://elboussairimateriaux.com/#droits-images",
+          "credit": "© El Boussairi Matériaux",
+          "type": "real_photograph",
+          "geographic_context": "Camion transportant du bois de coffrage. Lieu et date non documentés. Illustration extérieure au projet Guercif–Nador.",
+          "processing": "Recadrage, redimensionnement et composition de texte ; aucun traitement génératif.",
+          "rights_checked_on": "2026-11-06"
+        }
+      ],
+      "images": [
+        "/assets/instagram/zi-nador-desserte-20261106/01.jpg",
+        "/assets/instagram/zi-nador-desserte-20261106/02.jpg",
+        "/assets/instagram/zi-nador-desserte-20261106/03.jpg",
+        "/assets/instagram/zi-nador-desserte-20261106/04.jpg"
+      ],
+      "content_hash": "a39feb409b5ff6896bb5894c4e880093dcf0103b73e1cb7a4e1ccc99c76602a4",
+      "image_hashes": [
+        {
+          "page": 1,
+          "path": "assets/instagram/zi-nador-desserte-20261106/01.jpg",
+          "sha256": "8b66ee462c06ca3793548d11e5b067b84e86d0ccbb90a2619a503e0e774213ba"
+        },
+        {
+          "page": 2,
+          "path": "assets/instagram/zi-nador-desserte-20261106/02.jpg",
+          "sha256": "19b719d7f99af5c63c151651bb6648eeb4e45982e615a68b020dfeda00e00bc4"
+        },
+        {
+          "page": 3,
+          "path": "assets/instagram/zi-nador-desserte-20261106/03.jpg",
+          "sha256": "b254c330a071e721494d5715c5646ac184450db0a77a82d1c4bbd0f125c8eab7"
+        },
+        {
+          "page": 4,
+          "path": "assets/instagram/zi-nador-desserte-20261106/04.jpg",
+          "sha256": "f398f480d0533fbfa682ef186c1de8bb0230c7cda99871ef1b7e82173731820b"
+        }
+      ],
+      "cover_photo_sha256": "f107f2785d051e0421bee5a6d31b757fbc3a09e395aa350d30223db6f152ff05"
+    }
+  ],
+  "unfilled_slots": [
+    {
+      "slot": 2,
+      "status": "needs_distinct_subject",
+      "reason": "Pas d’autre sujet suffisamment distinct et rattaché à un article du journal."
+    },
+    {
+      "slot": 3,
+      "status": "needs_distinct_subject",
+      "reason": "Pas d’autre sujet suffisamment distinct et rattaché à un article du journal."
+    },
+    {
+      "slot": 4,
+      "status": "needs_distinct_subject",
+      "reason": "Pas d’autre sujet suffisamment distinct et rattaché à un article du journal."
+    },
+    {
+      "slot": 5,
+      "status": "needs_distinct_subject",
+      "reason": "Pas d’autre sujet suffisamment distinct et rattaché à un article du journal."
+    }
+  ],
+  "resume_rule": "Relire ce lot et le dernier main avant tout passage. Conserver le post prêt ; compléter uniquement les places restantes si un article réel ou un apport documenté et distinct devient disponible.",
+  "qa": {
+    "jpeg_count": 4,
+    "dimensions": "1080x1350",
+    "no_ai_images": true,
+    "visual_review": "Quatre JPEG inspectés sur planche contact. Texte, ordre, crédit, contexte de la photo, dimensions et empreintes contrôlés.",
+    "diffusion_readiness": "Accès public à l’article à confirmer."
+  }
+}
