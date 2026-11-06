@@ -1,8 +1,10 @@
 import {DatabaseSync} from 'node:sqlite';
 import fs from 'node:fs/promises';
 import assert from 'node:assert/strict';
+import * as orderModule from '../server/orders.mjs';
+globalThis.testOrders=orderModule;
 import {moderate,lexicalVerdict} from '../server/moderation.mjs';
-const code=(await fs.readFile(new URL('../server/worker.mjs',import.meta.url),'utf8')).replace("import {DurableObject} from 'cloudflare:workers';",'class DurableObject {constructor(){}}').replace("import articles from './articles.json';",'const articles='+await fs.readFile(new URL('../server/articles.json',import.meta.url),'utf8')+';').replace("import {moderate} from './moderation.mjs';",'const moderate=globalThis.testModerate;');
+const code=(await fs.readFile(new URL('../server/worker.mjs',import.meta.url),'utf8')).replace("import {handleOrders, initOrders, routeOrders} from './orders.mjs';",'const {handleOrders,initOrders,routeOrders}=globalThis.testOrders;').replace("import {DurableObject} from 'cloudflare:workers';",'class DurableObject {constructor(){}}').replace("import articles from './articles.json';",'const articles='+await fs.readFile(new URL('../server/articles.json',import.meta.url),'utf8')+';').replace("import {moderate} from './moderation.mjs';",'const moderate=globalThis.testModerate;');
 globalThis.testModerate=moderate;
 const {JournalStore,default:worker}=await import('data:text/javascript;base64,'+Buffer.from(code).toString('base64'));
 const db=new DatabaseSync(':memory:');let alarm=null;const storage={sql:{exec(sql,...params){const q=db.prepare(sql);if(q.columns().length)return q.all(...params);q.run(...params);return [];}},getAlarm:async()=>alarm,setAlarm:async t=>{alarm=t},transactionSync:fn=>{db.exec('BEGIN');try{fn();db.exec('COMMIT')}catch(e){db.exec('ROLLBACK');throw e}}};
@@ -26,4 +28,17 @@ r=await call('delete-account',{confirm:true});assert.equal(r.status,200);for(con
 assert.equal(lexicalVerdict('un CONNARD !'),'block');assert.equal((await moderate('Bonjour',null)).status,'pending');assert.equal((await moderate('Bonjour',{run:async()=>({response:'I do not know'})})).status,'pending');
 r=await worker.fetch(new Request(origin+'/api/zi/register',{method:'POST',headers:{Origin:'https://evil.test','Content-Type':'application/json'},body:'{}'}),{JOURNAL:{}});assert.equal(r.status,403);
 r=await worker.fetch(new Request(origin+'/api/zi/config'),{});assert.equal((await r.json()).google,false);
+// Domain migration must preserve the new site while keeping the former hosts closed.
+for(const host of ['elboussairimateriaux.com','www.elboussairimateriaux.com']){
+  for(const path of ['/','/actualites/','/api/zi/config']){
+    const closed=await worker.fetch(new Request('https://'+host+path),{});
+    assert.equal(closed.status,404);
+    assert.equal(closed.headers.get('X-Robots-Tag'),'noindex');
+    assert.equal(closed.headers.get('Cache-Control'),'no-store');
+    assert.equal(await closed.text(),'');
+  }
+}
+let assetsRequested=false;
+r=await worker.fetch(new Request(origin+'/'),{ASSETS:{fetch:async()=>{assetsRequested=true;return new Response('new-domain-assets');}}});
+assert.equal(assetsRequested,true);assert.equal(await r.text(),'new-domain-assets');
 console.log('Journal backend: accounts, session, reactions, moderation, privacy, validation and CSRF checks passed.');

@@ -238,3 +238,23 @@ body:not(.zi-page) .mobile-request {
   box-shadow: 0 -3px 16px #20202012;
 }
 body:not(.zi-page) .mobile-request .btn :is(span, strong) { color: inherit; }
+/* Three-step order preparation: contact details remain in memory only. */
+.order-panel { max-width: 940px; margin-inline: auto; }
+.order-progress { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); padding: 0; margin: 0 0 28px; list-style: none; gap: 8px; }
+.order-progress li { border-bottom: 3px solid var(--line); padding: 12px 4px; font-size: 14px; color: #565656; }
+.order-progress [aria-current="step"] { border-color: var(--bronze); color: var(--ink); font-weight: 700; }
+.order-panel fieldset { border: 0; padding: 0; margin: 0; min-width: 0; }
+.order-panel [hidden] { display: none !important; }
+.order-panel legend { font-size: clamp(22px,4vw,30px); font-weight: 700; margin-bottom: 12px; }
+.order-panel .actions { margin-top: 24px; }
+.order-item { display: grid; grid-template-columns: minmax(0,1fr) 150px auto; align-items: center; gap: 16px; padding-block: 18px; }
+.order-item p { margin: 6px 0; color: #565656; overflow-wrap: anywhere; }
+.order-item label { display: grid; gap: 6px; font-size: 13px; }
+.order-item input { width: 100%; min-height: 44px; font-size: 16px; border: 1px solid #999; border-radius: 5px; padding: 8px; }
+.order-item button { min-height: 44px; }
+.order-review { padding: 12px 18px; border-left: 3px solid var(--bronze); background: var(--cream); overflow-wrap: anywhere; }
+.order-panel :focus-visible { outline: 3px solid #9a6a00; outline-offset: 4px; }
+.order-panel .btn:disabled { opacity: .6; cursor: wait; }
+#order-status:not(:empty) { padding: 12px; background: #fff3cb; color: #202020; }
+@media(max-width:600px) { .order-item { grid-template-columns: minmax(0,1fr) auto; }.order-item>div { grid-column: 1/-1; }.order-progress li { font-size: 12px; }.order-panel .actions .btn { flex-basis: 100%; } }
+@media(prefers-reduced-motion:no-preference) { .order-panel .btn { transition: background-color .15s, box-shadow .15s; }.order-panel .btn:hover { box-shadow: 0 3px 10px #20202020; } }

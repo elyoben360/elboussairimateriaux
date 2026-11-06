@@ -6,15 +6,18 @@
     "variants": [
       {
         "name": "Agglo béton",
-        "dimension": "10 × 20 × 50 cm"
+        "dimension": "10 × 20 × 50 cm",
+        "id": "agglos-beton-v01"
       },
       {
         "name": "Agglo béton",
-        "dimension": "15 × 20 × 50 cm"
+        "dimension": "15 × 20 × 50 cm",
+        "id": "agglos-beton-v02"
       },
       {
         "name": "Agglo béton",
-        "dimension": "20 × 20 × 50 cm"
+        "dimension": "20 × 20 × 50 cm",
+        "id": "agglos-beton-v03"
       }
     ],
     "slug": "agglos-beton"
@@ -26,11 +29,13 @@
     "variants": [
       {
         "name": "Brique rouge B10",
-        "dimension": "7 × 20 × 25 cm"
+        "dimension": "7 × 20 × 25 cm",
+        "id": "briques-rouges-v01"
       },
       {
         "name": "Brique rouge B10",
-        "dimension": "Dimensions à confirmer"
+        "dimension": "Dimensions à confirmer",
+        "id": "briques-rouges-v02"
       }
     ],
     "slug": "briques-rouges"
@@ -42,15 +47,18 @@
     "variants": [
       {
         "name": "Hourdis béton",
-        "dimension": "12 × 20 × 52 cm"
+        "dimension": "12 × 20 × 52 cm",
+        "id": "hourdis-beton-v01"
       },
       {
         "name": "Hourdis béton",
-        "dimension": "16 × 20 × 52 cm"
+        "dimension": "16 × 20 × 52 cm",
+        "id": "hourdis-beton-v02"
       },
       {
         "name": "Hourdis béton",
-        "dimension": "20 × 20 × 52 cm"
+        "dimension": "20 × 20 × 52 cm",
+        "id": "hourdis-beton-v03"
       }
     ],
     "slug": "hourdis-beton"
@@ -63,15 +71,18 @@
     "variants": [
       {
         "name": "Panneau mural",
-        "dimension": "7 cm"
+        "dimension": "7 cm",
+        "id": "panneaux-muraux-v01"
       },
       {
         "name": "Panneau mural",
-        "dimension": "10 cm"
+        "dimension": "10 cm",
+        "id": "panneaux-muraux-v02"
       },
       {
         "name": "Panneau mural",
-        "dimension": "15 cm"
+        "dimension": "15 cm",
+        "id": "panneaux-muraux-v03"
       }
     ],
     "facts": [
@@ -91,11 +102,13 @@
     "variants": [
       {
         "name": "Ciment CPJ 35",
-        "dimension": "Conditionnement à préciser"
+        "dimension": "Conditionnement à préciser",
+        "id": "ciments-v01"
       },
       {
         "name": "Ciment CPJ 45",
-        "dimension": "Conditionnement à préciser"
+        "dimension": "Conditionnement à préciser",
+        "id": "ciments-v02"
       }
     ],
     "slug": "ciments",
@@ -112,31 +125,38 @@
     "variants": [
       {
         "name": "Fer à béton HLE",
-        "dimension": "Ø 6 mm"
+        "dimension": "Ø 6 mm",
+        "id": "fer-a-beton-v01"
       },
       {
         "name": "Fer à béton HLE",
-        "dimension": "Ø 8 mm"
+        "dimension": "Ø 8 mm",
+        "id": "fer-a-beton-v02"
       },
       {
         "name": "Fer à béton HLE",
-        "dimension": "Ø 10 mm"
+        "dimension": "Ø 10 mm",
+        "id": "fer-a-beton-v03"
       },
       {
         "name": "Fer à béton HLE",
-        "dimension": "Ø 12 mm"
+        "dimension": "Ø 12 mm",
+        "id": "fer-a-beton-v04"
       },
       {
         "name": "Fer à béton HLE",
-        "dimension": "Ø 14 mm"
+        "dimension": "Ø 14 mm",
+        "id": "fer-a-beton-v05"
       },
       {
         "name": "Fer à béton HLE",
-        "dimension": "Ø 16 mm"
+        "dimension": "Ø 16 mm",
+        "id": "fer-a-beton-v06"
       },
       {
         "name": "Fer à béton HLE",
-        "dimension": "Ø 20 mm"
+        "dimension": "Ø 20 mm",
+        "id": "fer-a-beton-v07"
       }
     ],
     "slug": "fer-a-beton",
@@ -155,11 +175,13 @@
     "variants": [
       {
         "name": "Treillis soudé",
-        "dimension": "3,5 × 3,5 / 20 × 30 / 600 × 220 DF"
+        "dimension": "3,5 × 3,5 / 20 × 30 / 600 × 220 DF",
+        "id": "treillis-soudes-v01"
       },
       {
         "name": "Treillis soudé",
-        "dimension": "5 × 3,5 / 20 × 20 / 600 × 220 DF"
+        "dimension": "5 × 3,5 / 20 × 20 / 600 × 220 DF",
+        "id": "treillis-soudes-v02"
       }
     ],
     "slug": "treillis-soudes",
@@ -176,19 +198,23 @@
     "variants": [
       {
         "name": "Pointes",
-        "dimension": "16 × 60"
+        "dimension": "16 × 60",
+        "id": "accessoires-armatures-v01"
       },
       {
         "name": "Pointes",
-        "dimension": "18 × 80"
+        "dimension": "18 × 80",
+        "id": "accessoires-armatures-v02"
       },
       {
         "name": "Pointes",
-        "dimension": "20 × 100"
+        "dimension": "20 × 100",
+        "id": "accessoires-armatures-v03"
       },
       {
         "name": "Fil recuit JP",
-        "dimension": "8"
+        "dimension": "8",
+        "id": "accessoires-armatures-v04"
       }
     ],
     "slug": "accessoires-armatures"
@@ -200,11 +226,13 @@
     "variants": [
       {
         "name": "Élément PE",
-        "dimension": "16 B.080 R.070 Z.040 LG1"
+        "dimension": "16 B.080 R.070 Z.040 LG1",
+        "id": "elements-pe-v01"
       },
       {
         "name": "Élément PE",
-        "dimension": "20 B.120 R.070 Z.045 LG1"
+        "dimension": "20 B.120 R.070 Z.045 LG1",
+        "id": "elements-pe-v02"
       }
     ],
     "slug": "elements-pe"
@@ -216,27 +244,33 @@
     "variants": [
       {
         "name": "Poutrelle précontrainte",
-        "dimension": "112 PS"
+        "dimension": "112 PS",
+        "id": "poutrelles-precontraintes-v01"
       },
       {
         "name": "Poutrelle précontrainte",
-        "dimension": "113 PS"
+        "dimension": "113 PS",
+        "id": "poutrelles-precontraintes-v02"
       },
       {
         "name": "Poutrelle précontrainte",
-        "dimension": "114 PS"
+        "dimension": "114 PS",
+        "id": "poutrelles-precontraintes-v03"
       },
       {
         "name": "Poutrelle précontrainte",
-        "dimension": "115 PS"
+        "dimension": "115 PS",
+        "id": "poutrelles-precontraintes-v04"
       },
       {
         "name": "Poutrelle précontrainte",
-        "dimension": "134 PS"
+        "dimension": "134 PS",
+        "id": "poutrelles-precontraintes-v05"
       },
       {
         "name": "Poutrelle précontrainte",
-        "dimension": "156 PS"
+        "dimension": "156 PS",
+        "id": "poutrelles-precontraintes-v06"
       }
     ],
     "slug": "poutrelles-precontraintes"
@@ -248,11 +282,13 @@
     "variants": [
       {
         "name": "Madrier",
-        "dimension": "MAD 300"
+        "dimension": "MAD 300",
+        "id": "madriers-v01"
       },
       {
         "name": "Madrier",
-        "dimension": "MAD 400"
+        "dimension": "MAD 400",
+        "id": "madriers-v02"
       }
     ],
     "slug": "madriers",
@@ -272,31 +308,38 @@
     "variants": [
       {
         "name": "Sable",
-        "dimension": "Sable de mer / sable lavé / sable concassé — type à préciser"
+        "dimension": "Sable de mer / sable lavé / sable concassé — type à préciser",
+        "id": "agregats-v01"
       },
       {
         "name": "Gravier",
-        "dimension": "G1 / G2 — calibre à préciser"
+        "dimension": "G1 / G2 — calibre à préciser",
+        "id": "agregats-v02"
       },
       {
         "name": "Gravette",
-        "dimension": "4/10 · 10/14 · 10/20 — calibre à préciser"
+        "dimension": "4/10 · 10/14 · 10/20 — calibre à préciser",
+        "id": "agregats-v03"
       },
       {
         "name": "Tout-venant",
-        "dimension": "GNA · GNF · GNT · CDF — classe à préciser"
+        "dimension": "GNA · GNF · GNT · CDF — classe à préciser",
+        "id": "agregats-v04"
       },
       {
         "name": "Stérile",
-        "dimension": "Granulométrie à préciser"
+        "dimension": "Granulométrie à préciser",
+        "id": "agregats-v05"
       },
       {
         "name": "Grave / matériaux de remblai",
-        "dimension": "Nature et granulométrie à préciser"
+        "dimension": "Nature et granulométrie à préciser",
+        "id": "agregats-v06"
       },
       {
         "name": "Autre agrégat",
-        "dimension": "Référence ou granulométrie libre"
+        "dimension": "Référence ou granulométrie libre",
+        "id": "agregats-v07"
       }
     ],
     "slug": "agregats",
@@ -309,11 +352,13 @@
     "variants": [
       {
         "name": "Ciment-colle",
-        "dimension": "TRADICEM · sac 25 kg"
+        "dimension": "TRADICEM · sac 25 kg",
+        "id": "ciments-colles-v01"
       },
       {
         "name": "Ciment-colle",
-        "dimension": "Webercol Classic blanc · sac"
+        "dimension": "Webercol Classic blanc · sac",
+        "id": "ciments-colles-v02"
       }
     ],
     "slug": "ciments-colles",
@@ -330,23 +375,28 @@
     "variants": [
       {
         "name": "Bitu Flex VV",
-        "dimension": "2 mm F/F"
+        "dimension": "2 mm F/F",
+        "id": "membranes-bitumineuses-v01"
       },
       {
         "name": "Bitu Flex VV",
-        "dimension": "3 mm F/F"
+        "dimension": "3 mm F/F",
+        "id": "membranes-bitumineuses-v02"
       },
       {
         "name": "Bitu Flex VV",
-        "dimension": "4 mm F/F"
+        "dimension": "4 mm F/F",
+        "id": "membranes-bitumineuses-v03"
       },
       {
         "name": "Sopralène Flam 180",
-        "dimension": "10 × 1 m"
+        "dimension": "10 × 1 m",
+        "id": "membranes-bitumineuses-v04"
       },
       {
         "name": "Sopralène Flam Jardin Cap",
-        "dimension": "8 × 1 m"
+        "dimension": "8 × 1 m",
+        "id": "membranes-bitumineuses-v05"
       }
     ],
     "slug": "membranes-bitumineuses",
@@ -363,7 +413,8 @@
     "variants": [
       {
         "name": "Emufal Solid",
-        "dimension": "25 kg"
+        "dimension": "25 kg",
+        "id": "produits-detancheite-v01"
       }
     ],
     "slug": "produits-detancheite"
@@ -375,11 +426,13 @@
     "variants": [
       {
         "name": "Polystyrène en sac de 0,5 m³",
-        "dimension": "2 cm"
+        "dimension": "2 cm",
+        "id": "polystyrene-v01"
       },
       {
         "name": "Polystyrène en sac de 0,5 m³",
-        "dimension": "4 cm"
+        "dimension": "4 cm",
+        "id": "polystyrene-v02"
       }
     ],
     "slug": "polystyrene",
@@ -400,7 +453,8 @@
     "variants": [
       {
         "name": "Film polyéthylène",
-        "dimension": "Épaisseur à préciser"
+        "dimension": "Épaisseur à préciser",
+        "id": "films-de-protection-v01"
       }
     ],
     "slug": "films-de-protection",
@@ -417,11 +471,13 @@
     "variants": [
       {
         "name": "Grillage triple torsion",
-        "dimension": "25"
+        "dimension": "25",
+        "id": "accessoires-de-finition-v01"
       },
       {
         "name": "Baguette d’angle",
-        "dimension": "Dimension à préciser"
+        "dimension": "Dimension à préciser",
+        "id": "accessoires-de-finition-v02"
       }
     ],
     "slug": "accessoires-de-finition"
@@ -434,11 +490,13 @@
     "variants": [
       {
         "name": "Pointe JP08",
-        "dimension": "JP08"
+        "dimension": "JP08",
+        "id": "pointes-v01"
       },
       {
         "name": "Pointe JP10",
-        "dimension": "JP10"
+        "dimension": "JP10",
+        "id": "pointes-v02"
       }
     ],
     "image": "/assets/depot/palette-sacs-depot-560.webp"

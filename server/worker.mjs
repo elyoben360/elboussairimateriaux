@@ -1,6 +1,7 @@
 import {DurableObject} from 'cloudflare:workers';
 import articles from './articles.json';
 import {moderate} from './moderation.mjs';
+import {handleOrders, initOrders, routeOrders} from './orders.mjs';
 const enc=new TextEncoder();const now=()=>Date.now();const day=86400000;
 const json=(v,status=200,headers={})=>Response.json(v,{status,headers:{'Cache-Control':'no-store','X-Content-Type-Options':'nosniff',...headers}});
 const clean=(v,n=100)=>typeof v==='string'?v.trim().slice(0,n):'';
@@ -19,6 +20,7 @@ export default {async fetch(req,env){
       headers: {'Cache-Control': 'no-store', 'X-Robots-Tag': 'noindex'}
     });
   }
+  if(u.pathname==='/api/orders'||u.pathname.startsWith('/api/orders/'))return handleOrders(req,env);
   if(!u.pathname.startsWith('/api/zi/'))return env.ASSETS.fetch(req);
   try{
     if(u.pathname.startsWith('/api/zi/internal/'))return json({error:'Route introuvable'},404);
@@ -49,6 +51,7 @@ export default {async fetch(req,env){
 }};
 export class JournalStore extends DurableObject {
   constructor(ctx,env){super(ctx,env);this.ctx=ctx;this.env=env;this.sql=ctx.storage.sql;
+    initOrders(this.sql);
     this.sql.exec(`CREATE TABLE IF NOT EXISTS members(id TEXT PRIMARY KEY,email TEXT UNIQUE,name TEXT NOT NULL,salt TEXT,password TEXT,google_sub TEXT UNIQUE,profile TEXT NOT NULL,marketing INTEGER DEFAULT 0,created INTEGER NOT NULL)`);
     this.sql.exec(`CREATE TABLE IF NOT EXISTS sessions(hash TEXT PRIMARY KEY,member TEXT NOT NULL,expires INTEGER NOT NULL)`);
     this.sql.exec(`CREATE TABLE IF NOT EXISTS comments(id TEXT PRIMARY KEY,article TEXT NOT NULL,member TEXT NOT NULL,body TEXT NOT NULL,status TEXT NOT NULL,reason TEXT,created INTEGER NOT NULL)`);
@@ -64,6 +67,7 @@ export class JournalStore extends DurableObject {
   profile(u){return {name:u.name,email:u.email,profile:JSON.parse(u.profile),marketing:!!u.marketing,google:!!u.google_sub};}
   async fetch(req){try{return await this.route(req);}catch(e){return json({error:e.status?e.message:'Service temporairement indisponible'},e.status||503);}}
   async route(req){
+    if(new URL(req.url).pathname==='/api/orders'||new URL(req.url).pathname.startsWith('/api/orders/'))return routeOrders(req,this);
     const u=new URL(req.url),path=u.pathname.replace('/api/zi','');
     if(req.method==='POST')await this.rate('request:'+req.headers.get('X-ZI-Rate'),100,3600000);
     const raw=req.method==='POST'?await req.text():'';if(raw.length>12000)fail('Requête trop longue',413);let b={};try{b=raw?JSON.parse(raw):{};}catch{fail('JSON invalide');}
